@@ -66,11 +66,7 @@ which might not be similar to sentences that are written for modern structures.
 
 Additionally, if we train the spaCy model with new data, the spaCy model is likely to experience **catastrophic forgetting**.
 With the use of training data from last task, I'm able to rehearse the model so that it can still perform well on the entities that it learned to recognize from the training in last round.
-### Time Spent
-I spent roughly three hours for the task 1 and 2. 
-I spent the rest of time when I'm off work researching the way to collect quality data to for task 3. 
-There are more potential improvements I could make for the project in terms of organizing the repository better,
-experimenting more training configuration and designing better data extracting pipeline.
+
 ## Installation
 
 Install the required packages with pip:
