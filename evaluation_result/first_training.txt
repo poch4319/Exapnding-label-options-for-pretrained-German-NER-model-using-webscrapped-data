@@ -1,0 +1,11 @@
+Precision: 0.77, Recall: 0.8, F1: 0.78
+DAT: Precision: 0.6, Recall: 0.6, F1: 0.6
+DOC: Precision: 0.0, Recall: 0.0, F1: 0.0
+EVN: Precision: 0.0, Recall: 0.0, F1: 0.0
+LOC: Precision: 0.91, Recall: 0.94, F1: 0.92
+NAT: Precision: 0.6, Recall: 0.75, F1: 0.67
+ORG: Precision: 0.72, Recall: 0.82, F1: 0.77
+PER: Precision: 0.9, Recall: 1.0, F1: 0.95
+PRD: Precision: 0.62, Recall: 0.67, F1: 0.64
+PRF: Precision: 0.74, Recall: 0.74, F1: 0.74
+TIM: Precision: 0.83, Recall: 0.83, F1: 0.83

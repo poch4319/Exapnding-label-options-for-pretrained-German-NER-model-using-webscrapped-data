@@ -1,0 +1,29 @@
+Result for new test data:
+Precision: 0.54, Recall: 0.46, F1: 0.5
+DAT: Precision: 0.33, Recall: 0.67, F1: 0.44
+EVN: Precision: 0.0, Recall: 0.0, F1: 0.0
+GEO: Precision: 0.44, Recall: 0.19, F1: 0.26
+GPE: Precision: 0.73, Recall: 0.75, F1: 0.74
+LOC: Precision: 0.0, Recall: 0.0, F1: 0.0
+NAT: Precision: 0.67, Recall: 0.67, F1: 0.67
+ORG: Precision: 0.37, Recall: 0.48, F1: 0.42
+PER: Precision: 0.62, Recall: 0.59, F1: 0.6
+PRD: Precision: 0.14, Recall: 0.09, F1: 0.11
+PRF: Precision: 0.71, Recall: 0.45, F1: 0.56
+STRL: Precision: 0.64, Recall: 0.29, F1: 0.4
+
+Result for new and old test data combined:
+Precision: 0.6, Recall: 0.5, F1: 0.54
+DAT: Precision: 0.21, Recall: 0.36, F1: 0.27
+DOC: Precision: 0.0, Recall: 0.0, F1: 0.0
+EVN: Precision: 0.0, Recall: 0.0, F1: 0.0
+GEO: Precision: 0.44, Recall: 0.19, F1: 0.26
+GPE: Precision: 0.72, Recall: 0.75, F1: 0.73
+LOC: Precision: 0.82, Recall: 0.29, F1: 0.43
+NAT: Precision: 0.61, Recall: 0.69, F1: 0.65
+ORG: Precision: 0.51, Recall: 0.61, F1: 0.56
+PER: Precision: 0.79, Recall: 0.76, F1: 0.78
+PRD: Precision: 0.4, Recall: 0.26, F1: 0.32
+PRF: Precision: 0.76, Recall: 0.56, F1: 0.64
+STRL: Precision: 0.64, Recall: 0.29, F1: 0.4
+TIM: Precision: 1.0, Recall: 0.17, F1: 0.29

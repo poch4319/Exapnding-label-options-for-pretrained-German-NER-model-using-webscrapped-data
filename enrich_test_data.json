@@ -1,0 +1,1998 @@
+[
+    {
+        "data": "Am nächsten Tag bombardierte die deutsche Luftwaffe Belgrad mit verheerenden Verlusten für die Zivilbevölkerung, obwohl die Hauptstadt zur offenen Stadt erklärt worden war, also nicht verteidigt wurde.",
+        "annotations": [
+            {
+                "start": 33,
+                "end": 41,
+                "text": "deutsche",
+                "labels": [
+                    "NAT"
+                ]
+            },
+            {
+                "start": 52,
+                "end": 59,
+                "text": "Belgrad",
+                "labels": [
+                    "GPE"
+                ]
+            }
+        ]
+    },
+    {
+        "data": "Am 15. März 1864 eroberten preußische Truppen Fehmarn, wobei zwei dänische und ein preußischer Soldat getötet wurden.",
+        "annotations": [
+            {
+                "start": 27,
+                "end": 37,
+                "text": "preußische",
+                "labels": [
+                    "NAT"
+                ]
+            },
+            {
+                "start": 46,
+                "end": 53,
+                "text": "Fehmarn",
+                "labels": [
+                    "GEO"
+                ]
+            },
+            {
+                "start": 66,
+                "end": 74,
+                "text": "dänische",
+                "labels": [
+                    "NAT"
+                ]
+            },
+            {
+                "start": 83,
+                "end": 94,
+                "text": "preußischer",
+                "labels": [
+                    "NAT"
+                ]
+            }
+        ]
+    },
+    {
+        "data": "Höchster Gipfel ist mit 2277 m ü. A. der namensgebende Hochschwab.",
+        "annotations": [
+            {
+                "start": 55,
+                "end": 65,
+                "text": "Hochschwab",
+                "labels": [
+                    "GEO"
+                ]
+            }
+        ]
+    },
+    {
+        "data": "Calciumcarbonat (fachsprachlich), Kalziumkarbonat oder in deutscher Trivialbezeichnung kohlensaurer Kalk, ist eine chemische Verbindung der Elemente Calcium, Kohlenstoff und Sauerstoff mit der chemischen Formel CaCO3.",
+        "annotations": [
+            {
+                "start": 34,
+                "end": 49,
+                "text": "Kalziumkarbonat",
+                "labels": [
+                    "GEO"
+                ]
+            },
+            {
+                "start": 58,
+                "end": 67,
+                "text": "deutscher",
+                "labels": [
+                    "NAT"
+                ]
+            }
+        ]
+    },
+    {
+        "data": "Im Maltesischen wird Valletta umgangssprachlich auch als il-Belt bezeichnet, was ganz einfach die Stadt bedeutet.",
+        "annotations": [
+            {
+                "start": 21,
+                "end": 29,
+                "text": "Valletta",
+                "labels": [
+                    "GPE"
+                ]
+            }
+        ]
+    },
+    {
+        "data": "Die Stadt Osaka beheimatet die Orix Buffaloes, eine Baseballmannschaft der Pacific League, die ihre Heimspiele im Osaka Dome austrägt, sowie eine Mannschaft der japanischen Profi-Fußballliga, nämlich Cerezo Osaka.",
+        "annotations": [
+            {
+                "start": 10,
+                "end": 15,
+                "text": "Osaka",
+                "labels": [
+                    "GPE"
+                ]
+            },
+            {
+                "start": 31,
+                "end": 45,
+                "text": "Orix Buffaloes",
+                "labels": [
+                    "ORG"
+                ]
+            },
+            {
+                "start": 75,
+                "end": 89,
+                "text": "Pacific League",
+                "labels": [
+                    "EVN"
+                ]
+            },
+            {
+                "start": 114,
+                "end": 119,
+                "text": "Osaka",
+                "labels": [
+                    "GPE"
+                ]
+            },
+            {
+                "start": 161,
+                "end": 172,
+                "text": "japanischen",
+                "labels": [
+                    "NAT"
+                ]
+            },
+            {
+                "start": 200,
+                "end": 206,
+                "text": "Cerezo",
+                "labels": [
+                    "PER"
+                ]
+            },
+            {
+                "start": 207,
+                "end": 212,
+                "text": "Osaka",
+                "labels": [
+                    "GPE"
+                ]
+            }
+        ]
+    },
+    {
+        "data": "Costa Rica hat den geringsten Anteil rein indigener Bevölkerung unter den mittelamerikanischen Staaten.",
+        "annotations": [
+            {
+                "start": 0,
+                "end": 10,
+                "text": "Costa Rica",
+                "labels": [
+                    "GPE"
+                ]
+            }
+        ]
+    },
+    {
+        "data": "Mit 180 Hektar Wald hat Amrum den größten Waldanteil aller Nordseeinseln.",
+        "annotations": [
+            {
+                "start": 24,
+                "end": 29,
+                "text": "Amrum",
+                "labels": [
+                    "GEO"
+                ]
+            }
+        ]
+    },
+    {
+        "data": "Östlich von Libreville liegen die Monts de Cristal (Kristallberge), im Süden das Mündungstiefland des Ogooué.",
+        "annotations": [
+            {
+                "start": 12,
+                "end": 22,
+                "text": "Libreville",
+                "labels": [
+                    "GPE"
+                ]
+            }
+        ]
+    },
+    {
+        "data": "Daneben hat sich, vor allem durch indische und nepalische Immigranten, auch der Hinduismus (27 %) in Bhutan etabliert.",
+        "annotations": [
+            {
+                "start": 34,
+                "end": 42,
+                "text": "indische",
+                "labels": [
+                    "NAT"
+                ]
+            },
+            {
+                "start": 101,
+                "end": 107,
+                "text": "Bhutan",
+                "labels": [
+                    "GPE"
+                ]
+            }
+        ]
+    },
+    {
+        "data": "Politische Differenzen zwischen den beiden Entitäten von Bosnien und Herzegowina, u. a. über die Nummernvergabe, verhindern eine Einigung.",
+        "annotations": [
+            {
+                "start": 57,
+                "end": 80,
+                "text": "Bosnien und Herzegowina",
+                "labels": [
+                    "GPE"
+                ]
+            }
+        ]
+    },
+    {
+        "data": "1869 scheiterte zwar ein Versuch, nach dem Vorbild der zeitgleich gebildeten Fantiföderation eine Accra Native Confederation als ersten Schritt zur Selbstverwaltung der Region einzurichten;",
+        "annotations": [
+            {
+                "start": 98,
+                "end": 103,
+                "text": "Accra",
+                "labels": [
+                    "GPE"
+                ]
+            }
+        ]
+    },
+    {
+        "data": "Die Historische Mühle von Sanssouci ist die Rekonstruktion einer 1787 bis 1791 unter Friedrich Wilhelm II. erbauten Holländerwindmühle vom Typ Galerieholländer.",
+        "annotations": [
+            {
+                "start": 4,
+                "end": 35,
+                "text": "Historische Mühle von Sanssouci",
+                "labels": [
+                    "STRL"
+                ]
+            },
+            {
+                "start": 85,
+                "end": 106,
+                "text": "Friedrich Wilhelm II.",
+                "labels": [
+                    "PER"
+                ]
+            }
+        ]
+    },
+    {
+        "data": "Vatikan steht für:",
+        "annotations": [
+            {
+                "start": 0,
+                "end": 7,
+                "text": "Vatikan",
+                "labels": [
+                    "GPE"
+                ]
+            }
+        ]
+    },
+    {
+        "data": "Podolien (ukrainisch",
+        "annotations": [
+            {
+                "start": 0,
+                "end": 8,
+                "text": "Podolien",
+                "labels": [
+                    "GEO"
+                ]
+            }
+        ]
+    },
+    {
+        "data": "Die Verringerung des Nennmaßes auf 1520 mm wurde in Finnland offiziell nicht mitvollzogen, jedoch bedeutete sie nur eine Verringerung des Spurspiels;",
+        "annotations": [
+            {
+                "start": 52,
+                "end": 60,
+                "text": "Finnland",
+                "labels": [
+                    "GPE"
+                ]
+            }
+        ]
+    },
+    {
+        "data": "Der Schneeberg und seine umliegenden Gebiete sind an schönen Tagen beliebte Familienausflugsziele und werden unter dem Begriff \"Schneebergland\" zusammengefasst.",
+        "annotations": [
+            {
+                "start": 4,
+                "end": 14,
+                "text": "Schneeberg",
+                "labels": [
+                    "GEO"
+                ]
+            }
+        ]
+    },
+    {
+        "data": "Die wissenschaftliche und nunmehr international gebräuchliche Definition fügt hinzu, dass der Kalkfels vom Eis der Eiszeit mehr oder weniger plan gehobelt wurde und dass Alvar ein sommertrockenes, hemiboreales Klima aufweist.",
+        "annotations": [
+            {
+                "start": 170,
+                "end": 175,
+                "text": "Alvar",
+                "labels": [
+                    "GEO"
+                ]
+            }
+        ]
+    },
+    {
+        "data": "Etwa 60 % des estnischen BIP stammen aus Unternehmen in Tallinn.",
+        "annotations": [
+            {
+                "start": 14,
+                "end": 24,
+                "text": "estnischen",
+                "labels": [
+                    "NAT"
+                ]
+            },
+            {
+                "start": 56,
+                "end": 63,
+                "text": "Tallinn",
+                "labels": [
+                    "GPE"
+                ]
+            }
+        ]
+    },
+    {
+        "data": "Davon sind 897 als Weltkulturerbe und 218 als Weltnaturerbe gelistet, weitere 39 Stätten werden als gemischte Kultur- und Naturerbestätte geführt.",
+        "annotations": [
+            {
+                "start": 46,
+                "end": 59,
+                "text": "Weltnaturerbe",
+                "labels": [
+                    "GEO"
+                ]
+            }
+        ]
+    },
+    {
+        "data": "Für die Petrikirche sind 48 mittelalterliche Grabplatten überliefert, von denen der größte Teil nicht mehr vorhanden oder nicht mehr nachweisbar ist.",
+        "annotations": [
+            {
+                "start": 8,
+                "end": 19,
+                "text": "Petrikirche",
+                "labels": [
+                    "STRL"
+                ]
+            }
+        ]
+    },
+    {
+        "data": "Polarfüchse leben im ganzen Land, besonders viele rund um den Berg Ingólfsjall im Süden von Island.",
+        "annotations": [
+            {
+                "start": 92,
+                "end": 98,
+                "text": "Island",
+                "labels": [
+                    "GPE"
+                ]
+            }
+        ]
+    },
+    {
+        "data": "Frauenkirche DresdenZudem sind die drei Klangkörper heute auch regelmäßig auf Gastspielen zu erleben, oder haben Tonträger eingespielt.",
+        "annotations": [
+            {
+                "start": 0,
+                "end": 12,
+                "text": "Frauenkirche",
+                "labels": [
+                    "STRL"
+                ]
+            }
+        ]
+    },
+    {
+        "data": "Pro Jahr sterben etwa 15 bis 30 Bergsteiger am Elbrus.",
+        "annotations": [
+            {
+                "start": 0,
+                "end": 3,
+                "text": "Pro",
+                "labels": [
+                    "PRD"
+                ]
+            },
+            {
+                "start": 47,
+                "end": 53,
+                "text": "Elbrus",
+                "labels": [
+                    "GEO"
+                ]
+            }
+        ]
+    },
+    {
+        "data": "Laut Volkszählung gab es 2011 kaum Juden in Albanien.",
+        "annotations": [
+            {
+                "start": 44,
+                "end": 52,
+                "text": "Albanien",
+                "labels": [
+                    "GPE"
+                ]
+            }
+        ]
+    },
+    {
+        "data": "Nicht eingedeichte Gebiete liegen im Norden (Norderhallig oder Norder-Hallig) sowie beim Ostersiel im Osten (Junkernhallig oder Junkern-Hallig).GeschichteFrühzeitÜber die Frühgeschichte der Gegend um Pellworm ist nichts Sicheres bekannt.",
+        "annotations": [
+            {
+                "start": 128,
+                "end": 166,
+                "text": "Junkern-Hallig).GeschichteFrühzeitÜber",
+                "labels": [
+                    "PRF"
+                ]
+            },
+            {
+                "start": 200,
+                "end": 208,
+                "text": "Pellworm",
+                "labels": [
+                    "GEO"
+                ]
+            }
+        ]
+    },
+    {
+        "data": "Dem Naturschutz dienen 16 Nationalparks (siehe Nationalparks in Deutschland), 19 Biosphärenreservate, 105 Naturparks sowie tausende von Naturschutzgebieten, Landschaftsschutzgebieten und Naturdenkmälern.",
+        "annotations": [
+            {
+                "start": 64,
+                "end": 75,
+                "text": "Deutschland",
+                "labels": [
+                    "GPE"
+                ]
+            }
+        ]
+    },
+    {
+        "data": "Die Deportation von Juden aus Luxemburg erfolgte in sieben Transporten vom 16. Oktober 1941 bis zum 17. Juni 1943.",
+        "annotations": [
+            {
+                "start": 30,
+                "end": 39,
+                "text": "Luxemburg",
+                "labels": [
+                    "GPE"
+                ]
+            }
+        ]
+    },
+    {
+        "data": "Die Homburgswarte ist ein Aussichtsturm an der Stelle einer germanischen Fliehburg in der Nähe des Hexentanzplatzes bei Thale im Harz.",
+        "annotations": [
+            {
+                "start": 4,
+                "end": 17,
+                "text": "Homburgswarte",
+                "labels": [
+                    "STRL"
+                ]
+            }
+        ]
+    },
+    {
+        "data": "Osterhorngruppe zwischen Lammer, Salzach, Postalm, Wolfgangsee:Egelseehörndl (1782 m)",
+        "annotations": [
+            {
+                "start": 0,
+                "end": 15,
+                "text": "Osterhorngruppe",
+                "labels": [
+                    "GEO"
+                ]
+            },
+            {
+                "start": 25,
+                "end": 31,
+                "text": "Lammer",
+                "labels": [
+                    "PER"
+                ]
+            }
+        ]
+    },
+    {
+        "data": "Neue Frankfurter Altstadt eröffnet, Videobericht der hessenschau, 28. September 2018.Videos und DokumentationenF.A.Z. exklusiv:",
+        "annotations": [
+            {
+                "start": 0,
+                "end": 25,
+                "text": "Neue Frankfurter Altstadt",
+                "labels": [
+                    "STRL"
+                ]
+            },
+            {
+                "start": 96,
+                "end": 117,
+                "text": "DokumentationenF.A.Z.",
+                "labels": [
+                    "PRD"
+                ]
+            }
+        ]
+    },
+    {
+        "data": "Norderoogsand liegt in der Schutzzone 1 des Nationalparks und darf daher nur mit Ausnahmegenehmigung betreten werden.",
+        "annotations": [
+            {
+                "start": 0,
+                "end": 13,
+                "text": "Norderoogsand",
+                "labels": [
+                    "GEO"
+                ]
+            }
+        ]
+    },
+    {
+        "data": "Großer und Kleiner EngelDas Haus Großer und Kleiner Engel mit der Adresse Römerberg Nr. 28 wurde 1562 erbaut.",
+        "annotations": [
+            {
+                "start": 52,
+                "end": 57,
+                "text": "Engel",
+                "labels": [
+                    "PER"
+                ]
+            },
+            {
+                "start": 74,
+                "end": 83,
+                "text": "Römerberg",
+                "labels": [
+                    "STRL"
+                ]
+            }
+        ]
+    },
+    {
+        "data": "Nur ein Bronzerelief an dem Kaufhaus-Neubau erinnert seit 2008 an die frühere hallesche Ratswaage.",
+        "annotations": [
+            {
+                "start": 88,
+                "end": 97,
+                "text": "Ratswaage",
+                "labels": [
+                    "STRL"
+                ]
+            }
+        ]
+    },
+    {
+        "data": "StadtgliederungReykjavík gliedert sich in zehn Stadtbezirke (hverfi):1)Grüngürtel (Hinterland von Reykjavík)",
+        "annotations": [
+            {
+                "start": 0,
+                "end": 24,
+                "text": "StadtgliederungReykjavík",
+                "labels": [
+                    "ORG"
+                ]
+            },
+            {
+                "start": 98,
+                "end": 107,
+                "text": "Reykjavík",
+                "labels": [
+                    "GPE"
+                ]
+            }
+        ]
+    },
+    {
+        "data": "Seither sind sie verwaltungstechnisch dem jeweils angrenzenden Stadtrajon von Tiflis unterstellt und liegen auf dem somit erweiterten Gebiet der Hauptstadtregion Tiflis.2014 verteilten sich die Einwohner wie folgt auf die Rajone und Orte im umliegenden Gebiet (Einwohnerzahlen in Klammern, Minderstädte kursiv):StädtepartnerschaftenTiflis unterhält mit folgenden Städten eine Städtepartnerschaft.",
+        "annotations": [
+            {
+                "start": 78,
+                "end": 84,
+                "text": "Tiflis",
+                "labels": [
+                    "GPE"
+                ]
+            }
+        ]
+    },
+    {
+        "data": "Hallig Hooge.",
+        "annotations": [
+            {
+                "start": 7,
+                "end": 12,
+                "text": "Hooge",
+                "labels": [
+                    "GEO"
+                ]
+            }
+        ]
+    },
+    {
+        "data": "Lage und LandschaftDas Grazer Bergland ist ein Mittelgebirgsstock im Norden des steirischen Hügellands und liegt größtenteils östlich der Mur.",
+        "annotations": [
+            {
+                "start": 23,
+                "end": 38,
+                "text": "Grazer Bergland",
+                "labels": [
+                    "GEO"
+                ]
+            }
+        ]
+    },
+    {
+        "data": "Im Juni 2009 startete eine Onlinezeitung für Spiekeroog mit dem Namen Spiekerooger Inselalldag, die jedoch 2011 wieder eingestellt wurde.",
+        "annotations": [
+            {
+                "start": 45,
+                "end": 55,
+                "text": "Spiekeroog",
+                "labels": [
+                    "GEO"
+                ]
+            }
+        ]
+    },
+    {
+        "data": "Am 9. November 1990 wurde der Literaturförderkreis Kuhtor e.V. gegründet.",
+        "annotations": [
+            {
+                "start": 51,
+                "end": 57,
+                "text": "Kuhtor",
+                "labels": [
+                    "STRL"
+                ]
+            }
+        ]
+    },
+    {
+        "data": "Stuttgart-Bad Cannstatt 1985, S. 117–149.WeblinksOffizielle WebsiteMittelalter-Abteilung des Herzog Anton Ulrich-Museums auf 3landesmuseen.deEintrag von Gudrun Pischke und Stefan Eismann zu Burg Dankwarderode in der wissenschaftlichen Datenbank „EBIDAT“ des Europäischen BurgeninstitutsRekonstruktionsversuch als Zeichnung im mittelalterlichen Zustand von Wolfgang BraunEintrag zu Burg Dankwarderode in der privaten Datenbank „Alle Burgen“.== Einzelnachweise =",
+        "annotations": [
+            {
+                "start": 0,
+                "end": 23,
+                "text": "Stuttgart-Bad Cannstatt",
+                "labels": [
+                    "ORG"
+                ]
+            },
+            {
+                "start": 60,
+                "end": 88,
+                "text": "WebsiteMittelalter-Abteilung",
+                "labels": [
+                    "ORG"
+                ]
+            },
+            {
+                "start": 93,
+                "end": 99,
+                "text": "Herzog",
+                "labels": [
+                    "PRF"
+                ]
+            },
+            {
+                "start": 100,
+                "end": 120,
+                "text": "Anton Ulrich-Museums",
+                "labels": [
+                    "PER"
+                ]
+            },
+            {
+                "start": 153,
+                "end": 167,
+                "text": "Gudrun Pischke",
+                "labels": [
+                    "PER"
+                ]
+            },
+            {
+                "start": 172,
+                "end": 186,
+                "text": "Stefan Eismann",
+                "labels": [
+                    "PER"
+                ]
+            },
+            {
+                "start": 190,
+                "end": 208,
+                "text": "Burg Dankwarderode",
+                "labels": [
+                    "STRL"
+                ]
+            },
+            {
+                "start": 258,
+                "end": 308,
+                "text": "Europäischen BurgeninstitutsRekonstruktionsversuch",
+                "labels": [
+                    "ORG"
+                ]
+            },
+            {
+                "start": 356,
+                "end": 377,
+                "text": "Wolfgang BraunEintrag",
+                "labels": [
+                    "PER"
+                ]
+            },
+            {
+                "start": 381,
+                "end": 399,
+                "text": "Burg Dankwarderode",
+                "labels": [
+                    "STRL"
+                ]
+            }
+        ]
+    },
+    {
+        "data": "Progressive Party (PPP) wolle in Guyana einen kommunistischen Staat einrichten.",
+        "annotations": [
+            {
+                "start": 19,
+                "end": 22,
+                "text": "PPP",
+                "labels": [
+                    "ORG"
+                ]
+            },
+            {
+                "start": 33,
+                "end": 39,
+                "text": "Guyana",
+                "labels": [
+                    "GPE"
+                ]
+            }
+        ]
+    },
+    {
+        "data": "Josephskapelle steht auf der Ecke",
+        "annotations": [
+            {
+                "start": 0,
+                "end": 14,
+                "text": "Josephskapelle",
+                "labels": [
+                    "STRL"
+                ]
+            }
+        ]
+    },
+    {
+        "data": "Jährlich reisen etwa 10 Mio. Menschen nach Kroatien.",
+        "annotations": [
+            {
+                "start": 43,
+                "end": 51,
+                "text": "Kroatien",
+                "labels": [
+                    "GPE"
+                ]
+            }
+        ]
+    },
+    {
+        "data": "Der Nationalpark Chorgo Terchiin Tsagaan Nuur bedeckt eine Fläche von 851 km².",
+        "annotations": [
+            {
+                "start": 4,
+                "end": 45,
+                "text": "Nationalpark Chorgo Terchiin Tsagaan Nuur",
+                "labels": [
+                    "GEO"
+                ]
+            }
+        ]
+    },
+    {
+        "data": "In der Agglomeration von St. George’s leben etwa 37.000 Menschen.",
+        "annotations": [
+            {
+                "start": 25,
+                "end": 37,
+                "text": "St. George’s",
+                "labels": [
+                    "GPE"
+                ]
+            }
+        ]
+    },
+    {
+        "data": "Dieser wandte einen Betrag von 28.000 Mark für den 1341 fertiggestellten Chor auf, in dessen Mitte er auch unter einer bemerkenswerten Grabplatte aus Messing begraben liegt, die dem Erzgießer Hans Apengeter zugeschrieben wird.1341 war der romanisch-gotische Lübecker Dom in seiner heutigen Gestalt vollendet.",
+        "annotations": [
+            {
+                "start": 192,
+                "end": 206,
+                "text": "Hans Apengeter",
+                "labels": [
+                    "PER"
+                ]
+            },
+            {
+                "start": 258,
+                "end": 270,
+                "text": "Lübecker Dom",
+                "labels": [
+                    "STRL"
+                ]
+            }
+        ]
+    },
+    {
+        "data": "Der höchste Punkt der Bahamas ist der Mount Alvernia mit 63 m auf Cat Island.",
+        "annotations": [
+            {
+                "start": 22,
+                "end": 29,
+                "text": "Bahamas",
+                "labels": [
+                    "GPE"
+                ]
+            },
+            {
+                "start": 66,
+                "end": 76,
+                "text": "Cat Island",
+                "labels": [
+                    "PRD"
+                ]
+            }
+        ]
+    },
+    {
+        "data": "Siehe auchBiodiversität der PhilippinenNationalparks auf den PhilippinenQuelleDer Nationalpark auf Visitphilippines.comDer Nationalpark auf der Seite des PAWB (Protected Areas and Wildlife Bureau)Mount-Arayat-Nationalpark in der World Database on Protected Areas (englisch)",
+        "annotations": [
+            {
+                "start": 154,
+                "end": 158,
+                "text": "PAWB",
+                "labels": [
+                    "ORG"
+                ]
+            },
+            {
+                "start": 196,
+                "end": 221,
+                "text": "Mount-Arayat-Nationalpark",
+                "labels": [
+                    "GEO"
+                ]
+            },
+            {
+                "start": 229,
+                "end": 262,
+                "text": "World Database on Protected Areas",
+                "labels": [
+                    "PRD"
+                ]
+            }
+        ]
+    },
+    {
+        "data": "Ein weiteres Produkt der Kalahari ist die Kalahari-Seide, die auf Englisch als Kalahari wild silk vermarktet wird.",
+        "annotations": [
+            {
+                "start": 25,
+                "end": 33,
+                "text": "Kalahari",
+                "labels": [
+                    "GEO"
+                ]
+            },
+            {
+                "start": 79,
+                "end": 87,
+                "text": "Kalahari",
+                "labels": [
+                    "GEO"
+                ]
+            }
+        ]
+    },
+    {
+        "data": "Am Erg Chebbi und in der direkten Umgebung gibt es verschiedene Unterkünfte vom traditionellen Berberzelt über einfache Herbergen bis hin zum luxuriösen Hotel mit Pool.",
+        "annotations": [
+            {
+                "start": 3,
+                "end": 13,
+                "text": "Erg Chebbi",
+                "labels": [
+                    "GEO"
+                ]
+            }
+        ]
+    },
+    {
+        "data": "Heute ist Öland eine vielbesuchte Ferieninsel.",
+        "annotations": [
+            {
+                "start": 10,
+                "end": 15,
+                "text": "Öland",
+                "labels": [
+                    "GEO"
+                ]
+            }
+        ]
+    },
+    {
+        "data": "Klenze verstand das Palais Leuchtenberg als Maßstab für die Gestaltung dieser Prachtstraße.",
+        "annotations": [
+            {
+                "start": 0,
+                "end": 6,
+                "text": "Klenze",
+                "labels": [
+                    "PER"
+                ]
+            },
+            {
+                "start": 20,
+                "end": 39,
+                "text": "Palais Leuchtenberg",
+                "labels": [
+                    "STRL"
+                ]
+            }
+        ]
+    },
+    {
+        "data": "Es wurden einige Gletscherlifte für den Skibetrieb am Kitzsteinhorn gebaut, darunter eine Sesselbahn.",
+        "annotations": [
+            {
+                "start": 54,
+                "end": 67,
+                "text": "Kitzsteinhorn",
+                "labels": [
+                    "GEO"
+                ]
+            }
+        ]
+    },
+    {
+        "data": "Ein zweites Mal wurde Rügen 1715 während des Großen Nordischen Krieges eingenommen;",
+        "annotations": [
+            {
+                "start": 22,
+                "end": 27,
+                "text": "Rügen",
+                "labels": [
+                    "GEO"
+                ]
+            }
+        ]
+    },
+    {
+        "data": "Christoph Nix schrieb das Libretto zur Oper Mord auf dem Säntis.",
+        "annotations": [
+            {
+                "start": 0,
+                "end": 13,
+                "text": "Christoph Nix",
+                "labels": [
+                    "PER"
+                ]
+            },
+            {
+                "start": 57,
+                "end": 63,
+                "text": "Säntis",
+                "labels": [
+                    "GEO"
+                ]
+            }
+        ]
+    },
+    {
+        "data": "Wirtschaftspolitik der Volksrepublik China.",
+        "annotations": [
+            {
+                "start": 23,
+                "end": 42,
+                "text": "Volksrepublik China",
+                "labels": [
+                    "GPE"
+                ]
+            }
+        ]
+    },
+    {
+        "data": "älteste indigene Theater der Stadt, gegründet 1935, liegt im historischen Piassa-Viertel von Addis Abeba.",
+        "annotations": [
+            {
+                "start": 93,
+                "end": 104,
+                "text": "Addis Abeba",
+                "labels": [
+                    "GPE"
+                ]
+            }
+        ]
+    },
+    {
+        "data": "Unter dem Namen Erg Chech 001 firmiert ein sogenannter Diogenit (auch HED-Achondrit genannt) von insgesamt 1.266 Gramm, dessen ersten Teile gefunden im Dezember 2016 gefunden wurden.",
+        "annotations": [
+            {
+                "start": 16,
+                "end": 25,
+                "text": "Erg Chech",
+                "labels": [
+                    "GEO"
+                ]
+            },
+            {
+                "start": 70,
+                "end": 83,
+                "text": "HED-Achondrit",
+                "labels": [
+                    "ORG"
+                ]
+            }
+        ]
+    },
+    {
+        "data": "Theoretisch könnte Brasilien etwa eine Milliarde Menschen ernähren, weshalb es als Ernährer der Welt gilt.",
+        "annotations": [
+            {
+                "start": 19,
+                "end": 28,
+                "text": "Brasilien",
+                "labels": [
+                    "GPE"
+                ]
+            }
+        ]
+    },
+    {
+        "data": "Täglich pendeln rund 40.000 Menschen zur Arbeit nach Monaco.",
+        "annotations": [
+            {
+                "start": 53,
+                "end": 59,
+                "text": "Monaco",
+                "labels": [
+                    "GPE"
+                ]
+            }
+        ]
+    },
+    {
+        "data": "Das Grazer Paläozoikum wurde von Paschinger treffend als „Fremdkörper“ zwischen dem kristallinen Randgebirge und dem Steirischen Neogenbecken beschrieben.",
+        "annotations": [
+            {
+                "start": 4,
+                "end": 22,
+                "text": "Grazer Paläozoikum",
+                "labels": [
+                    "GEO"
+                ]
+            },
+            {
+                "start": 33,
+                "end": 43,
+                "text": "Paschinger",
+                "labels": [
+                    "PER"
+                ]
+            }
+        ]
+    },
+    {
+        "data": "Argyroderma – endemische GattungOophytum – endemische GattungConophytumTylecodonCrassula2014 wurde das Naturschutzgebiet Knersvlakte Nature Reserve auf Anregung von WWF South Africa und Leslie Hill Succulent Karoo Trust (LHSKT) sowie der Provinz-Naturschutzbehörde eingerichtet.",
+        "annotations": [
+            {
+                "start": 121,
+                "end": 132,
+                "text": "Knersvlakte",
+                "labels": [
+                    "GEO"
+                ]
+            },
+            {
+                "start": 165,
+                "end": 181,
+                "text": "WWF South Africa",
+                "labels": [
+                    "ORG"
+                ]
+            },
+            {
+                "start": 186,
+                "end": 197,
+                "text": "Leslie Hill",
+                "labels": [
+                    "PER"
+                ]
+            }
+        ]
+    },
+    {
+        "data": "Zur Geologie der Galápagos-Inseln (englisch)Sammlung von hist.",
+        "annotations": [
+            {
+                "start": 17,
+                "end": 33,
+                "text": "Galápagos-Inseln",
+                "labels": [
+                    "GEO"
+                ]
+            }
+        ]
+    },
+    {
+        "data": "Da Rio de Janeiro das beliebteste Reiseziel für Touristen im Land ist, sind auch die bedeutendsten Wirtschaftszweige der Stadt mit dem Fremdenverkehr, dem Dienstleistungs- und dem Finanzsektor verbunden.",
+        "annotations": [
+            {
+                "start": 3,
+                "end": 17,
+                "text": "Rio de Janeiro",
+                "labels": [
+                    "GPE"
+                ]
+            }
+        ]
+    },
+    {
+        "data": "Der Turm wurde im gleichen Jahr von Kastkellereiturm in Schellenturm umbenannt, nachdem der ursprünglich an der Ecke Weber-/Kanalstraße gelegene Schellenturm abgerissen worden war.",
+        "annotations": [
+            {
+                "start": 56,
+                "end": 68,
+                "text": "Schellenturm",
+                "labels": [
+                    "STRL"
+                ]
+            },
+            {
+                "start": 145,
+                "end": 157,
+                "text": "Schellenturm",
+                "labels": [
+                    "STRL"
+                ]
+            }
+        ]
+    },
+    {
+        "data": "Von 1941 bis 1945 war Brunei nach der Invasion Borneos von der japanischen Armee besetzt.",
+        "annotations": [
+            {
+                "start": 22,
+                "end": 28,
+                "text": "Brunei",
+                "labels": [
+                    "GPE"
+                ]
+            },
+            {
+                "start": 63,
+                "end": 80,
+                "text": "japanischen Armee",
+                "labels": [
+                    "ORG"
+                ]
+            }
+        ]
+    },
+    {
+        "data": "den Südabhängen des Hohgant befinden sich grössere Bergföhrenwälder, durchsetzt mit alpinen Rasen und einigen Moorgebieten.",
+        "annotations": [
+            {
+                "start": 20,
+                "end": 27,
+                "text": "Hohgant",
+                "labels": [
+                    "GEO"
+                ]
+            }
+        ]
+    },
+    {
+        "data": "Étoile Filante Ouagadougou und ASFA-Yennenga Ouagadougou sind die erfolgreichsten Vereine des Landes.",
+        "annotations": [
+            {
+                "start": 0,
+                "end": 14,
+                "text": "Étoile Filante",
+                "labels": [
+                    "PER"
+                ]
+            },
+            {
+                "start": 15,
+                "end": 26,
+                "text": "Ouagadougou",
+                "labels": [
+                    "GPE"
+                ]
+            },
+            {
+                "start": 31,
+                "end": 44,
+                "text": "ASFA-Yennenga",
+                "labels": [
+                    "ORG"
+                ]
+            },
+            {
+                "start": 45,
+                "end": 56,
+                "text": "Ouagadougou",
+                "labels": [
+                    "GPE"
+                ]
+            }
+        ]
+    },
+    {
+        "data": "e.V.Fotos der Wallwitzburg auf dessaunet.de",
+        "annotations": [
+            {
+                "start": 14,
+                "end": 26,
+                "text": "Wallwitzburg",
+                "labels": [
+                    "STRL"
+                ]
+            }
+        ]
+    },
+    {
+        "data": "Die Flusswasserkunst aber wurde 1963/64 trotz heftiger Proteste seitens der Bevölkerung abgebrochen.",
+        "annotations": [
+            {
+                "start": 4,
+                "end": 20,
+                "text": "Flusswasserkunst",
+                "labels": [
+                    "STRL"
+                ]
+            }
+        ]
+    },
+    {
+        "data": "Von 1807 an war die Steipe in Privatbesitz und wurde als Hotel mit Weinstube genutzt.",
+        "annotations": [
+            {
+                "start": 20,
+                "end": 26,
+                "text": "Steipe",
+                "labels": [
+                    "STRL"
+                ]
+            }
+        ]
+    },
+    {
+        "data": "ISBN 978-3-9816377-1-7.WeblinksLiteratur über Schloss Neustrelitz in der Landesbibliographie MVSchlossgarten",
+        "annotations": [
+            {
+                "start": 5,
+                "end": 10,
+                "text": "978-3",
+                "labels": [
+                    "DAT"
+                ]
+            },
+            {
+                "start": 46,
+                "end": 65,
+                "text": "Schloss Neustrelitz",
+                "labels": [
+                    "STRL"
+                ]
+            }
+        ]
+    },
+    {
+        "data": "Die Synagoge Worms gehört heute der Jüdischen Gemeinde Mainz.",
+        "annotations": [
+            {
+                "start": 4,
+                "end": 18,
+                "text": "Synagoge Worms",
+                "labels": [
+                    "STRL"
+                ]
+            },
+            {
+                "start": 36,
+                "end": 60,
+                "text": "Jüdischen Gemeinde Mainz",
+                "labels": [
+                    "ORG"
+                ]
+            }
+        ]
+    },
+    {
+        "data": "Nur ungefähr 5 Prozent des Mülls in Ghana werden wiederverwendet oder dem Recycling zugeführt.",
+        "annotations": [
+            {
+                "start": 36,
+                "end": 41,
+                "text": "Ghana",
+                "labels": [
+                    "GPE"
+                ]
+            }
+        ]
+    },
+    {
+        "data": "LiteraturSaskia Thorbecke: Belize.",
+        "annotations": [
+            {
+                "start": 0,
+                "end": 25,
+                "text": "LiteraturSaskia Thorbecke",
+                "labels": [
+                    "PER"
+                ]
+            },
+            {
+                "start": 27,
+                "end": 33,
+                "text": "Belize",
+                "labels": [
+                    "GPE"
+                ]
+            }
+        ]
+    },
+    {
+        "data": "Mit einem Außenhandelsanteil von mehr als 40 Prozent ist die Europäische Union der größte Handelspartner der Ukraine.",
+        "annotations": [
+            {
+                "start": 61,
+                "end": 78,
+                "text": "Europäische Union",
+                "labels": [
+                    "ORG"
+                ]
+            },
+            {
+                "start": 109,
+                "end": 116,
+                "text": "Ukraine",
+                "labels": [
+                    "GPE"
+                ]
+            }
+        ]
+    },
+    {
+        "data": "Die Universitätsbibliothek Leipzig ist eine zentrale Einrichtung der Universität Leipzig.",
+        "annotations": [
+            {
+                "start": 4,
+                "end": 34,
+                "text": "Universitätsbibliothek Leipzig",
+                "labels": [
+                    "STRL"
+                ]
+            },
+            {
+                "start": 69,
+                "end": 88,
+                "text": "Universität Leipzig",
+                "labels": [
+                    "ORG"
+                ]
+            }
+        ]
+    },
+    {
+        "data": "Die Baumgrenze liegt klimatisch bedingt auf etwa 1400 bis 1500 m ü. M., im französischen Jura auf 1600 m ü. M.",
+        "annotations": [
+            {
+                "start": 75,
+                "end": 88,
+                "text": "französischen",
+                "labels": [
+                    "NAT"
+                ]
+            },
+            {
+                "start": 89,
+                "end": 93,
+                "text": "Jura",
+                "labels": [
+                    "GEO"
+                ]
+            }
+        ]
+    },
+    {
+        "data": "Die Börse Riga (NASDAQ OMX Riga) ist die einzige Wertpapierbörse des Landes.",
+        "annotations": [
+            {
+                "start": 10,
+                "end": 14,
+                "text": "Riga",
+                "labels": [
+                    "GPE"
+                ]
+            },
+            {
+                "start": 16,
+                "end": 26,
+                "text": "NASDAQ OMX",
+                "labels": [
+                    "ORG"
+                ]
+            },
+            {
+                "start": 27,
+                "end": 31,
+                "text": "Riga",
+                "labels": [
+                    "GPE"
+                ]
+            }
+        ]
+    },
+    {
+        "data": "Erstmals ausgewiesen als „Naturschutzgebiet von nationalem Interesse“ wurde El Torcal 1929.",
+        "annotations": [
+            {
+                "start": 76,
+                "end": 85,
+                "text": "El Torcal",
+                "labels": [
+                    "GEO"
+                ]
+            }
+        ]
+    },
+    {
+        "data": "Das 500 kg schwere Gipfelkreuz am Hochobir besteht aus Metall, ist 7 m hoch und 3 m breit.",
+        "annotations": [
+            {
+                "start": 34,
+                "end": 42,
+                "text": "Hochobir",
+                "labels": [
+                    "GEO"
+                ]
+            }
+        ]
+    },
+    {
+        "data": "Ab 1663 trafen in Saint John’s",
+        "annotations": [
+            {
+                "start": 18,
+                "end": 30,
+                "text": "Saint John’s",
+                "labels": [
+                    "GPE"
+                ]
+            }
+        ]
+    },
+    {
+        "data": "Portugal ist Gründungsmitglied der 1949 geschaffenen NATO.",
+        "annotations": [
+            {
+                "start": 0,
+                "end": 8,
+                "text": "Portugal",
+                "labels": [
+                    "GPE"
+                ]
+            },
+            {
+                "start": 53,
+                "end": 57,
+                "text": "NATO",
+                "labels": [
+                    "ORG"
+                ]
+            }
+        ]
+    },
+    {
+        "data": "Informationen und Abbildungen zur Bucht von Kotor (englisch)",
+        "annotations": [
+            {
+                "start": 34,
+                "end": 49,
+                "text": "Bucht von Kotor",
+                "labels": [
+                    "GEO"
+                ]
+            }
+        ]
+    },
+    {
+        "data": "Nach der Verabschiedung des Gesetzes über die Vermögensauseinandersetzung zwischen dem Preußischen Staat und den Mitgliedern des vormals regierenden Preußischen Königshauses, im Oktober 1926, verblieb die Matrosenstation Kongsnæs im Besitz des ehemaligen Königshauses.",
+        "annotations": [
+            {
+                "start": 149,
+                "end": 173,
+                "text": "Preußischen Königshauses",
+                "labels": [
+                    "ORG"
+                ]
+            },
+            {
+                "start": 205,
+                "end": 229,
+                "text": "Matrosenstation Kongsnæs",
+                "labels": [
+                    "STRL"
+                ]
+            }
+        ]
+    },
+    {
+        "data": "Seit dem Neuaufbau wird das Leibnizhaus als Gäste- und Veranstaltungshaus der hannoverschen Hochschulen genutzt und von der Gottfried Wilhelm Leibniz Universität Hannover verwaltet.",
+        "annotations": [
+            {
+                "start": 28,
+                "end": 39,
+                "text": "Leibnizhaus",
+                "labels": [
+                    "STRL"
+                ]
+            },
+            {
+                "start": 78,
+                "end": 91,
+                "text": "hannoverschen",
+                "labels": [
+                    "NAT"
+                ]
+            },
+            {
+                "start": 124,
+                "end": 149,
+                "text": "Gottfried Wilhelm Leibniz",
+                "labels": [
+                    "PER"
+                ]
+            },
+            {
+                "start": 150,
+                "end": 170,
+                "text": "Universität Hannover",
+                "labels": [
+                    "ORG"
+                ]
+            }
+        ]
+    },
+    {
+        "data": "Im Zweiten Weltkrieg wurde der Deutschhof beim Luftangriff vom 4. Dezember 1944 weitgehend zerstört.",
+        "annotations": [
+            {
+                "start": 3,
+                "end": 20,
+                "text": "Zweiten Weltkrieg",
+                "labels": [
+                    "PRD"
+                ]
+            },
+            {
+                "start": 31,
+                "end": 41,
+                "text": "Deutschhof",
+                "labels": [
+                    "STRL"
+                ]
+            }
+        ]
+    },
+    {
+        "data": "ArchitekturMit ihrer Höhe von 21 m ist die „Alte Waage“ das größte und imposanteste Fachwerkhaus der Stadt.",
+        "annotations": [
+            {
+                "start": 0,
+                "end": 14,
+                "text": "ArchitekturMit",
+                "labels": [
+                    "PRD"
+                ]
+            },
+            {
+                "start": 44,
+                "end": 54,
+                "text": "Alte Waage",
+                "labels": [
+                    "STRL"
+                ]
+            }
+        ]
+    },
+    {
+        "data": "Mit den Abschlussprüfungen im Frühjahr 1951 wurde, im Zuge der Neuorganisation der Schauspielschulen der DDR, die Außenstelle im Schloss Putbus geschlossen.1955 versuchte man zaghaft, das Schloss wiederherzustellen, die Maßnahme wurde jedoch nicht vollendet.",
+        "annotations": [
+            {
+                "start": 83,
+                "end": 104,
+                "text": "Schauspielschulen der",
+                "labels": [
+                    "ORG"
+                ]
+            },
+            {
+                "start": 105,
+                "end": 108,
+                "text": "DDR",
+                "labels": [
+                    "ORG"
+                ]
+            },
+            {
+                "start": 129,
+                "end": 143,
+                "text": "Schloss Putbus",
+                "labels": [
+                    "STRL"
+                ]
+            }
+        ]
+    },
+    {
+        "data": "Das Bärenschlössle im Stuttgarter Rotwildpark war ursprünglich ein Lustschloss und dient heute als Restaurant.",
+        "annotations": [
+            {
+                "start": 4,
+                "end": 18,
+                "text": "Bärenschlössle",
+                "labels": [
+                    "STRL"
+                ]
+            },
+            {
+                "start": 22,
+                "end": 33,
+                "text": "Stuttgarter",
+                "labels": [
+                    "NAT"
+                ]
+            }
+        ]
+    },
+    {
+        "data": "Von diesem wurden mit der Neueinteilung von 1229 die Kirchspiele St. Ansgarii und St. Martini abgetrennt.",
+        "annotations": [
+            {
+                "start": 65,
+                "end": 77,
+                "text": "St. Ansgarii",
+                "labels": [
+                    "STRL"
+                ]
+            },
+            {
+                "start": 82,
+                "end": 93,
+                "text": "St. Martini",
+                "labels": [
+                    "TIM"
+                ]
+            }
+        ]
+    },
+    {
+        "data": "Da aber Dominica ungefähr in der Mitte des Inselbogens liegt, die Abgrenzung von nördlich gelegenen (englisch Leeward Islands) gegenüber weiter südlich liegenden (englisch Windward Islands) Inseln dieser Kette in etlichen Sprachräumen unterschiedlich gezogen wird und das westindische Englisch teilweise dem internationalen Sprachgebrauch folgt, wird Dominica auch als nördlichste der „Windward Islands“ angesehen.",
+        "annotations": [
+            {
+                "start": 8,
+                "end": 16,
+                "text": "Dominica",
+                "labels": [
+                    "GPE"
+                ]
+            },
+            {
+                "start": 351,
+                "end": 359,
+                "text": "Dominica",
+                "labels": [
+                    "GPE"
+                ]
+            },
+            {
+                "start": 386,
+                "end": 402,
+                "text": "Windward Islands",
+                "labels": [
+                    "ORG"
+                ]
+            }
+        ]
+    },
+    {
+        "data": "Das Nikolaiviertel im Berliner Ortsteil Mitte ist das älteste Siedlungsgebiet der Hauptstadt.",
+        "annotations": [
+            {
+                "start": 4,
+                "end": 18,
+                "text": "Nikolaiviertel",
+                "labels": [
+                    "STRL"
+                ]
+            },
+            {
+                "start": 22,
+                "end": 30,
+                "text": "Berliner",
+                "labels": [
+                    "NAT"
+                ]
+            }
+        ]
+    },
+    {
+        "data": "3.Haroun Tazieff: Ätna, Der Berg – seine Gefahren – seine Zukunft.",
+        "annotations": [
+            {
+                "start": 18,
+                "end": 22,
+                "text": "Ätna",
+                "labels": [
+                    "GEO"
+                ]
+            }
+        ]
+    },
+    {
+        "data": "ZET betreibt die Straßenbahn Zagreb sowie den örtlichen Stadtbusverkehr.",
+        "annotations": [
+            {
+                "start": 0,
+                "end": 3,
+                "text": "ZET",
+                "labels": [
+                    "ORG"
+                ]
+            },
+            {
+                "start": 29,
+                "end": 35,
+                "text": "Zagreb",
+                "labels": [
+                    "GPE"
+                ]
+            }
+        ]
+    },
+    {
+        "data": "Poel besteht aus 15 Ortsteilen (Einwohnerzahl:",
+        "annotations": [
+            {
+                "start": 0,
+                "end": 4,
+                "text": "Poel",
+                "labels": [
+                    "GEO"
+                ]
+            }
+        ]
+    },
+    {
+        "data": "Ausgangspunkt für eine Besteigung der Dufourspitze von der Schweizer Seite über den Normalweg ist die Monte-Rosa-Hütte (2883 m ü.",
+        "annotations": [
+            {
+                "start": 38,
+                "end": 50,
+                "text": "Dufourspitze",
+                "labels": [
+                    "GEO"
+                ]
+            },
+            {
+                "start": 59,
+                "end": 68,
+                "text": "Schweizer",
+                "labels": [
+                    "NAT"
+                ]
+            }
+        ]
+    },
+    {
+        "data": "Auch hydrologisch wird viel geforscht, um das Hölloch und die Wege des Wassers immer besser kennenzulernen.",
+        "annotations": [
+            {
+                "start": 46,
+                "end": 53,
+                "text": "Hölloch",
+                "labels": [
+                    "GEO"
+                ]
+            }
+        ]
+    },
+    {
+        "data": "WeblinksWebseite des Fördervereins Hoferkopfturm e. V.==",
+        "annotations": [
+            {
+                "start": 0,
+                "end": 16,
+                "text": "WeblinksWebseite",
+                "labels": [
+                    "ORG"
+                ]
+            },
+            {
+                "start": 35,
+                "end": 48,
+                "text": "Hoferkopfturm",
+                "labels": [
+                    "STRL"
+                ]
+            }
+        ]
+    },
+    {
+        "data": "Italien setzt sich im Bereich Abrüstung für die weltweite Beachtung der Verträge ein, so auch für das Verbot von Streubomben.",
+        "annotations": [
+            {
+                "start": 0,
+                "end": 7,
+                "text": "Italien",
+                "labels": [
+                    "GPE"
+                ]
+            }
+        ]
+    },
+    {
+        "data": "1996.FußnotenWeblinksDas Narrenhäusel im Stadtwiki DresdenPfingsten 1937 öffnete das “Narrenhäusel”Geschichte des Narrenhäusels:",
+        "annotations": [
+            {
+                "start": 25,
+                "end": 37,
+                "text": "Narrenhäusel",
+                "labels": [
+                    "STRL"
+                ]
+            },
+            {
+                "start": 86,
+                "end": 98,
+                "text": "Narrenhäusel",
+                "labels": [
+                    "STRL"
+                ]
+            }
+        ]
+    },
+    {
+        "data": "Stalin ging daher Bündnisse mit den Westmächten ein (Anti-Hitler-Koalition), von denen die Sowjetunion erhebliche Güterlieferungen erhielt.",
+        "annotations": [
+            {
+                "start": 0,
+                "end": 6,
+                "text": "Stalin",
+                "labels": [
+                    "PER"
+                ]
+            },
+            {
+                "start": 91,
+                "end": 102,
+                "text": "Sowjetunion",
+                "labels": [
+                    "GPE"
+                ]
+            }
+        ]
+    },
+    {
+        "data": "In Dublin befinden sich mit Malahide Cricket Club Ground ein Test-Cricket-Stadion.",
+        "annotations": [
+            {
+                "start": 3,
+                "end": 9,
+                "text": "Dublin",
+                "labels": [
+                    "GPE"
+                ]
+            }
+        ]
+    },
+    {
+        "data": "Bad Grund: 4 Sitze (+1)Grüne: 1 Sitz (±0)FDP: 1 Sitz (+1)BürgermeisterHauptamtlicher Bürgermeister der Gemeinde",
+        "annotations": [
+            {
+                "start": 0,
+                "end": 9,
+                "text": "Bad Grund",
+                "labels": [
+                    "GEO"
+                ]
+            },
+            {
+                "start": 85,
+                "end": 98,
+                "text": "Bürgermeister",
+                "labels": [
+                    "PRF"
+                ]
+            }
+        ]
+    },
+    {
+        "data": "Im Gegensatz zu den Gebäuden auf der Nord- und Südseite des Platzes, bei denen nur die Fassaden eng an die ursprüngliche historische Gestaltung angelehnt wurden, wurde das Knochenhaueramtshaus von 1986 bis 1989 zusammen mit dem links benachbarten Bäckeramtshaus in traditioneller Fachwerkbauweise rekonstruiert.",
+        "annotations": [
+            {
+                "start": 172,
+                "end": 192,
+                "text": "Knochenhaueramtshaus",
+                "labels": [
+                    "STRL"
+                ]
+            }
+        ]
+    },
+    {
+        "data": "Mit der Heunensäule erhielt der Markt einen neuen Mittelpunkt.",
+        "annotations": [
+            {
+                "start": 32,
+                "end": 37,
+                "text": "Markt",
+                "labels": [
+                    "STRL"
+                ]
+            }
+        ]
+    },
+    {
+        "data": "Im gleichen Jahr 1932 stieg die Einwohnerzahl von Los Angeles auf über eine Million.",
+        "annotations": [
+            {
+                "start": 50,
+                "end": 61,
+                "text": "Los Angeles",
+                "labels": [
+                    "GPE"
+                ]
+            }
+        ]
+    }
+]

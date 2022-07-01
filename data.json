@@ -1,0 +1,7306 @@
+[
+  {
+    "data": "Statistik - Wiesbaden",
+    "annotations": [
+      {
+        "start": 12,
+        "end": 21,
+        "text": "Wiesbaden",
+        "labels": [
+          "LOC"
+        ]
+      }
+    ]
+  },
+  {
+    "data": "Der Verkauf geht den Dokumenten der US-Börsenaufsicht SEC zufolge allerdings auf einen bereits im September aufgesetzten Handelsplan zurück.",
+    "annotations": [
+      {
+        "start": 36,
+        "end": 57,
+        "text": "US-Börsenaufsicht SEC",
+        "labels": [
+          "ORG"
+        ]
+      }
+    ]
+  },
+  {
+    "data": "Wer ihm dabei zusah, wie er dribbelte und Zauberpässe spielte, fühlte, wie wichtig ihm dieser erste Titel mit Argentinien sein musste. Der Beleg dafür kam mit dem Abpfiff des Endspiels, der niederkniende Messi, die Mitspieler, die nicht ihren Sieg feierten, sondern seinen, die zu ihm liefen, ihn erdrückten. Ein weinender Messi, vor Glück, vor Erleichterung. Als Unvollendeter galt er vielen, weil er, der Mann aus dem Maradona-Land, zwar die Champions League gewonnen hatte und viele andere Pokale, aber die Argentinier nie zu einem Titel geführt hatte.",
+    "annotations": [
+      {
+        "start": 110,
+        "end": 121,
+        "text": "Argentinien",
+        "labels": [
+          "LOC"
+        ]
+      },
+      {
+        "start": 204,
+        "end": 209,
+        "text": "Messi",
+        "labels": [
+          "PER"
+        ]
+      },
+      {
+        "start": 215,
+        "end": 225,
+        "text": "Mitspieler",
+        "labels": [
+          "PRF"
+        ]
+      },
+      {
+        "start": 323,
+        "end": 328,
+        "text": "Messi",
+        "labels": [
+          "PER"
+        ]
+      },
+      {
+        "start": 510,
+        "end": 521,
+        "text": "Argentinier",
+        "labels": [
+          "NAT"
+        ]
+      },
+      {
+        "start": 444,
+        "end": 460,
+        "text": "Champions League",
+        "labels": [
+          "EVN"
+        ]
+      },
+      {
+        "start": 420,
+        "end": 433,
+        "text": "Maradona-Land",
+        "labels": [
+          "LOC"
+        ]
+      }
+    ]
+  },
+  {
+    "data": "Auf diesen Effekt setzt nun offenbar auch BMW mit einem ähnlichen Designmanöver. Die jüngsten Modelle der Münchner Autobauer irritierten Fachwelt und Fans vor allem durch grotesk große BMW-Nieren. Technisch begründen lässt sich das Element nicht, zumal es auch beim künftigen Elektromodell i4 zum Einsatz kommt.",
+    "annotations": [
+      {
+        "start": 42,
+        "end": 45,
+        "text": "BMW",
+        "labels": [
+          "ORG"
+        ]
+      },
+      {
+        "start": 185,
+        "end": 188,
+        "text": "BMW",
+        "labels": [
+          "ORG"
+        ]
+      },
+      {
+        "start": 276,
+        "end": 292,
+        "text": "Elektromodell i4",
+        "labels": [
+          "PRD"
+        ]
+      }
+    ]
+  },
+  {
+    "data": "Auch jetzt hat Lewandowski herausragende Monate hinter sich. Es gab im Kalenderjahr 2021 nur vier Bundesligaspiele, in denen er keinen Treffer erzielt hat. Er übertraf Gerd Müllers Torrekord, er wurde Meister, er traf auch in der Champions League. Dort aber scheiterte der FC Bayern im Viertelfinale an Paris, Lewandowski verpasste beide Spiele verletzt. Bei der Europameisterschaft im Sommer flog Polen in der Vorrunde raus, sieglos.",
+    "annotations": [
+      {
+        "start": 15,
+        "end": 26,
+        "text": "Lewandowski",
+        "labels": [
+          "PER"
+        ]
+      },
+      {
+        "start": 168,
+        "end": 180,
+        "text": "Gerd Müllers",
+        "labels": [
+          "PER"
+        ]
+      },
+      {
+        "start": 230,
+        "end": 246,
+        "text": "Champions League",
+        "labels": [
+          "EVN"
+        ]
+      },
+      {
+        "start": 273,
+        "end": 282,
+        "text": "FC Bayern",
+        "labels": [
+          "ORG"
+        ]
+      },
+      {
+        "start": 303,
+        "end": 308,
+        "text": "Paris",
+        "labels": [
+          "ORG"
+        ]
+      },
+      {
+        "start": 310,
+        "end": 321,
+        "text": "Lewandowski",
+        "labels": [
+          "PER"
+        ]
+      },
+      {
+        "start": 363,
+        "end": 382,
+        "text": "Europameisterschaft",
+        "labels": [
+          "EVN"
+        ]
+      },
+      {
+        "start": 398,
+        "end": 403,
+        "text": "Polen",
+        "labels": [
+          "LOC"
+        ]
+      }
+    ]
+  },
+  {
+    "data": "FC Bayern spielt künftig wieder vor leeren Rängen",
+    "annotations": [
+      {
+        "start": 0,
+        "end": 9,
+        "text": "FC Bayern",
+        "labels": [
+          "ORG"
+        ]
+      }
+    ]
+  },
+  {
+    "data": "Messi, Messi, Messi, Messi, Messi, Messi, Messi.",
+    "annotations": [
+      {
+        "start": 0,
+        "end": 5,
+        "text": "Messi",
+        "labels": [
+          "PER"
+        ]
+      },
+      {
+        "start": 7,
+        "end": 12,
+        "text": "Messi",
+        "labels": [
+          "PER"
+        ]
+      },
+      {
+        "start": 14,
+        "end": 19,
+        "text": "Messi",
+        "labels": [
+          "PER"
+        ]
+      },
+      {
+        "start": 21,
+        "end": 26,
+        "text": "Messi",
+        "labels": [
+          "PER"
+        ]
+      },
+      {
+        "start": 28,
+        "end": 33,
+        "text": "Messi",
+        "labels": [
+          "PER"
+        ]
+      },
+      {
+        "start": 35,
+        "end": 40,
+        "text": "Messi",
+        "labels": [
+          "PER"
+        ]
+      },
+      {
+        "start": 42,
+        "end": 47,
+        "text": "Messi",
+        "labels": [
+          "PER"
+        ]
+      }
+    ]
+  },
+  {
+    "data": "Die Co-Trainer Andreas Neuendorf und Admir Hamzagić werden laut Mitteilung ebenfalls von ihren Aufgaben entbunden. Dem 47-jährigen Korkut werde der ehemalige Hertha-Angreifer Ilija Aračić assistieren.",
+    "annotations": [
+      {
+        "start": 4,
+        "end": 14,
+        "text": "Co-Trainer",
+        "labels": [
+          "PRF"
+        ]
+      },
+      {
+        "start": 15,
+        "end": 32,
+        "text": "Andreas Neuendorf",
+        "labels": [
+          "PER"
+        ]
+      },
+      {
+        "start": 37,
+        "end": 51,
+        "text": "Admir Hamzagić",
+        "labels": [
+          "PER"
+        ]
+      },
+      {
+        "start": 131,
+        "end": 137,
+        "text": "Korkut",
+        "labels": [
+          "PER"
+        ]
+      },
+      {
+        "start": 158,
+        "end": 174,
+        "text": "Hertha-Angreifer",
+        "labels": [
+          "PRF"
+        ]
+      },
+      {
+        "start": 175,
+        "end": 187,
+        "text": "Ilija Aračić",
+        "labels": [
+          "PER"
+        ]
+      }
+    ]
+  },
+  {
+    "data": "chon bevor das Team die Türen öffnet, drücken sich die ersten Kinder die Nasen an der Scheibe platt. Die Eltern müssen am Eingang ihre Impfnachweise vorzeigen oder sich testen lassen. Höchstens zehn Erwachsene mit Kindern dürfen rein. Einlasskontrolle, beschränkte Besucherzahl: Für ein Haus wie das Kinder- und Familienzentrum ist das eigentlich ein Widerspruch. Aber: Alle sind froh, dass sie mittlerweile wieder herkommen können.",
+    "annotations": [
+      {
+        "start": 300,
+        "end": 327,
+        "text": "Kinder- und Familienzentrum",
+        "labels": [
+          "ORG"
+        ]
+      }
+    ]
+  },
+  {
+    "data": "Sind sie jetzt endgültig verrückt geworden bei Hertha?",
+    "annotations": [
+      {
+        "start": 47,
+        "end": 53,
+        "text": "Hertha",
+        "labels": [
+          "ORG"
+        ]
+      }
+    ]
+  },
+  {
+    "data": "m Mai hatte das Bundesverfassungsgericht in einer Eilentscheidung die Ausgangssperre vorläufig gebilligt. Nun ist die spannende Frage, was der erste Senat in seinem endgültigen Beschluss dazu entscheiden wird.Frage der VerhältnismäßigkeitOb ein solch massiver Grundrechtseingriff verhältnismäßig und angemessen ist, haben die Richterinnen und Richter in den vergangenen Monaten intensiv geprüft. Gleiches gilt für die Kontaktbeschränkungen - auch sie waren im Mai in einer vorläufigen Eilentscheidung gebilligt worden.Mit der Bundesnotbremse wurde bundesweit auch vorgeschrieben, dass bei einem stabilen Inzidenzwert von 165 Schulen geschlossen werden müssen. Für Eltern, Schülerinnen und Schüler waren die Schulschließungen eine massive Belastung. Die 15-jährige Schülerin Anouk aus Baden-Württemberg schildert, was sie damals erlebt hat. Sie spricht von enormen, psychischen Folgen.",
+    "annotations": [
+      {
+        "start": 16,
+        "end": 40,
+        "text": "Bundesverfassungsgericht",
+        "labels": [
+          "ORG"
+        ]
+      },
+      {
+        "start": 149,
+        "end": 154,
+        "text": "Senat",
+        "labels": [
+          "ORG"
+        ]
+      },
+      {
+        "start": 326,
+        "end": 338,
+        "text": "Richterinnen",
+        "labels": [
+          "PRF"
+        ]
+      },
+      {
+        "start": 343,
+        "end": 350,
+        "text": "Richter",
+        "labels": [
+          "PRF"
+        ]
+      },
+      {
+        "start": 526,
+        "end": 541,
+        "text": "Bundesnotbremse",
+        "labels": [
+          "EVN"
+        ]
+      },
+      {
+        "start": 672,
+        "end": 684,
+        "text": "Schülerinnen",
+        "labels": [
+          "PRF"
+        ]
+      },
+      {
+        "start": 689,
+        "end": 696,
+        "text": "Schüler",
+        "labels": [
+          "PRF"
+        ]
+      },
+      {
+        "start": 764,
+        "end": 773,
+        "text": "Schülerin",
+        "labels": [
+          "PRF"
+        ]
+      },
+      {
+        "start": 774,
+        "end": 779,
+        "text": "Anouk",
+        "labels": [
+          "PER"
+        ]
+      },
+      {
+        "start": 784,
+        "end": 801,
+        "text": "Baden-Württemberg",
+        "labels": [
+          "LOC"
+        ]
+      }
+    ]
+  },
+  {
+    "data": "Fußball-Bundesliga",
+    "annotations": [
+      {
+        "start": 0,
+        "end": 18,
+        "text": "Fußball-Bundesliga",
+        "labels": [
+          "EVN"
+        ]
+      }
+    ]
+  },
+  {
+    "data": "Ganz anders der Final D8000 Pro Edition: Mit seinem silberfarbenen Gehäuse aus einer Aluminium-Magnesium-Legierung bestehend, dem schwarzen Lederbügel und den schwarzen Kunststoffpolstern wirkt er wie ein technokratisches Statement japanischer Ingenieure. Wer ihn greift und aufsetzt, fühlt sich wie auserwählt. Eine vergleichbare Erscheinung in der Welt der Kopfhörer kennen wir nicht. Obwohl das Gehäuse massiv und schwer aussieht, kommt der D8000 Pro „nur“ auf ein Gewicht von 523 Gramm. Damit ist er etwa 50 Gramm leichter als der Peacock von Sendy Audio. Der Goldige trägt sich etwas angenehmer als der Silberling. Die doppelte Bügelkonstruktion des Peacock verteilt das Gewicht besser. In beiden Muscheln haben die Ohren genügend Platz und Luft. Der Kunststoff des D8000 Pro gefällt auf der Haut genauso wie das Leder des Peacock.",
+    "annotations": [
+      {
+        "start": 16,
+        "end": 39,
+        "text": "Final D8000 Pro Edition",
+        "labels": [
+          "PRD"
+        ]
+      },
+      {
+        "start": 232,
+        "end": 243,
+        "text": "japanischer",
+        "labels": [
+          "NAT"
+        ]
+      },
+      {
+        "start": 244,
+        "end": 254,
+        "text": "Ingenieure",
+        "labels": [
+          "PRF"
+        ]
+      },
+      {
+        "start": 444,
+        "end": 453,
+        "text": "D8000 Pro",
+        "labels": [
+          "PRD"
+        ]
+      },
+      {
+        "start": 535,
+        "end": 542,
+        "text": "Peacock",
+        "labels": [
+          "PRD"
+        ]
+      },
+      {
+        "start": 547,
+        "end": 558,
+        "text": "Sendy Audio",
+        "labels": [
+          "ORG"
+        ]
+      },
+      {
+        "start": 655,
+        "end": 662,
+        "text": "Peacock",
+        "labels": [
+          "PRD"
+        ]
+      },
+      {
+        "start": 771,
+        "end": 780,
+        "text": "D8000 Pro",
+        "labels": [
+          "PRD"
+        ]
+      },
+      {
+        "start": 828,
+        "end": 835,
+        "text": "Peacock",
+        "labels": [
+          "PRD"
+        ]
+      }
+    ]
+  },
+  {
+    "data": "Auch der Kritik an besagter Bedienleiste für Temperatur und Audiolautstärke stimmen wir zu: Man gewöhnt sich nicht daran, das ist Murks. Was sich auf dem Monitor zeigt, folgt einem minimalistischen Design in Microsoft-Optik. Die Hauptmenüs sind durch viereckige Kacheln visualisiert, der Finger landet schnell auf dem entsprechenden Eintrag. Allerdings sieht man auch sofort, dass der Bordmonitor seine Inhalte nur auf vier Fünfteln der Fläche zeigt. Links gibt es zwar ein Symbol fürs Einstellen der Sitzheizung. Tippt man auf die Schaltfläche, hat man diese jedoch keineswegs aktiviert. Vielmehr baut sich dann ein Klima-Menü auf, und hier muss man noch einmal auf das nun an einer anderen Stelle platzierte Sitz-Symbol tippen. Widersinnig, und bei uns schaltete sich die Beifahrersitzheizung des Öfteren von allein wieder aus.",
+    "annotations": [
+      {
+        "start": 208,
+        "end": 217,
+        "text": "Microsoft",
+        "labels": [
+          "ORG"
+        ]
+      }
+    ]
+  },
+  {
+    "data": "Monika kommt gern mit ihren zwei kleinen Töchtern ins KiFaZ: \"In der Corona-Zeit war für mich schwierig, dass ich mit beiden Kindern alleine war. Alles hatte zu, es gab kaum Gelegenheiten, etwas zu unternehmen.\" Auch für Mihret ist das KiFaZ wie ein zweites Zuhause: \"Ich habe hier viele nette Leute kennengelernt und mein Deutsch verbessert.\" Gerade während des Lockdowns, sagt sie, hat das Team ihrer Familie sehr geholfen: \"Sie haben zweimal die Woche essen gekocht, das konnten wir uns dann abholen.\"",
+    "annotations": [
+      {
+        "start": 0,
+        "end": 6,
+        "text": "Monika",
+        "labels": [
+          "PER"
+        ]
+      },
+      {
+        "start": 54,
+        "end": 59,
+        "text": "KiFaZ",
+        "labels": [
+          "ORG"
+        ]
+      },
+      {
+        "start": 236,
+        "end": 241,
+        "text": "KiFaZ",
+        "labels": [
+          "ORG"
+        ]
+      }
+    ]
+  },
+  {
+    "data": "Mercedes-Stern, Audi-Ringe, BMW-Niere – bei vielen Automodellen genügt ein Blick, um die Marke eindeutig zu identifizieren. Für die Hersteller ist ein derart prominentes Erkennungszeichen ein Segen, denn spätestens seit dem SUV-Boom gleichen sich Autos optisch immer weiter an: Ob Verbrenner-, Hybrid- oder Elektrotechnik, sie steckt meist im Karosseriekörper eines Minilastwagens. Stern, Ringe, Niere oder andere Markensymbole sind daher oft das einzig verbliebene Merkmal am Auto, um seine Herkunft zweifelsfrei zu bestimmen.",
+    "annotations": [
+      {
+        "start": 0,
+        "end": 8,
+        "text": "Mercedes",
+        "labels": [
+          "ORG"
+        ]
+      },
+      {
+        "start": 16,
+        "end": 20,
+        "text": "Audi",
+        "labels": [
+          "ORG"
+        ]
+      },
+      {
+        "start": 28,
+        "end": 31,
+        "text": "BMW",
+        "labels": [
+          "ORG"
+        ]
+      },
+      {
+        "start": 224,
+        "end": 227,
+        "text": "SUV",
+        "labels": [
+          "PRD"
+        ]
+      }
+    ]
+  },
+  {
+    "data": "In Stuttgart hatte er damit 2018 Erfolg. Damals übernahm Korkut den VfB ebenfalls auf Platz 14, machte ihn dann aber zur zweitbesten Mannschaft der Rückrunde und verpasste die Qualifikation zur Europa League nur knapp. Doch nach sieben Spielen in der neuen Saison und einem Ausscheiden im Pokal musste er gehen.",
+    "annotations": [
+      {
+        "start": 3,
+        "end": 12,
+        "text": "Stuttgart",
+        "labels": [
+          "LOC"
+        ]
+      },
+      {
+        "start": 57,
+        "end": 63,
+        "text": "Korkut",
+        "labels": [
+          "PER"
+        ]
+      },
+      {
+        "start": 68,
+        "end": 71,
+        "text": "VfB",
+        "labels": [
+          "ORG"
+        ]
+      },
+      {
+        "start": 194,
+        "end": 207,
+        "text": "Europa League",
+        "labels": [
+          "EVN"
+        ]
+      }
+    ]
+  },
+  {
+    "data": "Das Robert Koch-Institut hat für Niedersachsen 1.697 labordiagnostisch bestätigte Neuinfektionen mit dem Coronavirus gemeldet. Es sind 17 weitere Todesfälle verzeichnet worden. Die Zahl der Menschen, die in Niedersachsen im Zusammenhang mit dem Virus gestorben sind, liegt somit bei 6.346. Die Sieben-Tage-Inzidenz beträgt im Landesdurchschnitt 215,7 Fälle je 100.000 Einwohner (Vortag: 217,4).",
+    "annotations": [
+      {
+        "start": 4,
+        "end": 24,
+        "text": "Robert Koch-Institut",
+        "labels": [
+          "ORG"
+        ]
+      },
+      {
+        "start": 33,
+        "end": 46,
+        "text": "Niedersachsen",
+        "labels": [
+          "LOC"
+        ]
+      },
+      {
+        "start": 207,
+        "end": 220,
+        "text": "Niedersachsen",
+        "labels": [
+          "LOC"
+        ]
+      }
+    ]
+  },
+  {
+    "data": "In Mecklenburg-Vorpommern sank die Zahl der Arbeitslosen im November im Vergleich zum Vormonat nur leicht. Im Vergleich zu Oktober sei die Arbeitslosenzahl nur um 40 Personen auf 54.500 gesunken, teilte die Arbeitsagentur Nord mit. Dies sei ein Rückgang um 0,1 Prozent. Im Vergleich zum November des Vorjahres waren es dagegen 7.500 Jobsuchende weniger. Die Arbeitslosenquote lag im November den Angaben zufolge wie im Vormonat bei 6,7 Prozent, im November 2020 waren es 7,5 Prozent. Die Arbeitsagentur verwies dennoch auf den deutlichen Rückgang im Vergleich zum Vorjahr im Rahmen einer auslaufenden Herbstbelebung am Arbeitsmarkt. \"Speziell die Jugendarbeitslosigkeit ist erneut überproportional zurückgegangen\", sagte Haupt-Koopmann.",
+    "annotations": [
+      {
+        "start": 3,
+        "end": 25,
+        "text": "Mecklenburg-Vorpommern",
+        "labels": [
+          "LOC"
+        ]
+      },
+      {
+        "start": 207,
+        "end": 226,
+        "text": "Arbeitsagentur Nord",
+        "labels": [
+          "ORG"
+        ]
+      },
+      {
+        "start": 448,
+        "end": 461,
+        "text": "November 2020",
+        "labels": [
+          "DAT"
+        ]
+      },
+      {
+        "start": 488,
+        "end": 502,
+        "text": "Arbeitsagentur",
+        "labels": [
+          "ORG"
+        ]
+      },
+      {
+        "start": 721,
+        "end": 735,
+        "text": "Haupt-Koopmann",
+        "labels": [
+          "PER"
+        ]
+      }
+    ]
+  },
+  {
+    "data": "Verfassungsschutzpräsident rechnet nicht mit Gewalt bei Corona-Demos",
+    "annotations": [
+      {
+        "start": 0,
+        "end": 26,
+        "text": "Verfassungsschutzpräsident",
+        "labels": [
+          "PRF"
+        ]
+      }
+    ]
+  },
+  {
+    "data": "08:11 Uhr",
+    "annotations": [
+      {
+        "start": 0,
+        "end": 9,
+        "text": "08:11 Uhr",
+        "labels": [
+          "TIM"
+        ]
+      }
+    ]
+  },
+  {
+    "data": "In der vergangenen Saison rettete er Hertha BSC noch vor dem Abstieg. Doch zuletzt stagnierten die Berliner. Nun musste Pál Dárdai gehen. Tayfun Korkut soll die Berliner aus dem Tabellenkeller führen.",
+    "annotations": [
+      {
+        "start": 37,
+        "end": 47,
+        "text": "Hertha BSC",
+        "labels": [
+          "ORG"
+        ]
+      },
+      {
+        "start": 120,
+        "end": 130,
+        "text": "Pál Dárdai",
+        "labels": [
+          "PER"
+        ]
+      },
+      {
+        "start": 138,
+        "end": 151,
+        "text": "Tayfun Korkut",
+        "labels": [
+          "PER"
+        ]
+      }
+    ]
+  },
+  {
+    "data": "05:48 Uhr",
+    "annotations": [
+      {
+        "start": 0,
+        "end": 9,
+        "text": "05:48 Uhr",
+        "labels": [
+          "TIM"
+        ]
+      }
+    ]
+  },
+  {
+    "data": "12:20 Uhr",
+    "annotations": [
+      {
+        "start": 0,
+        "end": 9,
+        "text": "12:20 Uhr",
+        "labels": [
+          "TIM"
+        ]
+      }
+    ]
+  },
+  {
+    "data": "09:25 Uhr",
+    "annotations": [
+      {
+        "start": 0,
+        "end": 9,
+        "text": "09:25 Uhr",
+        "labels": [
+          "TIM"
+        ]
+      }
+    ]
+  },
+  {
+    "data": "Erzieherin Jessica Willbrandt betreut die Sechs- bis Zwölfjährigen und spürt deutlich, wie sehr es die Kinder genießen, wieder hier sein zu können. \"Mir ist es total wichtig, dass sie dem Alltag ein bisschen entfliehen können. Sich austoben, mal Quatsch machen, einfach die Zeit genießen.\"",
+    "annotations": [
+      {
+        "start": 0,
+        "end": 10,
+        "text": "Erzieherin",
+        "labels": [
+          "PRF"
+        ]
+      },
+      {
+        "start": 11,
+        "end": 29,
+        "text": "Jessica Willbrandt",
+        "labels": [
+          "PER"
+        ]
+      }
+    ]
+  },
+  {
+    "data": "Auch BMW hält bis heute wenig von Understatement. \"Ein BMW sollte immer so aussehen, als wolle er die Straße vor sich auffressen\", sagte Chefdesigner Adrian van Hooydonk im vergangenen Jahr.",
+    "annotations": [
+      {
+        "start": 5,
+        "end": 8,
+        "text": "BMW",
+        "labels": [
+          "ORG"
+        ]
+      },
+      {
+        "start": 55,
+        "end": 58,
+        "text": "BMW",
+        "labels": [
+          "ORG"
+        ]
+      },
+      {
+        "start": 137,
+        "end": 149,
+        "text": "Chefdesigner",
+        "labels": [
+          "PRD"
+        ]
+      },
+      {
+        "start": 150,
+        "end": 169,
+        "text": "Adrian van Hooydonk",
+        "labels": [
+          "PER"
+        ]
+      }
+    ]
+  },
+  {
+    "data": "06:43 Uhr",
+    "annotations": [
+      {
+        "start": 0,
+        "end": 9,
+        "text": "06:43 Uhr",
+        "labels": [
+          "NAT"
+        ]
+      }
+    ]
+  },
+  {
+    "data": "Niedersachsen: Krisenstab informiert über aktuelle Lage",
+    "annotations": [
+      {
+        "start": 0,
+        "end": 13,
+        "text": "Niedersachsen",
+        "labels": [
+          "LOC"
+        ]
+      }
+    ]
+  },
+  {
+    "data": "Gemeldete Neuinfektionen im Norden: 1.697 in Niedersachsen, 605 in Schleswig-Holstein - bundesweit 45.751 neue Fälle",
+    "annotations": [
+      {
+        "start": 45,
+        "end": 58,
+        "text": "Niedersachsen",
+        "labels": [
+          "LOC"
+        ]
+      },
+      {
+        "start": 67,
+        "end": 85,
+        "text": "Schleswig-Holstein",
+        "labels": [
+          "LOC"
+        ]
+      }
+    ]
+  },
+  {
+    "data": "Dabei überrascht weniger, dass dieses organische Konstrukt funktioniert, sondern vielmehr die Tatsache, dass es sich um einen Stahlrahmen handelt. Während Carbon als Werkstoff längst neue Gestaltungsspielräume eröffnet, erschienen die Möglichkeiten mit Stahl beschränkt. Möglich macht dies erst ein spezielles 3-D-Druckverfahren, bei dem Metallpulver schichtweise aufgebaut und mit einem Laser verschmolzen wird. Auf diese Art fertigt Urwahn die Verbindungselemente des Rahmens. Die geraden Rohre bestehen aus tiefgezogenem CroMo-Stahl. Zusammengefügt werden alle Teile in Handarbeit bei Rotor Bike, einem Rahmenbauer aus Leipzig, in dessen Verantwortung auch das makellose Verschleifen der Verwindungsstellen liegt.",
+    "annotations": [
+      {
+        "start": 435,
+        "end": 441,
+        "text": "Urwahn",
+        "labels": [
+          "ORG"
+        ]
+      },
+      {
+        "start": 588,
+        "end": 598,
+        "text": "Rotor Bike",
+        "labels": [
+          "PRD"
+        ]
+      },
+      {
+        "start": 622,
+        "end": 629,
+        "text": "Leipzig",
+        "labels": [
+          "LOC"
+        ]
+      }
+    ]
+  },
+  {
+    "data": "Allerdings natürlich in Grenzen: Exekutive und Parlamente müssen weiterhin ständig vor Augen haben, dass es sich um tiefgreifende Grundrechtseingriffe handelt, die einer plausiblen Rechtfertigung bedürfen und fortlaufend überprüft werden müssen. Die schweren Einschränkungen sind „in der äußersten Gefahrenlage der Pandemie“ gerechtfertigt gewesen. Mit Blick auf die Schulschließungen hat der Erste Senat unter Vorsitz von Gerichtspräsident Stephan Harbarth sogar ein neues Grundrecht geschaffen: Ein Recht der Kinder auf schulische Bildung. Bisher wurden deren Grundrechte auf diesem Feld vor allem über die Eltern vermittelt. Jetzt gibt es erstmals originäre Rechte der Kinder und Jugendlichen gegenüber dem Staat, also jener jungen Leute, die ein Treiber der Pandemie sind, obwohl sie selbst nicht schwer erkranken können, und die im Lockdown besonders gelitten haben.",
+    "annotations": [
+      {
+        "start": 423,
+        "end": 440,
+        "text": "Gerichtspräsident",
+        "labels": [
+          "PRF"
+        ]
+      },
+      {
+        "start": 441,
+        "end": 457,
+        "text": "Stephan Harbarth",
+        "labels": [
+          "PER"
+        ]
+      }
+    ]
+  },
+  {
+    "data": "Denn mit Kritik an den Corona-Maßnahmen, die jeder äußern kann und die Gegenstand der politischen Debatte sind, haben die Drohungen und Wahnvorstellungen eines Hildmann längst nichts mehr zu tun. Er lebt in seinem eigenen Reich. Bleibt zu hoffen, dass deutsche Staatsdiener, die einem wie ihm huldigen oder helfen wollen, die absolute Ausnahme bilden.",
+    "annotations": [
+      {
+        "start": 160,
+        "end": 168,
+        "text": "Hildmann",
+        "labels": [
+          "PER"
+        ]
+      },
+      {
+        "start": 261,
+        "end": 273,
+        "text": "Staatsdiener",
+        "labels": [
+          "PRF"
+        ]
+      },
+      {
+        "start": 252,
+        "end": 260,
+        "text": "deutsche",
+        "labels": [
+          "NAT"
+        ]
+      }
+    ]
+  },
+  {
+    "data": "Das flüchtige Paar, eine Portugiesin und ihr spanischer Freund, war am Sonntag von Grenzpolizisten in einem Flugzeug gefasst worden, das nach Spanien fliegen sollte. Die beiden hatten zuvor ein Hotel verlassen, in dem positiv auf das Coronavirus getestete Reisende aus Südafrika untergebracht sind. Bei einigen von ihnen wurde auch die neue Omikron-Variante festgestellt.",
+    "annotations": [
+      {
+        "start": 25,
+        "end": 36,
+        "text": "Portugiesin",
+        "labels": [
+          "NAT"
+        ]
+      },
+      {
+        "start": 45,
+        "end": 55,
+        "text": "spanischer",
+        "labels": [
+          "NAT"
+        ]
+      },
+      {
+        "start": 142,
+        "end": 149,
+        "text": "Spanien",
+        "labels": [
+          "LOC"
+        ]
+      },
+      {
+        "start": 269,
+        "end": 278,
+        "text": "Südafrika",
+        "labels": [
+          "LOC"
+        ]
+      }
+    ]
+  },
+  {
+    "data": "Bundeskanzlerin Angela Merkel hat angesichts der immer größer werdenden Not von Tausenden Migranten an der polnischen EU-Außengrenze mit dem belarussischen Machthaber Alexander Lukaschenko telefoniert. Das teilte Regierungssprecher Steffen Seibert mit. Es sei bei dem Telefonat um \"die schwierige Situation an der Grenze zwischen Belarus und der Europäischen Union\" gegangen. Erst kurz vor dem Gespräch haben die EU-Außenminister neue Sanktionen gegen das osteuropäische Land beschlossen, auch die USA bereiten Strafmaßnahmen vor.",
+    "annotations": [
+      {
+        "start": 0,
+        "end": 15,
+        "text": "Bundeskanzlerin",
+        "labels": [
+          "PRF"
+        ]
+      },
+      {
+        "start": 16,
+        "end": 29,
+        "text": "Angela Merkel",
+        "labels": [
+          "PER"
+        ]
+      },
+      {
+        "start": 118,
+        "end": 120,
+        "text": "EU",
+        "labels": [
+          "ORG"
+        ]
+      },
+      {
+        "start": 167,
+        "end": 188,
+        "text": "Alexander Lukaschenko",
+        "labels": [
+          "PER"
+        ]
+      },
+      {
+        "start": 213,
+        "end": 231,
+        "text": "Regierungssprecher",
+        "labels": [
+          "PRF"
+        ]
+      },
+      {
+        "start": 232,
+        "end": 247,
+        "text": "Steffen Seibert",
+        "labels": [
+          "PER"
+        ]
+      },
+      {
+        "start": 330,
+        "end": 337,
+        "text": "Belarus",
+        "labels": [
+          "LOC"
+        ]
+      },
+      {
+        "start": 346,
+        "end": 364,
+        "text": "Europäischen Union",
+        "labels": [
+          "ORG"
+        ]
+      },
+      {
+        "start": 413,
+        "end": 429,
+        "text": "EU-Außenminister",
+        "labels": [
+          "PRF"
+        ]
+      },
+      {
+        "start": 498,
+        "end": 501,
+        "text": "USA",
+        "labels": [
+          "LOC"
+        ]
+      },
+      {
+        "start": 107,
+        "end": 117,
+        "text": "polnischen",
+        "labels": [
+          "NAT"
+        ]
+      },
+      {
+        "start": 141,
+        "end": 155,
+        "text": "belarussischen",
+        "labels": [
+          "NAT"
+        ]
+      },
+      {
+        "start": 456,
+        "end": 470,
+        "text": "osteuropäische",
+        "labels": [
+          "NAT"
+        ]
+      }
+    ]
+  },
+  {
+    "data": "Bundesweit verringerte sich die Zahl der Arbeitslosen gegenüber dem November des Vorjahres 2020 um 382.000 Arbeitslose oder 0,8 Prozentpunkte. Im Vergleich zum Vormonat Oktober sank die Zahl \"deutlich\" um 60.000 auf 2,317 Millionen , wie die Bundesagentur für Arbeit (BA) am Dienstag in Nürnberg mitteilte. Die Arbeitslosenquote ging um 0,1 Prozentpunkte auf 5,1 Prozent zurück. Auch die Inanspruchnahme der Kurzarbeit ging laut Daten der BA zuletzt weiter zurück. Im September - dem aktuellsten Monat, für den Zahlen zur tatsächlichen Inanspruchnahme verfügbar sind - waren 751.000 Arbeitnehmerinnen und Arbeitnehmer in Kurzarbeit. Ihren Höhepunkt hatte die Kurzarbeit in Deutschland im April 2020 zu Beginn der Corona-Pandemie mit knapp sechs Millionen Beziehern erreicht.",
+    "annotations": [
+      {
+        "start": 242,
+        "end": 271,
+        "text": "Bundesagentur für Arbeit (BA)",
+        "labels": [
+          "ORG"
+        ]
+      },
+      {
+        "start": 287,
+        "end": 295,
+        "text": "Nürnberg",
+        "labels": [
+          "LOC"
+        ]
+      },
+      {
+        "start": 439,
+        "end": 441,
+        "text": "BA",
+        "labels": [
+          "ORG"
+        ]
+      },
+      {
+        "start": 673,
+        "end": 684,
+        "text": "Deutschland",
+        "labels": [
+          "LOC"
+        ]
+      },
+      {
+        "start": 688,
+        "end": 698,
+        "text": "April 2020",
+        "labels": [
+          "DAT"
+        ]
+      }
+    ]
+  },
+  {
+    "data": " Häufige Unfälle mit elektrischen Tretrollern: Die Helmpflicht für E-Scooter ist richtig – wird aber nicht kommen Von Hannes Schrader",
+    "annotations": [
+      {
+        "start": 118,
+        "end": 133,
+        "text": "Hannes Schrader",
+        "labels": [
+          "PER"
+        ]
+      }
+    ]
+  },
+  {
+    "data": "Mit welcher Begründung will die Bundesregierung weiterhin diesen überproportionalen CO2-Ausstoß für sich beanspruchen? Kaum ein Schwellen- oder Entwicklungsland dürfte das für gerecht halten. Mit einer besonderen Verantwortung der Industriestaaten zur Lösung der Klimakrise, wie sie im Pariser Abkommen gemeint ist, hat dies jedenfalls wenig zu tun. Wohl weil sich das nicht begründen lässt, schweigt die Regierung lieber vornehm über das beanspruchte Emissionsbudget.",
+    "annotations": [
+      {
+        "start": 286,
+        "end": 302,
+        "text": "Pariser Abkommen",
+        "labels": [
+          "DOC"
+        ]
+      },
+      {
+        "start": 32,
+        "end": 47,
+        "text": "Bundesregierung",
+        "labels": [
+          "ORG"
+        ]
+      }
+    ]
+  },
+  {
+    "data": "Die Corona-Pandemie hatte den internationalen Tourismus fast komplett lahmgelegt. Jetzt stehen die Zeichen auf Erholung – davon profitiert auch der Flugzeugbauer Airbus. Die Bestellung kommt von vier Billig-Airlines.",
+    "annotations": [
+      {
+        "start": 162,
+        "end": 168,
+        "text": "Airbus",
+        "labels": [
+          "ORG"
+        ]
+      }
+    ]
+  },
+  {
+    "data": "Wie viel von diesem Restbudget jedes Land für sich beansprucht, ist ebenso wichtig wie ungeklärt. Im Pariser Abkommen findet man dazu nur ein Grundprinzip der gerechten Verteilung: die gemeinsame, aber differenzierte Verantwortung. Allgemein wird das so verstanden, dass die Industrienationen den Gürtel noch enger schnallen müssen, weil sie den größten Anteil der bisherigen CO2-Emissionen verursacht haben.",
+    "annotations": [
+      {
+        "start": 101,
+        "end": 117,
+        "text": "Pariser Abkommen",
+        "labels": [
+          "DOC"
+        ]
+      }
+    ]
+  },
+  {
+    "data": "s ist klar, wer vor allem gemeint ist: China. Dort sitzt der Bahnindustriekonzern China Railway Rolling Stock Corporation. Entstanden vor sieben Jahren aus dem Zusammenschluss zweier Staatsunternehmen, ist CRRC mit mehr als 180.000 Mitarbeitern der größte Zugproduzent der Welt. Er hat den einst dominierenden Herstellern im Westen längst den Rang abgelaufen. Während CRRC quasi als dreiteiliger Langzug unterwegs ist, fahren die Konkurrenten Siemens und Alstom/Bombardier allenfalls als einteiliger Kurzzug vor. Dieser Vergleich trifft die tatsächlichen Machtverhältnisse relativ gut.",
+    "annotations": [
+      {
+        "start": 39,
+        "end": 44,
+        "text": "China",
+        "labels": [
+          "LOC"
+        ]
+      },
+      {
+        "start": 82,
+        "end": 121,
+        "text": "China Railway Rolling Stock Corporation",
+        "labels": [
+          "ORG"
+        ]
+      },
+      {
+        "start": 206,
+        "end": 210,
+        "text": "CRRC",
+        "labels": [
+          "ORG"
+        ]
+      },
+      {
+        "start": 368,
+        "end": 372,
+        "text": "CRRC",
+        "labels": [
+          "ORG"
+        ]
+      },
+      {
+        "start": 443,
+        "end": 450,
+        "text": "Siemens",
+        "labels": [
+          "ORG"
+        ]
+      },
+      {
+        "start": 455,
+        "end": 472,
+        "text": "Alstom/Bombardier",
+        "labels": [
+          "ORG"
+        ]
+      }
+    ]
+  },
+  {
+    "data": "Das elektrische Waldwiesel von Urwahn ist bildhübsch und entstammt heimischer Produktion. Drucker und Laser gestalten die Elemente.",
+    "annotations": [
+      {
+        "start": 16,
+        "end": 26,
+        "text": "Waldwiesel",
+        "labels": [
+          "PRD"
+        ]
+      },
+      {
+        "start": 31,
+        "end": 37,
+        "text": "Urwahn",
+        "labels": [
+          "ORG"
+        ]
+      }
+    ]
+  },
+  {
+    "data": "»Überrascht hat uns die deutliche Verschlechterung der Fahrleistung auf etwa die Hälfte – ab einer Alkoholisierung um 0,3 Promille«, berichteten die Professoren Thomas Daldrup und Benno Hartung im Düsseldorfer Institut für Rechtsmedizin.",
+    "annotations": [
+      {
+        "start": 149,
+        "end": 160,
+        "text": "Professoren",
+        "labels": [
+          "PRF"
+        ]
+      },
+      {
+        "start": 161,
+        "end": 175,
+        "text": "Thomas Daldrup",
+        "labels": [
+          "PER"
+        ]
+      },
+      {
+        "start": 180,
+        "end": 193,
+        "text": "Benno Hartung",
+        "labels": [
+          "PER"
+        ]
+      },
+      {
+        "start": 197,
+        "end": 236,
+        "text": "Düsseldorfer Institut für Rechtsmedizin",
+        "labels": [
+          "ORG"
+        ]
+      }
+    ]
+  },
+  {
+    "data": "Washington D.C./Swjosdny Gorodok - Wegen einer möglichen Kollision mit Weltraumschrott ist die  zweimal kurzzeitig geräumt worden. Die sieben Raumfahrer hätten sich am Montag zwei Mal in zwei an der Station angedockten Raumschiffen in Sicherheit gebracht, sagte der Kosmonaut Pjotr Dubrow der Staatsagentur Tass zufolge.",
+    "annotations": [
+      {
+        "start": 0,
+        "end": 16,
+        "text": "Washington D.C./",
+        "labels": [
+          "LOC"
+        ]
+      },
+      {
+        "start": 16,
+        "end": 32,
+        "text": "Swjosdny Gorodok",
+        "labels": [
+          "PER"
+        ]
+      },
+      {
+        "start": 142,
+        "end": 152,
+        "text": "Raumfahrer",
+        "labels": [
+          "PRF"
+        ]
+      },
+      {
+        "start": 266,
+        "end": 275,
+        "text": "Kosmonaut",
+        "labels": [
+          "PRF"
+        ]
+      },
+      {
+        "start": 276,
+        "end": 288,
+        "text": "Pjotr Dubrow",
+        "labels": [
+          "PER"
+        ]
+      },
+      {
+        "start": 307,
+        "end": 311,
+        "text": "Tass",
+        "labels": [
+          "ORG"
+        ]
+      }
+    ]
+  },
+  {
+    "data": "Das größte Risiko trägt freilich Bobic selbst. Nach seiner erfolgreichen Zeit in Frankfurt genießt er bisher in der Branche und auch bei Hertha einen tadellosen Ruf. Geht die Sache mit Korkut allerdings schief, ist Bobic schwer beschädigt",
+    "annotations": [
+      {
+        "start": 33,
+        "end": 38,
+        "text": "Bobic",
+        "labels": [
+          "PER"
+        ]
+      },
+      {
+        "start": 81,
+        "end": 90,
+        "text": "Frankfurt",
+        "labels": [
+          "LOC"
+        ]
+      },
+      {
+        "start": 137,
+        "end": 143,
+        "text": "Hertha",
+        "labels": [
+          "ORG"
+        ]
+      },
+      {
+        "start": 185,
+        "end": 191,
+        "text": "Korkut",
+        "labels": [
+          "PER"
+        ]
+      },
+      {
+        "start": 215,
+        "end": 220,
+        "text": "Bobic",
+        "labels": [
+          "PER"
+        ]
+      }
+    ]
+  },
+  {
+    "data": "Dass Omikron in einem Patienten mit HIV oder einer anderen Form der Immunschwäche entstanden ist, hält auch Carsten Watzl, Generalsekretär der Deutschen Gesellschaft für Immunologie (DGfI), für denkbar und wahrscheinlich. In Menschen mit geschwächtem Immunsystem könne sich das Virus über viele Wochen vermehren, sagte er der Nachrichtenagentur dpa. »Dabei können immer wieder vereinzelt Mutationen auftreten, die dem Virus eventuell keinen Vorteil bringen, die sich aber aufgrund der fehlenden Kontrolle durch das Immunsystem dennoch weiter vermehren können.« Dadurch könnten zusätzliche Mutationen entstehen, die dann in der Kombination eventuell einen Vorteil brächten.",
+    "annotations": [
+      {
+        "start": 123,
+        "end": 138,
+        "text": "Generalsekretär",
+        "labels": [
+          "PRF"
+        ]
+      },
+      {
+        "start": 143,
+        "end": 187,
+        "text": "Deutschen Gesellschaft für Immunologie (DGfI",
+        "labels": [
+          "ORG"
+        ]
+      },
+      {
+        "start": 345,
+        "end": 348,
+        "text": "dpa",
+        "labels": [
+          "ORG"
+        ]
+      }
+    ]
+  },
+  {
+    "data": "Die vier Linien Wizz Air (Ungarn), Frontier (USA), Volaris (Mexiko) und Jetsmart (Chile/Argentinien) hätten „in den letzten Monaten schnell und entschlossen gehandelt, um sich für diese wegweisende Bestellung zu positionieren“, sagte Airbus-Verkaufschef Christian Scherer. Zugleich würden „die Folgen der Pandemie nachlassen“ und die Welt wolle wieder mehr nachhaltig fliegen.",
+    "annotations": [
+      {
+        "start": 16,
+        "end": 24,
+        "text": "Wizz Air",
+        "labels": [
+          "ORG"
+        ]
+      },
+      {
+        "start": 26,
+        "end": 32,
+        "text": "Ungarn",
+        "labels": [
+          "LOC"
+        ]
+      },
+      {
+        "start": 35,
+        "end": 43,
+        "text": "Frontier",
+        "labels": [
+          "ORG"
+        ]
+      },
+      {
+        "start": 45,
+        "end": 48,
+        "text": "USA",
+        "labels": [
+          "LOC"
+        ]
+      },
+      {
+        "start": 51,
+        "end": 58,
+        "text": "Volaris",
+        "labels": [
+          "ORG"
+        ]
+      },
+      {
+        "start": 60,
+        "end": 66,
+        "text": "Mexiko",
+        "labels": [
+          "LOC"
+        ]
+      },
+      {
+        "start": 72,
+        "end": 80,
+        "text": "Jetsmart",
+        "labels": [
+          "ORG"
+        ]
+      },
+      {
+        "start": 82,
+        "end": 87,
+        "text": "Chile",
+        "labels": [
+          "LOC"
+        ]
+      },
+      {
+        "start": 88,
+        "end": 99,
+        "text": "Argentinien",
+        "labels": [
+          "LOC"
+        ]
+      },
+      {
+        "start": 234,
+        "end": 253,
+        "text": "Airbus-Verkaufschef",
+        "labels": [
+          "PRF"
+        ]
+      },
+      {
+        "start": 254,
+        "end": 271,
+        "text": "Christian Scherer",
+        "labels": [
+          "PER"
+        ]
+      }
+    ]
+  },
+  {
+    "data": "xDer Flugzeugbauer Airbus kann sich über eine Großbestellung über 255 Maschinen freuen. Die Branche erholt sich, bei manchen Fluggesellschaften steht sogar das Riesenflugzeug A380 vor einem Comeback.",
+    "annotations": [
+      {
+        "start": 19,
+        "end": 25,
+        "text": "Airbus",
+        "labels": [
+          "ORG"
+        ]
+      },
+      {
+        "start": 175,
+        "end": 179,
+        "text": "A380",
+        "labels": [
+          "PRD"
+        ]
+      }
+    ]
+  },
+  {
+    "data": "Den Auftragswert teilte Airbus nicht mit. Der Flugzeugbauer hatte 2018 aber eine Preisliste veröffentlicht, nach der die Bestellung einen Wert von umgerechnet rund 29 Milliarden Euro hätte.",
+    "annotations": [
+      {
+        "start": 24,
+        "end": 30,
+        "text": "Airbus",
+        "labels": [
+          "ORG"
+        ]
+      }
+    ]
+  },
+  {
+    "data": "Der Verschwörungstheoretiker Hildmann erhielt Informationen aus der Berliner Generalstaatsanwaltschaft. Wie viele Staatsdiener wollen diesen Staat abschaffen?",
+    "annotations": [
+      {
+        "start": 4,
+        "end": 28,
+        "text": "Verschwörungstheoretiker",
+        "labels": [
+          "PRF"
+        ]
+      },
+      {
+        "start": 29,
+        "end": 37,
+        "text": "Hildmann",
+        "labels": [
+          "PER"
+        ]
+      },
+      {
+        "start": 68,
+        "end": 102,
+        "text": "Berliner Generalstaatsanwaltschaft",
+        "labels": [
+          "ORG"
+        ]
+      },
+      {
+        "start": 114,
+        "end": 126,
+        "text": "Staatsdiener",
+        "labels": [
+          "PRF"
+        ]
+      }
+    ]
+  },
+  {
+    "data": "Die Wirtschaftspolitikerin Katharina Dröge bewirbt sich um den Fraktionsvorsitz der Grünen. Sie wirbt mit ihrer Erfahrung im Bundestag und für ein politisches Engagement über die kommenden vier Jahre hinaus.Bei der Suche nach einer neuen Spitze der Bundestagsfraktion der Grünen stellt sich eine erste Kandidatin auf: die Wirtschaftspolitikerin Katharina Dröge.\"Ich möchte Verantwortung übernehmen für die Zeit, die vor uns liegt\", schreibt Dröge in ihrer Bewerbung, die dem ARD-Hauptstadtstudio vorliegt. Die Aufgabe der Bundestagsfraktion sei es, die im Koalitionsvertrag der Ampel-Parteien festgeschriebenen Ziele \"politische Realität\" werden zu lassen. \"Nun ist es an uns, dieses Land wirklich zu verändern\", heißt es in Dröges Schreiben weiter.",
+    "annotations": [
+      {
+        "start": 4,
+        "end": 26,
+        "text": "Wirtschaftspolitikerin",
+        "labels": [
+          "PRF"
+        ]
+      },
+      {
+        "start": 27,
+        "end": 42,
+        "text": "Katharina Dröge",
+        "labels": [
+          "PER"
+        ]
+      },
+      {
+        "start": 84,
+        "end": 90,
+        "text": "Grünen",
+        "labels": [
+          "ORG"
+        ]
+      },
+      {
+        "start": 125,
+        "end": 134,
+        "text": "Bundestag",
+        "labels": [
+          "ORG"
+        ]
+      },
+      {
+        "start": 272,
+        "end": 278,
+        "text": "Grünen",
+        "labels": [
+          "ORG"
+        ]
+      },
+      {
+        "start": 322,
+        "end": 344,
+        "text": "Wirtschaftspolitikerin",
+        "labels": [
+          "PRF"
+        ]
+      },
+      {
+        "start": 345,
+        "end": 360,
+        "text": "Katharina Dröge",
+        "labels": [
+          "PER"
+        ]
+      },
+      {
+        "start": 441,
+        "end": 446,
+        "text": "Dröge",
+        "labels": [
+          "PER"
+        ]
+      },
+      {
+        "start": 475,
+        "end": 495,
+        "text": "ARD-Hauptstadtstudio",
+        "labels": [
+          "ORG"
+        ]
+      },
+      {
+        "start": 578,
+        "end": 592,
+        "text": "Ampel-Parteien",
+        "labels": [
+          "ORG"
+        ]
+      },
+      {
+        "start": 725,
+        "end": 731,
+        "text": "Dröges",
+        "labels": [
+          "PER"
+        ]
+      }
+    ]
+  },
+  {
+    "data": "Berlin war in der politischen Nachkriegsordnung ein Sonderfall. Die Stadt lag zwar 1945 komplett innerhalb der sowjetischen Besatzungszone. Als ehemalige Hauptstadt des nationalsozialistischen Deutschlands wurde sie aber noch einmal separat unter allen vier Besatzungsmächten in Sektoren aufgeteilt. Im sonst gänzlich sozialistisch beherrschten Osten galt West-Berlin nach 1949 als \"Schaufenster des Westens\".",
+    "annotations": [
+      {
+        "start": 0,
+        "end": 6,
+        "text": "Berlin",
+        "labels": [
+          "LOC"
+        ]
+      },
+      {
+        "start": 111,
+        "end": 123,
+        "text": "sowjetischen",
+        "labels": [
+          "NAT"
+        ]
+      },
+      {
+        "start": 193,
+        "end": 205,
+        "text": "Deutschlands",
+        "labels": [
+          "LOC"
+        ]
+      },
+      {
+        "start": 356,
+        "end": 367,
+        "text": "West-Berlin",
+        "labels": [
+          "ORG"
+        ]
+      }
+    ]
+  },
+  {
+    "data": "Bobic sagte, er habe in den vergangenen Wochen Erkenntnisse gesammelt. »Wenn man Gespräche führt, dann weiß man: Okay, da kommt noch mehr, oder nichts mehr oder man wurschtelt sich so durch.«",
+    "annotations": [
+      {
+        "start": 0,
+        "end": 5,
+        "text": "Bobic",
+        "labels": [
+          "PER"
+        ]
+      }
+    ]
+  },
+  {
+    "data": "Schwesigs rot-rote Regierung soll am Montagnachmittag ernannt und ebenfalls im Landtag vereidigt werden. Am Abend ist die erste Sitzung des neuen Kabinetts vorgesehen.",
+    "annotations": [
+      {
+        "start": 0,
+        "end": 28,
+        "text": "Schwesigs rot-rote Regierung",
+        "labels": [
+          "ORG"
+        ]
+      }
+    ]
+  },
+  {
+    "data": "Polizei, Banken und Versicherer sehen mehrere Ursachen für das Phänomen. Mitte der 90er Jahre gab es noch fast 70.000 Bankfilialen in Deutschland, Ende vergangenen Jahres waren es laut Bundesbank noch gut 24.000. Bankräuber haben heute also weniger Auswahl als früher. Hinzu kommen technischer Fortschritt und abnehmende Bedeutung des Bargelds.",
+    "annotations": [
+      {
+        "start": 134,
+        "end": 145,
+        "text": "Deutschland",
+        "labels": [
+          "LOC"
+        ]
+      },
+      {
+        "start": 185,
+        "end": 195,
+        "text": "Bundesbank",
+        "labels": [
+          "ORG"
+        ]
+      },
+      {
+        "start": 282,
+        "end": 293,
+        "text": "technischer",
+        "labels": [
+          "PRF"
+        ]
+      }
+    ]
+  },
+  {
+    "data": "BMW erntet Kritik für monströses SUV",
+    "annotations": [
+      {
+        "start": 0,
+        "end": 3,
+        "text": "BMW",
+        "labels": [
+          "ORG"
+        ]
+      },
+      {
+        "start": 33,
+        "end": 36,
+        "text": "SUV",
+        "labels": [
+          "PRD"
+        ]
+      }
+    ]
+  },
+  {
+    "data": "ann lassen wir die Maschinen mal gegeneinander antreten, sagte Andy Sommerfeld und startete seine Benchmarks. Der Mann ist Entwicklungschef der Grafiksoftware Affinity Photo aus dem Hause Serif. Die Rivalen: Ein herkömmlicher Mac mit einer High-End-Grafikkarte AMD Radeon Pro W6900 X. Kostenpunkt, nur für die Grafikkarte: stramme 7000 Euro. Stromverbrauch: 300 Watt. Daneben stellte er das neue Macbook Pro von Apple, Kostenpunkt des Gesamtsystems: 2250 Euro. Die Ergebnisse sahen schlecht aus für die teure AMD-Grafikkarte. In fast allen Disziplinen ist das neue Apple-Notebook schneller und mit maximal 68 Watt bei Weitem nicht so stromhungrig.",
+    "annotations": [
+      {
+        "start": 63,
+        "end": 78,
+        "text": "Andy Sommerfeld",
+        "labels": [
+          "PER"
+        ]
+      },
+      {
+        "start": 159,
+        "end": 173,
+        "text": "Affinity Photo",
+        "labels": [
+          "PRD"
+        ]
+      },
+      {
+        "start": 188,
+        "end": 193,
+        "text": "Serif",
+        "labels": [
+          "ORG"
+        ]
+      },
+      {
+        "start": 261,
+        "end": 264,
+        "text": "AMD",
+        "labels": [
+          "ORG"
+        ]
+      },
+      {
+        "start": 265,
+        "end": 283,
+        "text": "Radeon Pro W6900 X",
+        "labels": [
+          "PRD"
+        ]
+      },
+      {
+        "start": 396,
+        "end": 407,
+        "text": "Macbook Pro",
+        "labels": [
+          "PRD"
+        ]
+      },
+      {
+        "start": 412,
+        "end": 417,
+        "text": "Apple",
+        "labels": [
+          "ORG"
+        ]
+      },
+      {
+        "start": 509,
+        "end": 524,
+        "text": "AMD-Grafikkarte",
+        "labels": [
+          "PRD"
+        ]
+      },
+      {
+        "start": 565,
+        "end": 579,
+        "text": "Apple-Notebook",
+        "labels": [
+          "PRD"
+        ]
+      },
+      {
+        "start": 226,
+        "end": 229,
+        "text": "Mac",
+        "labels": [
+          "PRD"
+        ]
+      }
+    ]
+  },
+  {
+    "data": "Vom Aussehen her könnten beide Kopfhörer nicht unterschiedlicher sein. Der Peacock von Sendy Audio präsentiert sich in einem eher verspielten Gewand. Das Leder des Bügels ist mit gelben Nähten abgesteppt, die mächtigen Polster sind ebenso aus Leder. Für die Muschel hat Sendy Audio lackiertes Holz gewählt, um den Grill, der sich darin aufspannt, mit echtem Gold zu überziehen. Das alles macht aus dem Peacock eine warme, freundliche Erscheinung, die manchem vielleicht zu gülden rüberkommt. Die Mischung aus Holz und Leder an einem Magnetostaten dürfte manchen an die amerikanische Marke Audeze erinnern.",
+    "annotations": [
+      {
+        "start": 75,
+        "end": 82,
+        "text": "Peacock",
+        "labels": [
+          "PRD"
+        ]
+      },
+      {
+        "start": 87,
+        "end": 98,
+        "text": "Sendy Audio",
+        "labels": [
+          "ORG"
+        ]
+      },
+      {
+        "start": 270,
+        "end": 281,
+        "text": "Sendy Audio",
+        "labels": [
+          "ORG"
+        ]
+      },
+      {
+        "start": 402,
+        "end": 409,
+        "text": "Peacock",
+        "labels": [
+          "PRD"
+        ]
+      },
+      {
+        "start": 569,
+        "end": 582,
+        "text": "amerikanische",
+        "labels": [
+          "NAT"
+        ]
+      },
+      {
+        "start": 589,
+        "end": 595,
+        "text": "Audeze",
+        "labels": [
+          "ORG"
+        ]
+      }
+    ]
+  },
+  {
+    "data": "Angesichts der dramatisch steigenden Corona-Infektionszahlen sollen nun grundsätzlich auch Kontaktbeschränkungen angeordnet werden können, wie aus einer Vereinbarung von Vertretern der drei Fraktionen hervorgeht, die der Nachrichtenagentur dpa vorliegt. Dabei geht es um Ungeimpfte, wie Grünenchef Robert Habeck zuvor bereits in der ARD angedeutet hatte. Zudem sollen Ungeimpfte offenbar ohne negativen Test keine Busse und Bahnen mehr benutzen dürfen – unabhängig von der weiter geltenden Maskenpflicht.",
+    "annotations": [
+      {
+        "start": 240,
+        "end": 243,
+        "text": "dpa",
+        "labels": [
+          "ORG"
+        ]
+      },
+      {
+        "start": 287,
+        "end": 297,
+        "text": "Grünenchef",
+        "labels": [
+          "PRF"
+        ]
+      },
+      {
+        "start": 298,
+        "end": 311,
+        "text": "Robert Habeck",
+        "labels": [
+          "PER"
+        ]
+      },
+      {
+        "start": 333,
+        "end": 336,
+        "text": "ARD",
+        "labels": [
+          "ORG"
+        ]
+      }
+    ]
+  },
+  {
+    "data": "Doch genau auf \"diese ganzen Tonnen\" kommt es an, wie in den Berichten des Weltklimarats IPCC nachzulesen ist: Das Ausmaß der globalen Erwärmung steigt proportional zur Gesamtmenge der CO2-Emissionen an. Wollen wir die Erderhitzung auf eine bestimmte Temperatur begrenzen, folgt daraus eine noch erlaubte Restmenge an CO2-Emissionen für die Menschheit: das Emissionsbudget. Die Zahlen kann jeder in einer Tabelle im IPCC-Bericht vom vergangenen Jahr nachschauen.",
+    "annotations": [
+      {
+        "start": 75,
+        "end": 93,
+        "text": "Weltklimarats IPCC",
+        "labels": [
+          "ORG"
+        ]
+      },
+      {
+        "start": 416,
+        "end": 420,
+        "text": "IPCC",
+        "labels": [
+          "ORG"
+        ]
+      }
+    ]
+  },
+  {
+    "data": "Millionen Menschen in Deutschland sind arbeitslos. Die offizielle Zahl veröffentlicht die Bundesagentur für Arbeit jeden Monat. Doch nicht jeder, der einen Job sucht, taucht in der Statistik auf. Die wichtigsten Gründe dafür im Überblick.",
+    "annotations": [
+      {
+        "start": 22,
+        "end": 33,
+        "text": "Deutschland",
+        "labels": [
+          "LOC"
+        ]
+      },
+      {
+        "start": 90,
+        "end": 114,
+        "text": "Bundesagentur für Arbeit",
+        "labels": [
+          "ORG"
+        ]
+      }
+    ]
+  },
+  {
+    "data": "Ein Grund sind Männer wie André Schwämmlein. Er ist Chef und Mitgründer von FlixMobility, einem Unternehmen, das viele unter der Marke FlixBus kennen. Busunternehmer lackieren für ihn oft ihre Busse grün und übernehmen Fahrten, die meist via FlixBus-App verkauft werden. Mit dieser Idee hat Schwämmlein den Fernbusmarkt erobert. In Deutschland, in Europa und bald womöglich auch in den USA.",
+    "annotations": [
+      {
+        "start": 26,
+        "end": 43,
+        "text": "André Schwämmlein",
+        "labels": [
+          "PER"
+        ]
+      },
+      {
+        "start": 52,
+        "end": 56,
+        "text": "Chef",
+        "labels": [
+          "PRF"
+        ]
+      },
+      {
+        "start": 61,
+        "end": 71,
+        "text": "Mitgründer",
+        "labels": [
+          "PRF"
+        ]
+      },
+      {
+        "start": 76,
+        "end": 88,
+        "text": "FlixMobility",
+        "labels": [
+          "ORG"
+        ]
+      },
+      {
+        "start": 135,
+        "end": 142,
+        "text": "FlixBus",
+        "labels": [
+          "ORG"
+        ]
+      },
+      {
+        "start": 242,
+        "end": 253,
+        "text": "FlixBus-App",
+        "labels": [
+          "PRD"
+        ]
+      },
+      {
+        "start": 291,
+        "end": 302,
+        "text": "Schwämmlein",
+        "labels": [
+          "PER"
+        ]
+      },
+      {
+        "start": 332,
+        "end": 343,
+        "text": "Deutschland",
+        "labels": [
+          "LOC"
+        ]
+      },
+      {
+        "start": 348,
+        "end": 354,
+        "text": "Europa",
+        "labels": [
+          "LOC"
+        ]
+      },
+      {
+        "start": 386,
+        "end": 389,
+        "text": "USA",
+        "labels": [
+          "LOC"
+        ]
+      }
+    ]
+  },
+  {
+    "data": "Wer Corona für eine ganz große Verschwörung hält, wird sich auch durch diese Entscheidung bestätigt sehen: einstimmig folgt der Senat der Politik. Und gab es nicht das Abendessen des Verfassungsgerichts bei der Bundesregierung, welches zwar einer jahrzehntelang währenden Praxis unter den Verfassungsorganen folgte, bei dem aber etwa auch über das Entscheiden in unsicheren Lagen gesprochen wurde?  Doch die Vorstellung, dass der politisch ziemlich bunte Senat Regierungsaufträge erfüllt, ist abwegig. Und wäre das Bundesverfassungsgericht der Exekutive nun in den Arm gefallen, wäre das Geschrei auch groß gewesen: Was erlauben Karlsruhe? – hätte es geheißen. Die Verfassungsrichter haben schließlich nicht entschieden, dass jene Grundrechtsbeschränkungen „richtig“ sind, sondern dass der Gesetzgeber zu dieser Einschätzung kommen durfte.",
+    "annotations": [
+      {
+        "start": 211,
+        "end": 226,
+        "text": "Bundesregierung",
+        "labels": [
+          "ORG"
+        ]
+      },
+      {
+        "start": 515,
+        "end": 539,
+        "text": "Bundesverfassungsgericht",
+        "labels": [
+          "ORG"
+        ]
+      },
+      {
+        "start": 629,
+        "end": 638,
+        "text": "Karlsruhe",
+        "labels": [
+          "LOC"
+        ]
+      },
+      {
+        "start": 665,
+        "end": 683,
+        "text": "Verfassungsrichter",
+        "labels": [
+          "PRF"
+        ]
+      },
+      {
+        "start": 790,
+        "end": 801,
+        "text": "Gesetzgeber",
+        "labels": [
+          "PRF"
+        ]
+      }
+    ]
+  },
+  {
+    "data": "Kein von einem Achtzylinder befeuerter Sportwagen, sondern Fords erstes batterieelektrisches SUV steckt hinter dem Mustang Mach-E. Für den 4,71 Meter langen, viertürigen Elektro-Crossover mit 269 bis 351 PS entschieden sich bisher knapp 2000 Kunden in Deutschland. Die jetzt vorgestellte Spitzenversion GT mit 487 PS und 860 Newtonmeter Drehmoment kann es mit ihren Fahrleistungen durchaus mit dem berühmten Vorbild und Namensvetter aufnehmen. In 4,4 Sekunden katapultieren die beiden Elektromaschinen an Vorder- und Hinterachse den 2,3 Tonnen schweren Fünfsitzer aus dem Stand auf 100 km/h.",
+    "annotations": [
+      {
+        "start": 115,
+        "end": 129,
+        "text": "Mustang Mach-E",
+        "labels": [
+          "PRD"
+        ]
+      },
+      {
+        "start": 252,
+        "end": 263,
+        "text": "Deutschland",
+        "labels": [
+          "LOC"
+        ]
+      },
+      {
+        "start": 303,
+        "end": 305,
+        "text": "GT",
+        "labels": [
+          "PRD"
+        ]
+      },
+      {
+        "start": 59,
+        "end": 64,
+        "text": "Fords",
+        "labels": [
+          "ORG"
+        ]
+      }
+    ]
+  },
+  {
+    "data": "Das ist natürlich Unfug. »Die Doppelniere ist das zentrale Markenerkennungszeichen«, sagt BMW-Chefdesigner Domagoj Dukec. »Es handelt sich um eine ikonische Grafik, deren Form über Jahrzehnte immer wieder variiert wurde. Beim neuen BMW 4er ist sie wieder vertikal und sehr ausdrucksstark – und damit ganz bewusst polarisierend. Denn Menschen, die sich für dieses Auto entscheiden, tun das vor allem aus emotionalen Gründen.« Lutz Fügener, Professor für Transportation Design an der Hochschule Pforzheim, beurteilt das ähnlich: »Jetzt kann man einen Unterschied zu anderen BMW-Modellen sehen, das ist schon mal gut. Außerdem finde ich es logisch, das wichtigste Element über die gesamte Höhe der Frontpartie zu ziehen – vorher sah die BMW-Niere eher belanglos aus.«\t",
+    "annotations": [
+      {
+        "start": 90,
+        "end": 106,
+        "text": "BMW-Chefdesigner",
+        "labels": [
+          "PRF"
+        ]
+      },
+      {
+        "start": 107,
+        "end": 120,
+        "text": "Domagoj Dukec",
+        "labels": [
+          "PER"
+        ]
+      },
+      {
+        "start": 232,
+        "end": 239,
+        "text": "BMW 4er",
+        "labels": [
+          "PRD"
+        ]
+      },
+      {
+        "start": 439,
+        "end": 448,
+        "text": "Professor",
+        "labels": [
+          "PRF"
+        ]
+      },
+      {
+        "start": 482,
+        "end": 502,
+        "text": "Hochschule Pforzheim",
+        "labels": [
+          "ORG"
+        ]
+      },
+      {
+        "start": 572,
+        "end": 575,
+        "text": "BMW",
+        "labels": [
+          "ORG"
+        ]
+      },
+      {
+        "start": 734,
+        "end": 737,
+        "text": "BMW",
+        "labels": [
+          "ORG"
+        ]
+      }
+    ]
+  },
+  {
+    "data": "Eilanträge gegen die umstrittensten Maßnahmen wie die nächtlichen Ausgangsbeschränkungen hatten die Richterinnen und Richter des zuständigen Ersten Senats gleich im Mai abgewiesen. Sie betonten aber, dass der Ausgang des Hauptverfahrens offen sei.Um die Verfahren schneller abschließen zu können, hatte der Senat auf eine Verhandlung verzichtet. Von Experten aus den unterschiedlichsten Fachbereichen wurden aber Stellungnahmen erbeten, etwa von Virologen, Intensivmedizinern und Kinderärzten.",
+    "annotations": [
+      {
+        "start": 100,
+        "end": 112,
+        "text": "Richterinnen",
+        "labels": [
+          "PRF"
+        ]
+      },
+      {
+        "start": 117,
+        "end": 124,
+        "text": "Richter",
+        "labels": [
+          "PRF"
+        ]
+      },
+      {
+        "start": 148,
+        "end": 154,
+        "text": "Senats",
+        "labels": [
+          "ORG"
+        ]
+      },
+      {
+        "start": 307,
+        "end": 312,
+        "text": "Senat",
+        "labels": [
+          "ORG"
+        ]
+      },
+      {
+        "start": 350,
+        "end": 358,
+        "text": "Experten",
+        "labels": [
+          "PRF"
+        ]
+      }
+    ]
+  },
+  {
+    "data": "Das Waldwiesel.E des Magdeburger Herstellers Urwahn sieht kurios aus. Wo bei konventionellen Fahrradrahmen das Sattelrohr den Schulterschluss mit Unterrohr und Kettenstrebe am Tretlagergehäuse sucht, klafft an diesem Rahmen eine Lücke. Stattdessen mäandert das Oberrohr mit elegantem Schwung nach unten, nimmt auf kurzem Weg die Sattelstütze auf, biegt erneut ab, teilt sich und mündet an den Ausfallenden. Mit solch einer Formensprache wirkt der Rahmen vor allem im hinteren Teil wie eine Skulptur. Ist das Kunst? Jein, denn einerseits ist das Urwahn eine Augenweide, andererseits haben die Macher den Leitsatz „Form follows function“ keineswegs vergessen.",
+    "annotations": [
+      {
+        "start": 45,
+        "end": 51,
+        "text": "Urwahn",
+        "labels": [
+          "ORG"
+        ]
+      },
+      {
+        "start": 545,
+        "end": 551,
+        "text": "Urwahn",
+        "labels": [
+          "ORG"
+        ]
+      },
+      {
+        "start": 4,
+        "end": 16,
+        "text": "Waldwiesel.E",
+        "labels": [
+          "PRD"
+        ]
+      }
+    ]
+  },
+  {
+    "data": "Es sind zwei verschiedene Autos. Doch das Elektroauto von Ford soll von dem Namen Mustang profitieren. Jetzt wurde die stärkste Version des Mustang Mach-E vorgestellt.",
+    "annotations": [
+      {
+        "start": 58,
+        "end": 62,
+        "text": "Ford",
+        "labels": [
+          "ORG"
+        ]
+      },
+      {
+        "start": 82,
+        "end": 89,
+        "text": "Mustang",
+        "labels": [
+          "PRD"
+        ]
+      },
+      {
+        "start": 140,
+        "end": 154,
+        "text": "Mustang Mach-E",
+        "labels": [
+          "PRD"
+        ]
+      }
+    ]
+  },
+  {
+    "data": "30.11.2021, 14.26 Uhr",
+    "annotations": [
+      {
+        "start": 0,
+        "end": 10,
+        "text": "30.11.2021",
+        "labels": [
+          "DAT"
+        ]
+      },
+      {
+        "start": 12,
+        "end": 21,
+        "text": "14.26 Uhr",
+        "labels": [
+          "TIM"
+        ]
+      }
+    ]
+  },
+  {
+    "data": "Weniger Bankfilialen, weniger Bargeld und ein hohes Risiko, erwischt zu werden: Den klassischen Bankraub gibt es kaum noch. Dafür operieren Gangster nun mit anderen Methoden.",
+    "annotations": [
+      {
+        "start": 140,
+        "end": 148,
+        "text": "Gangster",
+        "labels": [
+          "PRF"
+        ]
+      }
+    ]
+  },
+  {
+    "data": "Die Raumfahrer auf der über 20 Jahre alten Raumstation haben auch immer wieder mit Lecks zu kämpfen – aktuell offenbar mit einem im russischen Modul „Swesda“.",
+    "annotations": [
+      {
+        "start": 150,
+        "end": 156,
+        "text": "Swesda",
+        "labels": [
+          "PRD"
+        ]
+      },
+      {
+        "start": 4,
+        "end": 14,
+        "text": "Raumfahrer",
+        "labels": [
+          "PER"
+        ]
+      }
+    ]
+  },
+  {
+    "data": "Wir mussten handeln und haben sie festgenommen«, sagte Grenzpolizei-Sprecher Robert van Kapel der Nachrichtenagentur AFP. Eine Sprecherin der Stadtverwaltung von Haarlemmermeer bestätigte, dass sich das Paar nun »in einem Krankenhaus in den Niederlanden« befinde.",
+    "annotations": [
+      {
+        "start": 55,
+        "end": 76,
+        "text": "Grenzpolizei-Sprecher",
+        "labels": [
+          "PRF"
+        ]
+      },
+      {
+        "start": 77,
+        "end": 93,
+        "text": "Robert van Kapel",
+        "labels": [
+          "PER"
+        ]
+      },
+      {
+        "start": 117,
+        "end": 120,
+        "text": "AFP",
+        "labels": [
+          "ORG"
+        ]
+      },
+      {
+        "start": 127,
+        "end": 137,
+        "text": "Sprecherin",
+        "labels": [
+          "PRF"
+        ]
+      },
+      {
+        "start": 241,
+        "end": 253,
+        "text": "Niederlanden",
+        "labels": [
+          "LOC"
+        ]
+      },
+      {
+        "start": 142,
+        "end": 176,
+        "text": "Stadtverwaltung von Haarlemmermeer",
+        "labels": [
+          "ORG"
+        ]
+      }
+    ]
+  },
+  {
+    "data": "»Für die Ausbringung der neuen Planstellen und Stellen besteht ein unabweisbarer, auf andere Weise nicht zu befriedigender Bedarf«, schreibt Finanzstaatssekretärin Bettina Hagedorn. Sie würden durch den Wegfall von derzeit nicht besetzten Stellen des Verteidigungsministeriums finanziert.",
+    "annotations": [
+      {
+        "start": 141,
+        "end": 163,
+        "text": "Finanzstaatssekretärin",
+        "labels": [
+          "PRF"
+        ]
+      },
+      {
+        "start": 164,
+        "end": 180,
+        "text": "Bettina Hagedorn",
+        "labels": [
+          "PER"
+        ]
+      },
+      {
+        "start": 251,
+        "end": 276,
+        "text": "Verteidigungsministeriums",
+        "labels": [
+          "ORG"
+        ]
+      }
+    ]
+  },
+  {
+    "data": "Zidane (49) hatte im Mai seine zweite Amtszeit als Trainer von Real Madrid beendet. Er wird als nächster Coach der französischen Nationalmannschaft nach der Weltmeisterschaft 2022 in Katar gehandelt. Zidane gewann in seiner ersten Amtszeit (2016-18) mit Real dreimal in Serie die Champions League.",
+    "annotations": [
+      {
+        "start": 0,
+        "end": 6,
+        "text": "Zidane",
+        "labels": [
+          "PER"
+        ]
+      },
+      {
+        "start": 51,
+        "end": 58,
+        "text": "Trainer",
+        "labels": [
+          "PRF"
+        ]
+      },
+      {
+        "start": 63,
+        "end": 74,
+        "text": "Real Madrid",
+        "labels": [
+          "ORG"
+        ]
+      },
+      {
+        "start": 105,
+        "end": 110,
+        "text": "Coach",
+        "labels": [
+          "PRF"
+        ]
+      },
+      {
+        "start": 115,
+        "end": 128,
+        "text": "französischen",
+        "labels": [
+          "NAT"
+        ]
+      },
+      {
+        "start": 157,
+        "end": 179,
+        "text": "Weltmeisterschaft 2022",
+        "labels": [
+          "EVN"
+        ]
+      },
+      {
+        "start": 183,
+        "end": 188,
+        "text": "Katar",
+        "labels": [
+          "ORG"
+        ]
+      },
+      {
+        "start": 200,
+        "end": 206,
+        "text": "Zidane",
+        "labels": [
+          "PER"
+        ]
+      },
+      {
+        "start": 254,
+        "end": 258,
+        "text": "Real",
+        "labels": [
+          "ORG"
+        ]
+      },
+      {
+        "start": 280,
+        "end": 296,
+        "text": "Champions League",
+        "labels": [
+          "EVN"
+        ]
+      }
+    ]
+  },
+  {
+    "data": "\"Das ist ein klarer Indikator für den Klimawandel\", sagte etwa Kate Brown, Gouverneurin des besonders betroffenen Bundesstaates Oregon. \"Es ist ein Weckruf für uns alle, dass wir alles in unserer Macht Stehende tun müssen, um den Klimawandel zu bekämpfen.\" 500.000 Hektar Land seien in Oregon in den vergangenen zehn Jahren verbrannt - doch eine Million Hektar nur in der vergangenen Woche, so Brown. Wie ein riesiger Lötkolben brenne sich der Klimawandel gerade über den Westen der USA, kommentiert der Gouverneur von Washington State, Jay Inslee. Dabei geht die Brandsaison noch bis November, der Höhepunkt dürfte also noch nicht erreicht sein.",
+    "annotations": [
+      {
+        "start": 63,
+        "end": 73,
+        "text": "Kate Brown",
+        "labels": [
+          "PER"
+        ]
+      },
+      {
+        "start": 75,
+        "end": 87,
+        "text": "Gouverneurin",
+        "labels": [
+          "PRF"
+        ]
+      },
+      {
+        "start": 128,
+        "end": 134,
+        "text": "Oregon",
+        "labels": [
+          "LOC"
+        ]
+      },
+      {
+        "start": 286,
+        "end": 292,
+        "text": "Oregon",
+        "labels": [
+          "LOC"
+        ]
+      },
+      {
+        "start": 394,
+        "end": 399,
+        "text": "Brown",
+        "labels": [
+          "PER"
+        ]
+      },
+      {
+        "start": 483,
+        "end": 486,
+        "text": "USA",
+        "labels": [
+          "LOC"
+        ]
+      },
+      {
+        "start": 504,
+        "end": 514,
+        "text": "Gouverneur",
+        "labels": [
+          "PRF"
+        ]
+      },
+      {
+        "start": 519,
+        "end": 529,
+        "text": "Washington",
+        "labels": [
+          "LOC"
+        ]
+      },
+      {
+        "start": 537,
+        "end": 547,
+        "text": "Jay Inslee",
+        "labels": [
+          "PER"
+        ]
+      }
+    ]
+  },
+  {
+    "data": "Als sich Hertha in der neuen Saison aber präsentierte wie ein Verein der vielen Gesichter, als permanent changiert wurde zwischen guten Auftritten wie beim Sieg gegen Gladbach und dann wieder erschreckenden Partien wie dem 0:2 im Stadtderby gegen Union Berlin, stieg bei Bobic immer mehr die Überzeugung, dass es einen Neuanfang braucht.",
+    "annotations": [
+      {
+        "start": 9,
+        "end": 15,
+        "text": "Hertha",
+        "labels": [
+          "ORG"
+        ]
+      },
+      {
+        "start": 247,
+        "end": 259,
+        "text": "Union Berlin",
+        "labels": [
+          "ORG"
+        ]
+      },
+      {
+        "start": 271,
+        "end": 276,
+        "text": "Bobic",
+        "labels": [
+          "PER"
+        ]
+      }
+    ]
+  },
+  {
+    "data": "Deutsche-Bank-Chef Christian Sewing hat die Geldpolitik wegen der rasant in die Höhe geschossenen Inflation zum Handeln aufgefordert. Die Notenbanken gingen davon aus, dass es sich bei dem aktuellen Anstieg der Teuerung um einen temporären Effekt handele, sagte Sewing am Montag auf der Euro Finance Week in Frankfurt. „Diese Meinung teilen unsere Ökonomen nicht.“ Kunden der Deutschen Bank richteten sich darauf ein, dass die hohen Raten länger anhalten werden. Marktteilnehmer fingen an, Preissteigerungen zu antizipieren. „Ich denke, dass die Geldpolitik hier gegensteuern muss – und das eher früher als später“, sagte Sewing.",
+    "annotations": [
+      {
+        "start": 0,
+        "end": 18,
+        "text": "Deutsche-Bank-Chef",
+        "labels": [
+          "PRF"
+        ]
+      },
+      {
+        "start": 19,
+        "end": 35,
+        "text": "Christian Sewing",
+        "labels": [
+          "PER"
+        ]
+      },
+      {
+        "start": 287,
+        "end": 304,
+        "text": "Euro Finance Week",
+        "labels": [
+          "EVN"
+        ]
+      },
+      {
+        "start": 308,
+        "end": 317,
+        "text": "Frankfurt",
+        "labels": [
+          "LOC"
+        ]
+      },
+      {
+        "start": 376,
+        "end": 390,
+        "text": "Deutschen Bank",
+        "labels": [
+          "ORG"
+        ]
+      },
+      {
+        "start": 262,
+        "end": 268,
+        "text": "Sewing",
+        "labels": [
+          "PER"
+        ]
+      },
+      {
+        "start": 348,
+        "end": 356,
+        "text": "Ökonomen",
+        "labels": [
+          "PRF"
+        ]
+      },
+      {
+        "start": 622,
+        "end": 628,
+        "text": "Sewing",
+        "labels": [
+          "PER"
+        ]
+      }
+    ]
+  },
+  {
+    "data": "In Social-Media-Posts wird über »Monsternieren« und »übergroße Hasenzähne« gespottet, andere erkennen eine »klaffende Wunde« oder fragen: »Warum sieht der Grill aus wie der Eingang zu einer Wasserrutsche?« Die Frontpartie des neuen 4er-BMW mit den beiden vertikal gestalteten XXL-Kühlluftöffnungen sorgt jedenfalls für Aufregung im Lager der Markenfans.",
+    "annotations": [
+      {
+        "start": 232,
+        "end": 239,
+        "text": "4er-BMW",
+        "labels": [
+          "PRD"
+        ]
+      }
+    ]
+  },
+  {
+    "data": "Schleswig-Holsteins FDP will bei der Landtagswahl am 8. Mai ihr Ergebnis von 2017 deutlich verbessern. Bislang bestes Ergebnis der Liberalen bei einer Landtagswahl im Norden seien 14,9 Prozent im Jahr 2009 gewesen, sagte der designierte Spitzenkandidat Bernd Buchholz am Dienstag in Kiel. Möglicherweise lasse sich dieses Ergebnis toppen. \"Die 15 ist in der Peilung.\" 2017 war die Partei bei 11,5 Prozent gelandet, bei der Bundestagswahl im September erreichte sie im Norden 12,5 Prozent.",
+    "annotations": [
+      {
+        "start": 0,
+        "end": 19,
+        "text": "Schleswig-Holsteins",
+        "labels": [
+          "LOC"
+        ]
+      },
+      {
+        "start": 20,
+        "end": 23,
+        "text": "FDP",
+        "labels": [
+          "ORG"
+        ]
+      },
+      {
+        "start": 237,
+        "end": 252,
+        "text": "Spitzenkandidat",
+        "labels": [
+          "PRF"
+        ]
+      },
+      {
+        "start": 253,
+        "end": 267,
+        "text": "Bernd Buchholz",
+        "labels": [
+          "PER"
+        ]
+      },
+      {
+        "start": 283,
+        "end": 287,
+        "text": "Kiel",
+        "labels": [
+          "LOC"
+        ]
+      },
+      {
+        "start": 37,
+        "end": 59,
+        "text": "Landtagswahl am 8. Mai",
+        "labels": [
+          "EVN"
+        ]
+      },
+      {
+        "start": 423,
+        "end": 450,
+        "text": "Bundestagswahl im September",
+        "labels": [
+          "EVN"
+        ]
+      }
+    ]
+  },
+  {
+    "data": "06:28 Uhr",
+    "annotations": [
+      {
+        "start": 0,
+        "end": 9,
+        "text": "06:28 Uhr",
+        "labels": [
+          "TIM"
+        ]
+      }
+    ]
+  },
+  {
+    "data": "Stahl oder Aluminium, wo sind die Vor- und Nachteile? Im Segment der günstigen Stadträder bietet Excelsior beides und ermöglicht einen aufschlussreichen Vergleich.",
+    "annotations": [
+      {
+        "start": 97,
+        "end": 106,
+        "text": "Excelsior",
+        "labels": [
+          "ORG"
+        ]
+      }
+    ]
+  },
+  {
+    "data": "10:36 Uhr",
+    "annotations": [
+      {
+        "start": 0,
+        "end": 9,
+        "text": "10:36 Uhr",
+        "labels": [
+          "TIM"
+        ]
+      }
+    ]
+  },
+  {
+    "data": "Von Dienstag an gelte in Bayern \"2G für fast alles\", kündigte Ministerpräsident Markus Söder (CSU) an. Von da an gelte die Regelung, nicht nur für Veranstaltungen, sondern auch in Gastronomie und Hotellerie. Hinzu komme: Auch in 2G-Bereichen gelte die Maskenpflicht. In Diskotheken gelte 2G-plus, es ist also zusätzlich ein Schnelltest notwendig.",
+    "annotations": [
+      {
+        "start": 25,
+        "end": 31,
+        "text": "Bayern",
+        "labels": [
+          "LOC"
+        ]
+      },
+      {
+        "start": 33,
+        "end": 35,
+        "text": "2G",
+        "labels": [
+          "DOC"
+        ]
+      },
+      {
+        "start": 62,
+        "end": 79,
+        "text": "Ministerpräsident",
+        "labels": [
+          "PRF"
+        ]
+      },
+      {
+        "start": 80,
+        "end": 92,
+        "text": "Markus Söder",
+        "labels": [
+          "PER"
+        ]
+      },
+      {
+        "start": 94,
+        "end": 97,
+        "text": "CSU",
+        "labels": [
+          "ORG"
+        ]
+      },
+      {
+        "start": 229,
+        "end": 231,
+        "text": "2G",
+        "labels": [
+          "DOC"
+        ]
+      },
+      {
+        "start": 288,
+        "end": 295,
+        "text": "2G-plus",
+        "labels": [
+          "DOC"
+        ]
+      }
+    ]
+  },
+  {
+    "data": "Warum Messi der logische Sieger ist (und nicht Lewandowski)",
+    "annotations": [
+      {
+        "start": 6,
+        "end": 11,
+        "text": "Messi",
+        "labels": [
+          "PER"
+        ]
+      },
+      {
+        "start": 47,
+        "end": 58,
+        "text": "Lewandowski",
+        "labels": [
+          "PER"
+        ]
+      }
+    ]
+  },
+  {
+    "data": "Dienstag, 16. November, 10.15 Uhr: Gottesdienste bleiben von der seit diesem Dienstag in Bayern geltenden flächendeckenden 2-G-Regelung ausgenommen. Sie unterstünden weiterhin der Regelung der 14. Bayerischen Infektionsschutzmaßnahmenverordnung und würden von den Beschlüssen des Ministerrats nicht erfasst, teilte eine Sprecherin des Gesundheitsministeriums am Dienstag auf Nachfrage des Evangelischen Pressedienstes (epd) mit.",
+    "annotations": [
+      {
+        "start": 24,
+        "end": 33,
+        "text": "10.15 Uhr",
+        "labels": [
+          "TIM"
+        ]
+      },
+      {
+        "start": 89,
+        "end": 95,
+        "text": "Bayern",
+        "labels": [
+          "LOC"
+        ]
+      },
+      {
+        "start": 123,
+        "end": 126,
+        "text": "2-G",
+        "labels": [
+          "DOC"
+        ]
+      },
+      {
+        "start": 197,
+        "end": 244,
+        "text": "Bayerischen Infektionsschutzmaßnahmenverordnung",
+        "labels": [
+          "DOC"
+        ]
+      },
+      {
+        "start": 320,
+        "end": 330,
+        "text": "Sprecherin",
+        "labels": [
+          "PRF"
+        ]
+      },
+      {
+        "start": 389,
+        "end": 423,
+        "text": "Evangelischen Pressedienstes (epd)",
+        "labels": [
+          "ORG"
+        ]
+      },
+      {
+        "start": 0,
+        "end": 22,
+        "text": "Dienstag, 16. November",
+        "labels": [
+          "DAT"
+        ]
+      },
+      {
+        "start": 335,
+        "end": 358,
+        "text": "Gesundheitsministeriums",
+        "labels": [
+          "ORG"
+        ]
+      }
+    ]
+  },
+  {
+    "data": "Der IPCC hat außerdem dokumentiert, dass schon heute Dürrephasen gerade in ohnehin niederschlagsarmen Gebieten wie dem Mittelmeerraum oder Kalifornien zunehmen. Weite Teile der westlichen USA erlebten in diesem Jahr Rekordhitze, in Kalifornien wurde der heißeste August seit Beginn der Aufzeichnungen gemessen. Hinzu kam extreme Trockenheit in den von den Bränden betroffenen Bundesstaaten. \"Die Brandsaison in Kalifornien hat sich um 75 Tage verlängert\", sagt Lynnette Round, Sprecherin des Kalifornischen Ministeriums für Forstwirtschaft und Brandschutz. \"Unsere Sommer sind länger, was mehr Trockenheit bedeutet und uns anfälliger für Brände macht.\"",
+    "annotations": [
+      {
+        "start": 4,
+        "end": 8,
+        "text": "IPCC",
+        "labels": [
+          "ORG"
+        ]
+      },
+      {
+        "start": 139,
+        "end": 150,
+        "text": "Kalifornien",
+        "labels": [
+          "LOC"
+        ]
+      },
+      {
+        "start": 188,
+        "end": 191,
+        "text": "USA",
+        "labels": [
+          "LOC"
+        ]
+      },
+      {
+        "start": 232,
+        "end": 243,
+        "text": "Kalifornien",
+        "labels": [
+          "LOC"
+        ]
+      },
+      {
+        "start": 411,
+        "end": 422,
+        "text": "Kalifornien",
+        "labels": [
+          "LOC"
+        ]
+      },
+      {
+        "start": 461,
+        "end": 475,
+        "text": "Lynnette Round",
+        "labels": [
+          "PER"
+        ]
+      },
+      {
+        "start": 477,
+        "end": 487,
+        "text": "Sprecherin",
+        "labels": [
+          "PRF"
+        ]
+      },
+      {
+        "start": 119,
+        "end": 133,
+        "text": "Mittelmeerraum",
+        "labels": [
+          "LOC"
+        ]
+      },
+      {
+        "start": 492,
+        "end": 555,
+        "text": "Kalifornischen Ministeriums für Forstwirtschaft und Brandschutz",
+        "labels": [
+          "ORG"
+        ]
+      }
+    ]
+  },
+  {
+    "data": "Der Chef des US-Impfstoffherstellers Moderna, Stephane Bancel, befürchtet eine stark eingeschränkte Wirksamkeit der existierenden Impfstoffe gegen die neu entdeckte Omikron-Variante des Coronavirus. Wegen der vielen Mutationen der Variante gingen Wissenschaftler von einer \"erheblichen Abnahme\" der Schutzwirkung aus, sagte Bancel der \"Financial Times\". Sein Unternehmen habe bereits mit der Arbeit an einem überarbeiteten Impfstoff begonnen, aber dies werde einige Monate dauern. Virologen und Impfstoffhersteller hatten sich bislang zuversichtlich gezeigt, dass die existierenden Impfstoffe auch gegen die neue Variante gut wirken. Bancel sagte nun: \"Alle Wissenschaftler, mit denen ich gesprochen habe, sagen: 'Das wird nicht gut sein'.\"  Der Moderna-Chef verwies auf Angaben von Wissenschaftlern, denen zufolge 32 der 50 bei Omikron festgestellten Mutationen das Spike-Protein betreffen. Dieses Protein auf der Oberfläche des Virus wird von den Impfstoffen genutzt, um eine Immunreaktion gegen das Coronavirus hervorzurufen. \"Ich glaube, die Wirksamkeit hat auf keinen Fall das gleiche Niveau wie gegen die Delta-Variante\", sagte Bancel.",
+    "annotations": [
+      {
+        "start": 4,
+        "end": 8,
+        "text": "Chef",
+        "labels": [
+          "PRF"
+        ]
+      },
+      {
+        "start": 13,
+        "end": 15,
+        "text": "US",
+        "labels": [
+          "LOC"
+        ]
+      },
+      {
+        "start": 37,
+        "end": 44,
+        "text": "Moderna",
+        "labels": [
+          "ORG"
+        ]
+      },
+      {
+        "start": 46,
+        "end": 61,
+        "text": "Stephane Bancel",
+        "labels": [
+          "PER"
+        ]
+      },
+      {
+        "start": 247,
+        "end": 262,
+        "text": "Wissenschaftler",
+        "labels": [
+          "PRF"
+        ]
+      },
+      {
+        "start": 324,
+        "end": 330,
+        "text": "Bancel",
+        "labels": [
+          "PER"
+        ]
+      },
+      {
+        "start": 336,
+        "end": 351,
+        "text": "Financial Times",
+        "labels": [
+          "ORG"
+        ]
+      },
+      {
+        "start": 634,
+        "end": 640,
+        "text": "Bancel",
+        "labels": [
+          "PER"
+        ]
+      },
+      {
+        "start": 658,
+        "end": 673,
+        "text": "Wissenschaftler",
+        "labels": [
+          "PRF"
+        ]
+      },
+      {
+        "start": 746,
+        "end": 753,
+        "text": "Moderna",
+        "labels": [
+          "ORG"
+        ]
+      },
+      {
+        "start": 754,
+        "end": 758,
+        "text": "Chef",
+        "labels": [
+          "PRF"
+        ]
+      },
+      {
+        "start": 783,
+        "end": 799,
+        "text": "Wissenschaftlern",
+        "labels": [
+          "PRF"
+        ]
+      },
+      {
+        "start": 1134,
+        "end": 1140,
+        "text": "Bancel",
+        "labels": [
+          "PER"
+        ]
+      }
+    ]
+  },
+  {
+    "data": "11:42 Uhr",
+    "annotations": [
+      {
+        "start": 0,
+        "end": 9,
+        "text": "11:42 Uhr",
+        "labels": [
+          "TIM"
+        ]
+      }
+    ]
+  },
+  {
+    "data": "Völlig alleingelassen seien die Kommunen auch hinsichtlich der Rechtslage bei Märkten, insbesondere Weihnachtsmärkten, denn man könne diese nicht verbieten. Das Minimum sei hier, dass Masken getragen würden. Zudem müsse es in Bereichen, in denen Alkohol ausgeschenkt werde, \"2-G-Gastroinseln\" geben, also Bereiche mit Zugangskontrollen.",
+    "annotations": [
+      {
+        "start": 100,
+        "end": 117,
+        "text": "Weihnachtsmärkten",
+        "labels": [
+          "EVN"
+        ]
+      },
+      {
+        "start": 275,
+        "end": 278,
+        "text": "2-G",
+        "labels": [
+          "DOC"
+        ]
+      }
+    ]
+  },
+  {
+    "data": "Kabinettssitzung in Mecklenburg-Vorpommern",
+    "annotations": [
+      {
+        "start": 20,
+        "end": 42,
+        "text": "Mecklenburg-Vorpommern",
+        "labels": [
+          "LOC"
+        ]
+      }
+    ]
+  },
+  {
+    "data": "DGB: Viele Beschäftigte sehen sich im Job schlecht vor Corona geschützt",
+    "annotations": [
+      {
+        "start": 0,
+        "end": 3,
+        "text": "DGB",
+        "labels": [
+          "ORG"
+        ]
+      }
+    ]
+  },
+  {
+    "data": "Mit einem Wirtschaftsboom und deutlich steigenden Steuereinnahmen kann die neue Bundesregierung rechnen. Darauf scheinen nicht nur die Berechnungen der Wirtschaftsweisen hinzudeuten, sondern auch die neue Steuerschätzung des Arbeitskreises Steuerschätzungen beim Bundesfinanzministerium, die an diesem Donnerstag veröffentlicht wurde.",
+    "annotations": [
+      {
+        "start": 80,
+        "end": 95,
+        "text": "Bundesregierung",
+        "labels": [
+          "ORG"
+        ]
+      },
+      {
+        "start": 263,
+        "end": 286,
+        "text": "Bundesfinanzministerium",
+        "labels": [
+          "ORG"
+        ]
+      }
+    ]
+  },
+  {
+    "data": "Die EU arbeitet zurzeit an Gesetzen zu einer strengeren Regulierung von großen Digitalkonzernen wie Facebook und Google. Nach den Vorschlägen der Europäischen Kommission sollen sie damit unter anderem dazu verpflichtet werden, stärker gegen Hass- und Falschnachrichten vorzugehen.",
+    "annotations": [
+      {
+        "start": 4,
+        "end": 6,
+        "text": "EU",
+        "labels": [
+          "ORG"
+        ]
+      },
+      {
+        "start": 100,
+        "end": 108,
+        "text": "Facebook",
+        "labels": [
+          "ORG"
+        ]
+      },
+      {
+        "start": 113,
+        "end": 119,
+        "text": "Google",
+        "labels": [
+          "ORG"
+        ]
+      },
+      {
+        "start": 146,
+        "end": 169,
+        "text": "Europäischen Kommission",
+        "labels": [
+          "ORG"
+        ]
+      }
+    ]
+  },
+  {
+    "data": "Mittwoch, 17. November, 17.27 Uhr: Ein Arzt aus Ingolstadt soll eine Vielzahl an falschen Attesten zur Maskenpflicht wie auch zur Masern-Impfpflicht ausgestellt haben. Nach Polizeiangaben von Mittwoch laufen Ermittlungen gegen den Mann. Am Nachmittag fanden Durchsuchungen in den Räumen des Arztes statt. Mögliche Beweismittel sollen in den kommenden Monaten ausgewertet werden, teilte die Polizei mit.",
+    "annotations": [
+      {
+        "start": 24,
+        "end": 33,
+        "text": "17.27 Uhr",
+        "labels": [
+          "TIM"
+        ]
+      },
+      {
+        "start": 39,
+        "end": 43,
+        "text": "Arzt",
+        "labels": [
+          "PRF"
+        ]
+      },
+      {
+        "start": 291,
+        "end": 297,
+        "text": "Arztes",
+        "labels": [
+          "PRF"
+        ]
+      },
+      {
+        "start": 0,
+        "end": 22,
+        "text": "Mittwoch, 17. November",
+        "labels": [
+          "DAT"
+        ]
+      }
+    ]
+  },
+  {
+    "data": "VON LUKAS WEBER-AKTUALISIERT AM 28.11.2021-14:44",
+    "annotations": [
+      {
+        "start": 4,
+        "end": 15,
+        "text": "LUKAS WEBER",
+        "labels": [
+          "PER"
+        ]
+      },
+      {
+        "start": 32,
+        "end": 42,
+        "text": "28.11.2021",
+        "labels": [
+          "DAT"
+        ]
+      },
+      {
+        "start": 43,
+        "end": 48,
+        "text": "14:44",
+        "labels": [
+          "TIM"
+        ]
+      }
+    ]
+  },
+  {
+    "data": "Für eine Studie tranken Testpersonen Alkohol und fuhren danach E-Scooter. Schon mit wenig Promille im Blut bekamen sie auf dem Parcours große Probleme – Experten sind alarmiert.",
+    "annotations": [
+      {
+        "start": 153,
+        "end": 161,
+        "text": "Experten",
+        "labels": [
+          "PRF"
+        ]
+      }
+    ]
+  },
+  {
+    "data": "Das Team des Kinder- und Familienzentrums musste erfinderisch werden, um Eltern und Kinder trotzdem zu erreichen: \"Unser Anspruch war, jeden Tag Momente für die Familien zu schaffen, sodass sie zum Haus kommen, sich Lebensmittelpakete oder Bastelpakete mitnehmen konnten. Das hat Struktur gegeben im Alltag und alle wussten immer: Wenn sie herkommen, sind da Leute, die sie ansprechen können.\" Die KiFaZ-Mitarbeiterinnen und -Mitarbeiter kennen Familien, die plötzlich gar kein Geld mehr hatten: \"Da haben wir dann geholfen und den Kontakt zu Behörden hergestellt.\"",
+    "annotations": [
+      {
+        "start": 13,
+        "end": 41,
+        "text": "Kinder- und Familienzentrums",
+        "labels": [
+          "ORG"
+        ]
+      },
+      {
+        "start": 398,
+        "end": 403,
+        "text": "KiFaZ",
+        "labels": [
+          "ORG"
+        ]
+      }
+    ]
+  },
+  {
+    "data": "03.12.2020, 05.27 Uhr",
+    "annotations": [
+      {
+        "start": 0,
+        "end": 10,
+        "text": "03.12.2020",
+        "labels": [
+          "DAT"
+        ]
+      },
+      {
+        "start": 12,
+        "end": 21,
+        "text": "05.27 Uhr",
+        "labels": [
+          "TIM"
+        ]
+      }
+    ]
+  },
+  {
+    "data": "Montag, 15. November, 11.46 Uhr: In Bayern herrscht nach Angaben der Vereinigung der Bayerischen Wirtschaft (VBW) kein Mangel an Material für Corona-Tests am Arbeitsplatz. Allein auf der verbandseigenen Plattform für Corona-Schutzprodukte seien aktuell \"kurzfristig Millionen Schnelltests verfügbar\", sagte Hauptgeschäftsführer Bertram Brossardt. Mit der Plattform wolle man den Betrieben helfen, ausreichend Testangebote für die Mitarbeiter zu beschaffen.",
+    "annotations": [
+      {
+        "start": 22,
+        "end": 31,
+        "text": "11.46 Uhr",
+        "labels": [
+          "TIM"
+        ]
+      },
+      {
+        "start": 36,
+        "end": 42,
+        "text": "Bayern",
+        "labels": [
+          "LOC"
+        ]
+      },
+      {
+        "start": 69,
+        "end": 113,
+        "text": "Vereinigung der Bayerischen Wirtschaft (VBW)",
+        "labels": [
+          "ORG"
+        ]
+      },
+      {
+        "start": 307,
+        "end": 327,
+        "text": "Hauptgeschäftsführer",
+        "labels": [
+          "PRF"
+        ]
+      },
+      {
+        "start": 328,
+        "end": 345,
+        "text": "Bertram Brossardt",
+        "labels": [
+          "PER"
+        ]
+      },
+      {
+        "start": 0,
+        "end": 20,
+        "text": "Montag, 15. November",
+        "labels": [
+          "DAT"
+        ]
+      }
+    ]
+  },
+  {
+    "data": "Das größte Interesse der Besucher aus Washington dürfte wecken, was die Arbeitsgruppe 20 \"Sicherheit, Verteidigung, Entwicklung, Außen, Menschenrechte\" erarbeitet hat - und was das für das transatlantische Verhältnis und mithin die Nato bedeutet.",
+    "annotations": [
+      {
+        "start": 38,
+        "end": 48,
+        "text": "Washington",
+        "labels": [
+          "LOC"
+        ]
+      },
+      {
+        "start": 72,
+        "end": 88,
+        "text": "Arbeitsgruppe 20",
+        "labels": [
+          "ORG"
+        ]
+      },
+      {
+        "start": 232,
+        "end": 236,
+        "text": "Nato",
+        "labels": [
+          "ORG"
+        ]
+      }
+    ]
+  },
+  {
+    "data": "Es kommt vor, dass die Presse vor der Polizei am Ort des Geschehens ist, wenn eine Wohnung durchsucht oder ein Haftbefehl vollstreckt werden soll. Nicht nur Politiker stechen eben Informationen durch – bei denen gehört es im Grunde zum Anforderungsprofil und betrifft meist parteiliche denn staatliche Interna. Aber auch Finanzämter, Sicherheitsbehörden und sogar die Justiz sind keine hermetisch abgeschotteten Räume mit treuen und unbestechlichen Mitarbeitern. Das sind allerdings Ausnahmen, meist beschränkt immerhin auf Fälle, auf die ein großes öffentliches Interesse gerichtet ist.",
+    "annotations": [
+      {
+        "start": 157,
+        "end": 166,
+        "text": "Politiker",
+        "labels": [
+          "PRF"
+        ]
+      }
+    ]
+  },
+  {
+    "data": "Der niedersächsische Verfassungsschutzpräsident Bernhard Witthaut sieht in einer möglichen Impfpflicht viel Nutzen aber auch Gefahren. \"Ich habe eher den Eindruck, dass eine solche Impfpflicht natürlich langfristig hilft, aber kurzfristig zu einer Verschärfung der Polarisierung in der Gesellschaft führt\", sagte Witthaut im Interview der \"Hannoverschen Allgemeinen Zeitung\". Eine Überwindung dieser Polarisierung sei für ihn erst realistisch, wenn die Pandemie vorbei ist und damit die Maßnahmen zur Eindämmung dieser Seuche. Gewaltausbrüche wie zuletzt in Österreich und den Niederlanden hält der Verfassungsschutzpräsident aber für unwahrscheinlich: \"Ich glaube eher, dass wir so etwas in Deutschland und in Niedersachsen nicht erleben werden.\"",
+    "annotations": [
+      {
+        "start": 21,
+        "end": 47,
+        "text": "Verfassungsschutzpräsident",
+        "labels": [
+          "PRF"
+        ]
+      },
+      {
+        "start": 48,
+        "end": 65,
+        "text": "Bernhard Witthaut",
+        "labels": [
+          "PER"
+        ]
+      },
+      {
+        "start": 313,
+        "end": 321,
+        "text": "Witthaut",
+        "labels": [
+          "PER"
+        ]
+      },
+      {
+        "start": 340,
+        "end": 373,
+        "text": "Hannoverschen Allgemeinen Zeitung",
+        "labels": [
+          "ORG"
+        ]
+      },
+      {
+        "start": 558,
+        "end": 568,
+        "text": "Österreich",
+        "labels": [
+          "LOC"
+        ]
+      },
+      {
+        "start": 577,
+        "end": 589,
+        "text": "Niederlanden",
+        "labels": [
+          "LOC"
+        ]
+      },
+      {
+        "start": 599,
+        "end": 625,
+        "text": "Verfassungsschutzpräsident",
+        "labels": [
+          "PRF"
+        ]
+      },
+      {
+        "start": 692,
+        "end": 703,
+        "text": "Deutschland",
+        "labels": [
+          "LOC"
+        ]
+      },
+      {
+        "start": 711,
+        "end": 724,
+        "text": "Niedersachsen",
+        "labels": [
+          "LOC"
+        ]
+      }
+    ]
+  },
+  {
+    "data": "Am Montag waren in Sachsen erstmals 1391 Normal-Betten belegt. Bedeutet: Schon am Freitag drohen neue Verbote für Ungeimpfte im Freistaat!",
+    "annotations": [
+      {
+        "start": 19,
+        "end": 26,
+        "text": "Sachsen",
+        "labels": [
+          "LOC"
+        ]
+      }
+    ]
+  },
+  {
+    "data": "Söder fordert die voraussichtliche künftige Bundesregierung von SPD, Grünen und FDP auf, nachzubessern. Es brauche einheitliche Regeln für Deutschland. Unter anderem nannte er Kontaktbeschränkungen für Ungeimpfte, eine Impfpflicht für bestimmte Berufsgruppen und 2-G-Regeln, wie sie jetzt in Bayern eingeführt werden, für das gesamte Bundesgebiet.",
+    "annotations": [
+      {
+        "start": 0,
+        "end": 5,
+        "text": "Söder",
+        "labels": [
+          "PER"
+        ]
+      },
+      {
+        "start": 64,
+        "end": 67,
+        "text": "SPD",
+        "labels": [
+          "ORG"
+        ]
+      },
+      {
+        "start": 69,
+        "end": 75,
+        "text": "Grünen",
+        "labels": [
+          "ORG"
+        ]
+      },
+      {
+        "start": 80,
+        "end": 83,
+        "text": "FDP",
+        "labels": [
+          "ORG"
+        ]
+      },
+      {
+        "start": 139,
+        "end": 150,
+        "text": "Deutschland",
+        "labels": [
+          "LOC"
+        ]
+      },
+      {
+        "start": 263,
+        "end": 266,
+        "text": "2-G",
+        "labels": [
+          "DOC"
+        ]
+      },
+      {
+        "start": 292,
+        "end": 298,
+        "text": "Bayern",
+        "labels": [
+          "LOC"
+        ]
+      },
+      {
+        "start": 44,
+        "end": 59,
+        "text": "Bundesregierung",
+        "labels": [
+          "ORG"
+        ]
+      }
+    ]
+  },
+  {
+    "data": "Beiden Marken haben wir uns von oben genähert und ihre Flaggschiffe ausprobiert. Der Sendy Audio Peacock kostet 1500 Euro, in Deutschland vertrieben von Audionext. Final verlangt mit 4000 Euro fast das Dreifache für sein Topmodell, das hierzulande von Audiotrade an die Händler verteilt wird. Beides sind magnetostatische Kopfhörer. Bei dieser Technik werden ganz dünne Leiterbahnen auf die Membran gebracht, um diese durch parallel sitzende Magneten in Schwingung zu bringen. Das Verfahren wird immer beliebter, für viele Herstellern gehört es fast schon zum guten Ton.",
+    "annotations": [
+      {
+        "start": 85,
+        "end": 104,
+        "text": "Sendy Audio Peacock",
+        "labels": [
+          "PRD"
+        ]
+      },
+      {
+        "start": 126,
+        "end": 137,
+        "text": "Deutschland",
+        "labels": [
+          "LOC"
+        ]
+      },
+      {
+        "start": 153,
+        "end": 162,
+        "text": "Audionext",
+        "labels": [
+          "ORG"
+        ]
+      },
+      {
+        "start": 164,
+        "end": 169,
+        "text": "Final",
+        "labels": [
+          "ORG"
+        ]
+      },
+      {
+        "start": 252,
+        "end": 262,
+        "text": "Audiotrade",
+        "labels": [
+          "ORG"
+        ]
+      }
+    ]
+  },
+  {
+    "data": "Die deutsche Fluggesellschaft hat ihre Kompensationsplattform für CO2-Emissionen im Jahr 2019 eingeführt. Inzwischen ist sie direkt mit dem Buchungsprozess und der Miles-and-More-App verknüpft. Die Passagiere können zwischen dem Kauf von synthetischem Treibstoff und Zehn-Jahres-Langfristprojekten wie Waldaufforstung wählen und über einen Preisrechner die Anteile sogar mischen.",
+    "annotations": [
+      {
+        "start": 4,
+        "end": 12,
+        "text": "deutsche",
+        "labels": [
+          "NAT"
+        ]
+      },
+      {
+        "start": 39,
+        "end": 80,
+        "text": "Kompensationsplattform für CO2-Emissionen",
+        "labels": [
+          "PRD"
+        ]
+      },
+      {
+        "start": 164,
+        "end": 182,
+        "text": "Miles-and-More-App",
+        "labels": [
+          "PRD"
+        ]
+      }
+    ]
+  },
+  {
+    "data": "Manuela Schwesig (SPD) ist am Montag im Schweriner Landtag als Ministerpräsidentin von Mecklenburg-Vorpommern wiedergewählt worden. Gleich im ersten Wahlgang erhielt sie 41 von 79 abgegebenen Stimmen. SPD und Linke verfügen über 43 Stimmen im Landtag. Das heißt, dass nicht alle Abgeordneten der rot-roten Koalition für Schwesig gestimmt haben. Bei der Wahl zur Ministerpräsidentin gab es drei Enthaltungen.",
+    "annotations": [
+      {
+        "start": 0,
+        "end": 16,
+        "text": "Manuela Schwesig",
+        "labels": [
+          "PER"
+        ]
+      },
+      {
+        "start": 18,
+        "end": 21,
+        "text": "SPD",
+        "labels": [
+          "ORG"
+        ]
+      },
+      {
+        "start": 63,
+        "end": 82,
+        "text": "Ministerpräsidentin",
+        "labels": [
+          "PRF"
+        ]
+      },
+      {
+        "start": 87,
+        "end": 109,
+        "text": "Mecklenburg-Vorpommern",
+        "labels": [
+          "LOC"
+        ]
+      },
+      {
+        "start": 201,
+        "end": 204,
+        "text": "SPD",
+        "labels": [
+          "ORG"
+        ]
+      },
+      {
+        "start": 209,
+        "end": 214,
+        "text": "Linke",
+        "labels": [
+          "ORG"
+        ]
+      },
+      {
+        "start": 296,
+        "end": 315,
+        "text": "rot-roten Koalition",
+        "labels": [
+          "ORG"
+        ]
+      },
+      {
+        "start": 362,
+        "end": 381,
+        "text": "Ministerpräsidentin",
+        "labels": [
+          "PRF"
+        ]
+      },
+      {
+        "start": 40,
+        "end": 58,
+        "text": "Schweriner Landtag",
+        "labels": [
+          "ORG"
+        ]
+      }
+    ]
+  },
+  {
+    "data": "Im Rahmen der ärztlichen Therapiefreiheit könne die Booster-Impfung auch schon fünf Monate nach der letzten Impfung erfolgen. Die Staatsregierung habe sich mit Kabinettsbeschluss vom 15. November auch dafür ausgesprochen - und erklärt, dass der Freistaat bestehende Rechtsrisiken eigenständig absichern werde, sollte der Bund dafür den Rechtsrahmen nicht umgehend anpassen. \"D.h. es wird eine entsprechende Haftungsfreistellung erfolgen, wenn es durch eine Auffrischungsimpfung zu einem Gesundheitsschaden bei der geimpften Person kommt und die Impfung nach 5 Monaten, aber vor Ablauf von 6 Monaten nach der Zweitimpfung erfolgt ist\", heißt es in dem Brief.",
+    "annotations": [
+      {
+        "start": 183,
+        "end": 195,
+        "text": "15. November",
+        "labels": [
+          "DAT"
+        ]
+      }
+    ]
+  },
+  {
+    "data": "Weil für Pause nach Weihnachten und spätere Impfpflicht",
+    "annotations": [
+      {
+        "start": 20,
+        "end": 31,
+        "text": "Weihnachten",
+        "labels": [
+          "EVN"
+        ]
+      }
+    ]
+  },
+  {
+    "data": "Hier finden Sie Informationen zur Corona-Impfung in Bayern und einen Überblick über die aktuell gültigen Corona-Regeln. Hier finden Sie eine Karte mit den Infektionszahlen in den Landkreisen und Städten.",
+    "annotations": [
+      {
+        "start": 52,
+        "end": 58,
+        "text": "Bayern",
+        "labels": [
+          "LOC"
+        ]
+      }
+    ]
+  },
+  {
+    "data": "Vor 100 Jahren wurde Moto Guzzi gegründet. Zwei Fans berichten, was die italienische Marke einst ausmachte. Und erklären, warum es dem Unternehmen heute schwerfällt, an alten Glanz anzuknüpfen.",
+    "annotations": [
+      {
+        "start": 21,
+        "end": 31,
+        "text": "Moto Guzzi",
+        "labels": [
+          "ORG"
+        ]
+      },
+      {
+        "start": 72,
+        "end": 84,
+        "text": "italienische",
+        "labels": [
+          "NAT"
+        ]
+      }
+    ]
+  },
+  {
+    "data": "Die Ökonomin Monika Schnitzer rät Firmen, größere Weihnachtsfeiern lieber abzusagen. Arbeitgeber sollten zudem den Impfstatus ihrer Beschäftigten kennen dürfen.",
+    "annotations": [
+      {
+        "start": 4,
+        "end": 12,
+        "text": "Ökonomin",
+        "labels": [
+          "PRF"
+        ]
+      },
+      {
+        "start": 13,
+        "end": 29,
+        "text": "Monika Schnitzer",
+        "labels": [
+          "PER"
+        ]
+      },
+      {
+        "start": 50,
+        "end": 66,
+        "text": "Weihnachtsfeiern",
+        "labels": [
+          "EVN"
+        ]
+      }
+    ]
+  },
+  {
+    "data": "Für sein grundlegend neues Elektromodell Trinity will Volkswagen in der Nähe des Stammsitzes in Wolfsburg ein separates Werk errichten. Das Auto soll 2026 auf den Markt kommen. Das Vorhaben gilt als einer der entscheidenden Punkte in der Investitionsstrategie für die kommenden fünf Jahre. Der Aufsichtsrat muss der neuen Produktionsstätte noch zustimmen. Die endgültige Entscheidung fällt möglicherweise bis zum 9. Dezember – an diesem Tag soll die mittelfristige VW-Investitionsplanung abgeschlossen werden.",
+    "annotations": [
+      {
+        "start": 54,
+        "end": 64,
+        "text": "Volkswagen",
+        "labels": [
+          "ORG"
+        ]
+      },
+      {
+        "start": 96,
+        "end": 105,
+        "text": "Wolfsburg",
+        "labels": [
+          "LOC"
+        ]
+      },
+      {
+        "start": 465,
+        "end": 487,
+        "text": "VW-Investitionsplanung",
+        "labels": [
+          "DOC"
+        ]
+      },
+      {
+        "start": 41,
+        "end": 48,
+        "text": "Trinity",
+        "labels": [
+          "PRD"
+        ]
+      },
+      {
+        "start": 413,
+        "end": 424,
+        "text": "9. Dezember",
+        "labels": [
+          "DAT"
+        ]
+      }
+    ]
+  },
+  {
+    "data": "\"Wir haben null Kontakt, auch wenn er ein Top-Trainer ist\", sagte Al-Khelaifi (48) am Rande der Ballon d'Or-Verleihung in Paris dem Fernsehsender \"L'Équipe\". Zuvor hatten in der vergangenen Woche französische Medien von einem Treffen zwischen Zidane und PSG-Funktionären in einem Pariser Nobelhotel berichtet.",
+    "annotations": [
+      {
+        "start": 46,
+        "end": 53,
+        "text": "Trainer",
+        "labels": [
+          "PRF"
+        ]
+      },
+      {
+        "start": 66,
+        "end": 77,
+        "text": "Al-Khelaifi",
+        "labels": [
+          "PER"
+        ]
+      },
+      {
+        "start": 122,
+        "end": 127,
+        "text": "Paris",
+        "labels": [
+          "LOC"
+        ]
+      },
+      {
+        "start": 147,
+        "end": 155,
+        "text": "L'Équipe",
+        "labels": [
+          "ORG"
+        ]
+      },
+      {
+        "start": 96,
+        "end": 118,
+        "text": "Ballon d'Or-Verleihung",
+        "labels": [
+          "EVN"
+        ]
+      },
+      {
+        "start": 196,
+        "end": 208,
+        "text": "französische",
+        "labels": [
+          "NAT"
+        ]
+      },
+      {
+        "start": 243,
+        "end": 249,
+        "text": "Zidane",
+        "labels": [
+          "PER"
+        ]
+      },
+      {
+        "start": 254,
+        "end": 257,
+        "text": "PSG",
+        "labels": [
+          "ORG"
+        ]
+      },
+      {
+        "start": 258,
+        "end": 270,
+        "text": "Funktionären",
+        "labels": [
+          "PRF"
+        ]
+      }
+    ]
+  },
+  {
+    "data": "Im Stammwerk in Wolfsburg würden weiter Autos gebaut. „In den nächsten Jahren werden das vor allem Golf und Tiguan sein“, sagte Brandstätter. Auf zwei Linien würden weiterhin Verbrenner gefertigt. Auf den frei gewordenen Flächen wolle man eine weitere Trinity-Variante produzieren.",
+    "annotations": [
+      {
+        "start": 16,
+        "end": 25,
+        "text": "Wolfsburg",
+        "labels": [
+          "LOC"
+        ]
+      },
+      {
+        "start": 99,
+        "end": 103,
+        "text": "Golf",
+        "labels": [
+          "PRD"
+        ]
+      },
+      {
+        "start": 108,
+        "end": 114,
+        "text": "Tiguan",
+        "labels": [
+          "PRD"
+        ]
+      },
+      {
+        "start": 252,
+        "end": 259,
+        "text": "Trinity",
+        "labels": [
+          "PRD"
+        ]
+      },
+      {
+        "start": 128,
+        "end": 140,
+        "text": "Brandstätter",
+        "labels": [
+          "PER"
+        ]
+      }
+    ]
+  },
+  {
+    "data": "Für die Berliner ist Korkut der sechste Trainer innerhalb von zweieinhalb Jahren. Zuvor versuchten bereits Ante Čović, Jürgen Klinsmann, Alexander Nouri, Bruno Labbadia und eben Dárdai, die hohen Ansprüche des Investors Lars Windhorst zu erfüllen. ",
+    "annotations": [
+      {
+        "start": 21,
+        "end": 27,
+        "text": "Korkut",
+        "labels": [
+          "PER"
+        ]
+      },
+      {
+        "start": 40,
+        "end": 47,
+        "text": "Trainer",
+        "labels": [
+          "PRF"
+        ]
+      },
+      {
+        "start": 107,
+        "end": 117,
+        "text": "Ante Čović",
+        "labels": [
+          "PER"
+        ]
+      },
+      {
+        "start": 119,
+        "end": 135,
+        "text": "Jürgen Klinsmann",
+        "labels": [
+          "PER"
+        ]
+      },
+      {
+        "start": 137,
+        "end": 152,
+        "text": "Alexander Nour",
+        "labels": [
+          "PER"
+        ]
+      },
+      {
+        "start": 154,
+        "end": 168,
+        "text": "Bruno Labbadia",
+        "labels": [
+          "PER"
+        ]
+      },
+      {
+        "start": 178,
+        "end": 184,
+        "text": "Dárdai",
+        "labels": [
+          "PER"
+        ]
+      },
+      {
+        "start": 220,
+        "end": 234,
+        "text": "Lars Windhorst",
+        "labels": [
+          "PER"
+        ]
+      }
+    ]
+  },
+  {
+    "data": "Das Coronavirus hat erneut gezeigt, wie unberechenbar es ist. Zwar hatten Fachleute vermutet, dass es weiter mutieren wird – dies gehört zur Natur des Erregers. Die Anzahl und Zusammensetzung der Mutationen, die Forschende jetzt in der Omikron-Variante entdeckt haben, ist jedoch ungewöhnlich. »Ich bin überrascht, so viele Mutationen in dem Virus zu sehen«, sagte Christian Drosten von der Berliner Charité im ZDF.",
+    "annotations": [
+      {
+        "start": 365,
+        "end": 382,
+        "text": "Christian Drosten",
+        "labels": [
+          "PER"
+        ]
+      },
+      {
+        "start": 391,
+        "end": 407,
+        "text": "Berliner Charité",
+        "labels": [
+          "ORG"
+        ]
+      },
+      {
+        "start": 411,
+        "end": 414,
+        "text": "ZDF",
+        "labels": [
+          "ORG"
+        ]
+      }
+    ]
+  },
+  {
+    "data": "Aus einem Pixel Fold von Google scheint vorerst nichts zu werden. Einem Bericht zufolge habe der Hersteller seine Foldable-Pläne aufgeschoben.",
+    "annotations": [
+      {
+        "start": 25,
+        "end": 31,
+        "text": "Google",
+        "labels": [
+          "ORG"
+        ]
+      },
+      {
+        "start": 10,
+        "end": 20,
+        "text": "Pixel Fold",
+        "labels": [
+          "PRD"
+        ]
+      }
+    ]
+  },
+  {
+    "data": "Die Donnersbergerbrücke liegt unweit des Hauptbahnhofs im Zentrum Münchens auf der Stammstrecke der Münchner S-Bahn. Zahlreiche Feuerwehrwagen und rund 50 Einsatzkräfte waren vor Ort, ein Bundespolizeihubschrauber kreiste über der Gegend. ",
+    "annotations": [
+      {
+        "start": 100,
+        "end": 115,
+        "text": "Münchner S-Bahn",
+        "labels": [
+          "ORG"
+        ]
+      },
+      {
+        "start": 66,
+        "end": 74,
+        "text": "Münchens",
+        "labels": [
+          "LOC"
+        ]
+      }
+    ]
+  },
+  {
+    "data": "Es ist etwas eng geworden gegenüber der Vertretung des Landes Hamburg im Zentrum Berlins. Hier, wo sich die Ampel-Spitzen von diesem Montag an zu den entscheidenden Gesprächen treffen, haben sich am Morgen einige Gruppen positioniert, damit die Verhandler auch ja nicht ihre Forderungen vergessen. Anhänger der Protestbewegung Campact nehmen zusammen mit Greenpeace-Demonstranten die besten Plätze gegenüber dem Eingang der Hanseaten-Vertretung ein, gleich daneben halten Vertreter von Amnesty International ihre Plakate hoch, etwas abgedrängt eine Aktivistin von \"Omas for Future\" - und Leute des Deutschen Gewerkschaftsbundes (DGB), die fast verschwinden hinter einem Greenpeace-Wagen mit den Großbuchstaben \"Vorfahrt fürs Klima\".",
+    "annotations": [
+      {
+        "start": 62,
+        "end": 69,
+        "text": "Hamburg",
+        "labels": [
+          "LOC"
+        ]
+      },
+      {
+        "start": 81,
+        "end": 88,
+        "text": "Berlins",
+        "labels": [
+          "LOC"
+        ]
+      },
+      {
+        "start": 355,
+        "end": 379,
+        "text": "Greenpeace-Demonstranten",
+        "labels": [
+          "EVN"
+        ]
+      },
+      {
+        "start": 486,
+        "end": 507,
+        "text": "Amnesty International",
+        "labels": [
+          "ORG"
+        ]
+      },
+      {
+        "start": 565,
+        "end": 580,
+        "text": "Omas for Future",
+        "labels": [
+          "ORG"
+        ]
+      },
+      {
+        "start": 245,
+        "end": 255,
+        "text": "Verhandler",
+        "labels": [
+          "PRF"
+        ]
+      },
+      {
+        "start": 472,
+        "end": 481,
+        "text": "Vertreter",
+        "labels": [
+          "PRF"
+        ]
+      },
+      {
+        "start": 598,
+        "end": 632,
+        "text": "Deutschen Gewerkschaftsbundes (DGB",
+        "labels": [
+          "ORG"
+        ]
+      },
+      {
+        "start": 670,
+        "end": 680,
+        "text": "Greenpeace",
+        "labels": [
+          "ORG"
+        ]
+      }
+    ]
+  },
+  {
+    "data": "Neuer Hertha-Trainer Korkut",
+    "annotations": [
+      {
+        "start": 6,
+        "end": 20,
+        "text": "Hertha-Trainer",
+        "labels": [
+          "PRF"
+        ]
+      },
+      {
+        "start": 21,
+        "end": 27,
+        "text": "Korkut",
+        "labels": [
+          "PER"
+        ]
+      }
+    ]
+  },
+  {
+    "data": "Alexander Köhl liebt Elektroautos. Privat fährt er einen roten Renault Zoé, 53 kWh Akku-Kapazität, 386 Kilometer Reichweite, „perfekt für den Alltag“, wie er sagt. Beruflich lebt der 43-jährige Bonner ebenfalls von der Elektromobilität: Zum einen vermietet er E-Autos, zum anderen berät er Umsteigewillige, die sich einen Stromer zulegen wollen. Er weiß alles über Wallboxen, Ladesäulen und Energieanbieter. Und doch hat er selbst ein Problem, vor dem sich viele seiner Kundïnnen fürchten: Zu Hause kann er sein Auto nicht laden.",
+    "annotations": [
+      {
+        "start": 0,
+        "end": 14,
+        "text": "Alexander Köhl",
+        "labels": [
+          "PER"
+        ]
+      },
+      {
+        "start": 63,
+        "end": 74,
+        "text": "Renault Zoé",
+        "labels": [
+          "PRD"
+        ]
+      }
+    ]
+  },
+  {
+    "data": "Die Landesregierung plant zudem eine Landarztquote: Damit sollen künftig 60 Medizin-Studienplätze pro Jahr an Bewerber vergeben werden, die sich für zehn Jahre zu einer hausärztlichen Tätigkeit auf dem Land verpflichten. Einen entsprechenden Gesetzentwurf hatte der Landtag in der vergangenen Woche beraten.",
+    "annotations": [
+      {
+        "start": 4,
+        "end": 19,
+        "text": "Landesregierung",
+        "labels": [
+          "ORG"
+        ]
+      }
+    ]
+  },
+  {
+    "data": "Frances Haugen ist zu Besuch bei der EU-Kommission, um vor Facebook zu warnen. Die Whistleblowerin wird ernst genommen.",
+    "annotations": [
+      {
+        "start": 0,
+        "end": 14,
+        "text": "Frances Haugen",
+        "labels": [
+          "PER"
+        ]
+      },
+      {
+        "start": 37,
+        "end": 50,
+        "text": "EU-Kommission",
+        "labels": [
+          "ORG"
+        ]
+      },
+      {
+        "start": 59,
+        "end": 67,
+        "text": "Facebook",
+        "labels": [
+          "ORG"
+        ]
+      },
+      {
+        "start": 83,
+        "end": 98,
+        "text": "Whistleblowerin",
+        "labels": [
+          "PRF"
+        ]
+      }
+    ]
+  },
+  {
+    "data": "Drei Fahrprogramme ändern nicht nur die Kennlinien von Lenkung, Fahrpedal und Dämpfung, sondern leiten auch unterschiedlich viel Drehmoment an die Hinterräder. Ein dem GT vorbehaltener zusätzlicher Fahrmodus ist nur für den nahezu ungezügelten Einsatz auf der Rennstrecke gedacht. Die Höchstgeschwindigkeit hat Ford auf 200 km/h begrenzt, schließlich geht es bei einem Elektroauto, und sei es noch so sportlich, immer auch um Reichweite.",
+    "annotations": [
+      {
+        "start": 168,
+        "end": 170,
+        "text": "GT",
+        "labels": [
+          "PRD"
+        ]
+      },
+      {
+        "start": 311,
+        "end": 315,
+        "text": "Ford",
+        "labels": [
+          "ORG"
+        ]
+      }
+    ]
+  },
+  {
+    "data": "Der Betriebsrat hatte zuletzt kritisiert, dass Konzernchef Herbert Diess keine hinreichende Strategie für eine stärkere Auslastung Wolfsburgs habe – zumal in der anhaltenden Chip-Lieferkrise, die Zehntausende Menschen teils über Monate in Kurzarbeit hält. Zudem forderte die Belegschaftsvertretung mindestens ein weiteres E-Modell für die Zentrale ab etwa 2024. Diese Frage sei noch nicht entschieden, sagte Brandstätter. „Darüber reden wir gerade, aber klar ist: es muss wirtschaftlich Sinn ergeben.“",
+    "annotations": [
+      {
+        "start": 47,
+        "end": 58,
+        "text": "Konzernchef",
+        "labels": [
+          "PRF"
+        ]
+      },
+      {
+        "start": 59,
+        "end": 72,
+        "text": "Herbert Diess",
+        "labels": [
+          "PER"
+        ]
+      },
+      {
+        "start": 408,
+        "end": 420,
+        "text": "Brandstätter",
+        "labels": [
+          "PRF"
+        ]
+      },
+      {
+        "start": 131,
+        "end": 141,
+        "text": "Wolfsburgs",
+        "labels": [
+          "LOC"
+        ]
+      }
+    ]
+  },
+  {
+    "data": "Montag, 15. November, 13.25 Uhr: Angesichts der extrem steigenden Zahl von Corona-Neuinfektionen sieht sich das Gesundheitsamt in Rosenheim gezwungen, seine Strategie beim Nachverfolgen von Infektionsketten zu ändern. Das Ermitteln von Kontaktpersonen beschränke sich ab sofort nur noch auf Einrichtungen mit gefährdeten Personen, wie Alten- und Pflegeheime und Kliniken, hieß es am Montagmittag vom Rosenheimer Landratsamt, das sich in seiner Mitteilung auf eine geänderte Strategie der Staatsregierung beruft. Kontakte im privaten Bereich würden im Raum Rosenheim nicht mehr nachverfolgt. Man bitte stattdessen alle Infizierten und die Angehörigen ihrer Haushalte, mögliche Kontaktpersonen beispielsweise im Freundeskreis oder am Arbeitsplatz selbst auf das erhöhte Ansteckungsrisiko hinzuweisen und sie zu bitten, ihrerseits ihre Kontakte einzuschränken und sich als Kontaktperson kostenfrei testen zu lassen.",
+    "annotations": [
+      {
+        "start": 22,
+        "end": 31,
+        "text": "13.25 Uhr",
+        "labels": [
+          "TIM"
+        ]
+      },
+      {
+        "start": 130,
+        "end": 139,
+        "text": "Rosenheim",
+        "labels": [
+          "LOC"
+        ]
+      },
+      {
+        "start": 556,
+        "end": 565,
+        "text": "Rosenheim",
+        "labels": [
+          "LOC"
+        ]
+      },
+      {
+        "start": 0,
+        "end": 20,
+        "text": "Montag, 15. November",
+        "labels": [
+          "DAT"
+        ]
+      },
+      {
+        "start": 112,
+        "end": 126,
+        "text": "Gesundheitsamt",
+        "labels": [
+          "ORG"
+        ]
+      },
+      {
+        "start": 400,
+        "end": 423,
+        "text": "Rosenheimer Landratsamt",
+        "labels": [
+          "ORG"
+        ]
+      }
+    ]
+  },
+  {
+    "data": "Zuletzt vier Spiele ohne Sieg, dazu Platz 14 in der Tabelle und nur einen Zähler Vorsprung auf den Relegationsplatz: Fußball-Bundesligist Hertha BSC hat Pál Dárdai mit sofortiger Wirkung als Trainer freigestellt. Das teilten die Berliner zwei Tage nach dem Remis gegen den Abstiegsrivalen FC Augsburg (1:1) mit. Neuer Chefcoach wird demnach Tayfun Korkut. Er erhält einen Vertrag bis zum Saisonende.",
+    "annotations": [
+      {
+        "start": 138,
+        "end": 148,
+        "text": "Hertha BSC",
+        "labels": [
+          "ORG"
+        ]
+      },
+      {
+        "start": 153,
+        "end": 163,
+        "text": "Pál Dárdai",
+        "labels": [
+          "PER"
+        ]
+      },
+      {
+        "start": 191,
+        "end": 198,
+        "text": "Trainer",
+        "labels": [
+          "PRF"
+        ]
+      },
+      {
+        "start": 289,
+        "end": 300,
+        "text": "FC Augsburg",
+        "labels": [
+          "ORG"
+        ]
+      },
+      {
+        "start": 318,
+        "end": 327,
+        "text": "Chefcoach",
+        "labels": [
+          "PRF"
+        ]
+      },
+      {
+        "start": 341,
+        "end": 354,
+        "text": "Tayfun Korkut",
+        "labels": [
+          "PER"
+        ]
+      }
+    ]
+  },
+  {
+    "data": "Der Jugendrat des Kinderschutzbundes hat Jugendliche in Schleswig-Holstein gefragt, wie sie sich in der Pandemie fühlen. Bei vielen sind die Gedanken aber alles andere als positiv: 40 Prozent gaben an, oft traurig zu sein, das ist ein Anstieg von 15 Prozent im Vergleich zum Vorjahr. Emma Döhler vom Jugendrat hatte eine Verschlechterung der Stimmungslage im persönlichen Umfeld bereits ausgemacht, \"das anhand der Zahlen zu sehen, dass sich das mit dem 'Bist du oft traurig?' fast verdoppelt hat, fand ich nochmal erschreckend zu sehen\". Mehr als 300 14- bis 19-Jährige nahmen an der Onlinebefragung teil. Sie ist zwar nicht repräsentativ, gibt aber einen guten Einblick in die Gefühlslage vieler Jugendlicher.",
+    "annotations": [
+      {
+        "start": 4,
+        "end": 36,
+        "text": "Jugendrat des Kinderschutzbundes",
+        "labels": [
+          "ORG"
+        ]
+      },
+      {
+        "start": 56,
+        "end": 74,
+        "text": "Schleswig-Holstein",
+        "labels": [
+          "LOC"
+        ]
+      },
+      {
+        "start": 284,
+        "end": 295,
+        "text": "Emma Döhler",
+        "labels": [
+          "PER"
+        ]
+      }
+    ]
+  },
+  {
+    "data": "Die Kanzlerin hatte bereits in der vergangenen Woche wiederholt klargemacht, für eine Ministerpräsidentenkonferenz bereitzustehen. Einige Bundesländer hatten sich indes dagegen ausgesprochen. Nach Angaben des Regierungssprechers sei Merkel nun \"mit allen Beteiligten in Kontakt\" – mit dem Koalitionspartner SPD, mit Vertretern der \"im Entstehen begriffenen\" Ampel-Koalition und mit den Landesregierungen.",
+    "annotations": [
+      {
+        "start": 209,
+        "end": 228,
+        "text": "Regierungssprechers",
+        "labels": [
+          "PRF"
+        ]
+      },
+      {
+        "start": 233,
+        "end": 239,
+        "text": "Merkel",
+        "labels": [
+          "PER"
+        ]
+      },
+      {
+        "start": 307,
+        "end": 310,
+        "text": "SPD",
+        "labels": [
+          "ORG"
+        ]
+      },
+      {
+        "start": 358,
+        "end": 373,
+        "text": "Ampel-Koalition",
+        "labels": [
+          "ORG"
+        ]
+      },
+      {
+        "start": 4,
+        "end": 13,
+        "text": "Kanzlerin",
+        "labels": [
+          "PRF"
+        ]
+      }
+    ]
+  },
+  {
+    "data": "In einem Dorf bei Göttingen harren zwei Windradstummel seit Jahren der Fertigstellung, weil die Leute im Kleinen ausfechten, was dem Land im Großen noch bevorsteht.",
+    "annotations": [
+      {
+        "start": 18,
+        "end": 27,
+        "text": "Göttingen",
+        "labels": [
+          "LOC"
+        ]
+      }
+    ]
+  },
+  {
+    "data": "Bayern verschärft Corona-Maßnahmen",
+    "annotations": [
+      {
+        "start": 0,
+        "end": 6,
+        "text": "Bayern",
+        "labels": [
+          "LOC"
+        ]
+      }
+    ]
+  },
+  {
+    "data": "Immerhin aber ist das Gericht, ist der Erste Senat für den Schutz der Grundrechte zuständig – und hat schon in der Vergangenheit den Gesetzgeber mit deutlichen Worten in die Schranken gewiesen. Die Erwartungen waren bei vielen entsprechend groß, dass sich Karlsruhe zum Notstandsgesetzgeber aufschwingen möge. Doch auch das wäre eine Überdehnung seiner Rolle gewesen.",
+    "annotations": [
+      {
+        "start": 133,
+        "end": 144,
+        "text": "Gesetzgeber",
+        "labels": [
+          "PRF"
+        ]
+      },
+      {
+        "start": 256,
+        "end": 265,
+        "text": "Karlsruhe",
+        "labels": [
+          "LOC"
+        ]
+      },
+      {
+        "start": 270,
+        "end": 290,
+        "text": "Notstandsgesetzgeber",
+        "labels": [
+          "PRF"
+        ]
+      }
+    ]
+  },
+  {
+    "data": "Der Artikel nimmt insbesondere Abogebühren in Visier. Apps auf dem iPhone könnten die Zahlungen über Apple oder einen eigenen Webdienst abrechnen. Dabei berechnet das iPhone-Unternehmen im ersten Jahr 30 Prozent und in jedem folgenden Jahr 15 Prozent der Abogebühren. Der Artikel lässt ungenannte „Mobilmarken“ zu Wort kommen, die behaupten, Apple nehme ihnen Marge weg. Der Kunde wisse gar nicht, dass die Abogebühren über den App Store an Apple gehen würden. Forbes schreibt: „Wenn man das alles zusammenzählt, ergibt sich ein gewisser Zynismus auf dem Markt gegenüber Apple und seinen Datenschutzrichtlinien, die die Daten, die Unternehmen für das Marketing verwenden können, und die Kundendaten, die Apps über Abonnementkunden erhalten, einschränken.“ Apple wird also vorgeworfen, den Datenschutz für den eigenen Profit zu nutzen. Dazu lässt das Magazin eine anonyme Quelle sprechen: „Wir alle wissen, dass das, was Apple in Bezug auf den Datenschutz tut, in die eigenen Taschen fließt. Es ist nicht richtig, dass sie das im Hintergrund mit den Entwicklern gemacht haben … Das ist nicht ethisch.",
+    "annotations": [
+      {
+        "start": 67,
+        "end": 73,
+        "text": "iPhone",
+        "labels": [
+          "PRD"
+        ]
+      },
+      {
+        "start": 167,
+        "end": 173,
+        "text": "iPhone",
+        "labels": [
+          "PRD"
+        ]
+      },
+      {
+        "start": 342,
+        "end": 347,
+        "text": "Apple",
+        "labels": [
+          "ORG"
+        ]
+      },
+      {
+        "start": 428,
+        "end": 437,
+        "text": "App Store",
+        "labels": [
+          "PRD"
+        ]
+      },
+      {
+        "start": 441,
+        "end": 446,
+        "text": "Apple",
+        "labels": [
+          "ORG"
+        ]
+      },
+      {
+        "start": 461,
+        "end": 467,
+        "text": "Forbes",
+        "labels": [
+          "ORG"
+        ]
+      },
+      {
+        "start": 571,
+        "end": 576,
+        "text": "Apple",
+        "labels": [
+          "ORG"
+        ]
+      },
+      {
+        "start": 756,
+        "end": 761,
+        "text": "Apple",
+        "labels": [
+          "ORG"
+        ]
+      },
+      {
+        "start": 920,
+        "end": 925,
+        "text": "Apple",
+        "labels": [
+          "ORG"
+        ]
+      },
+      {
+        "start": 101,
+        "end": 106,
+        "text": "Apple",
+        "labels": [
+          "ORG"
+        ]
+      }
+    ]
+  },
+  {
+    "data": "Die USA und Frankreich haben gemeinsam Russland für Truppenbewegungen an der ukrainischen Grenze kritisiert. Die Außenminister der beiden Länder, Antony Blinken und Jean-Yves Le Drian, hätten Berichte über »besorgniserregende russische Militäraktivitäten in und in der Nähe der Ukraine« besprochen, sagte ein US-Sprecher am Sonntagabend (Ortszeit). Dabei hätten sie »ihr unerschütterliches Engagement für die Souveränität und territoriale Integrität der Ukraine« bekräftigt.",
+    "annotations": [
+      {
+        "start": 4,
+        "end": 7,
+        "text": "USA",
+        "labels": [
+          "LOC"
+        ]
+      },
+      {
+        "start": 12,
+        "end": 22,
+        "text": "Frankreich",
+        "labels": [
+          "LOC"
+        ]
+      },
+      {
+        "start": 39,
+        "end": 47,
+        "text": "Russland",
+        "labels": [
+          "LOC"
+        ]
+      },
+      {
+        "start": 113,
+        "end": 126,
+        "text": "Außenminister",
+        "labels": [
+          "PRF"
+        ]
+      },
+      {
+        "start": 146,
+        "end": 160,
+        "text": "Antony Blinken",
+        "labels": [
+          "PER"
+        ]
+      },
+      {
+        "start": 165,
+        "end": 183,
+        "text": "Jean-Yves Le Drian",
+        "labels": [
+          "PER"
+        ]
+      },
+      {
+        "start": 278,
+        "end": 285,
+        "text": "Ukraine",
+        "labels": [
+          "LOC"
+        ]
+      },
+      {
+        "start": 309,
+        "end": 320,
+        "text": "US-Sprecher",
+        "labels": [
+          "PRF"
+        ]
+      },
+      {
+        "start": 454,
+        "end": 461,
+        "text": "Ukraine",
+        "labels": [
+          "LOC"
+        ]
+      },
+      {
+        "start": 77,
+        "end": 89,
+        "text": "ukrainischen",
+        "labels": [
+          "NAT"
+        ]
+      },
+      {
+        "start": 226,
+        "end": 235,
+        "text": "russische",
+        "labels": [
+          "NAT"
+        ]
+      }
+    ]
+  },
+  {
+    "data": "Es war das erste Mal seit der umstrittenen Präsidentenwahl im August vergangenen Jahres in Belarus, dass Merkel mit Lukaschenko gesprochen hat. Die EU erkennt ihn wegen des harten Vorgehens der Sicherheitskräfte gegen friedliche Demonstranten nicht als Präsidenten an, auch in Seiberts Mitteilung ist lediglich von \"Herrn Alexander Lukaschenko\" die Rede.",
+    "annotations": [
+      {
+        "start": 91,
+        "end": 98,
+        "text": "Belarus",
+        "labels": [
+          "LOC"
+        ]
+      },
+      {
+        "start": 105,
+        "end": 111,
+        "text": "Merkel",
+        "labels": [
+          "PER"
+        ]
+      },
+      {
+        "start": 116,
+        "end": 127,
+        "text": "Lukaschenko",
+        "labels": [
+          "PER"
+        ]
+      },
+      {
+        "start": 148,
+        "end": 150,
+        "text": "EU",
+        "labels": [
+          "ORG"
+        ]
+      },
+      {
+        "start": 253,
+        "end": 264,
+        "text": "Präsidenten",
+        "labels": [
+          "PRF"
+        ]
+      },
+      {
+        "start": 322,
+        "end": 343,
+        "text": "Alexander Lukaschenko",
+        "labels": [
+          "PER"
+        ]
+      },
+      {
+        "start": 43,
+        "end": 68,
+        "text": "Präsidentenwahl im August",
+        "labels": [
+          "EVN"
+        ]
+      },
+      {
+        "start": 277,
+        "end": 285,
+        "text": "Seiberts",
+        "labels": [
+          "PER"
+        ]
+      }
+    ]
+  },
+  {
+    "data": "Bei einer Online-Kabinettssitzung heute Vormittag in Schwerin wird das Thema Corona ein Schwerpunkt sein. Dem Vernehmen nach soll darüber beraten werden, ob die ab Mittwoch in Mecklenburg-Vorpommern geltenden Kontaktbeschränkungen als ausreichend empfunden werden. Dann dürfen nur noch höchstens fünf Ungeimpfte aus zwei Haushalten in Innenräumen zusammenkommen. Kinder bis 14 Jahre zählen nicht mit. Ein Sprecher der Schweriner Staatskanzlei verwies in dem Zusammenhang auf Forderungen der Nationalen Akademie der Wissenschaften Leopoldina nach weitergehenden Kontakteinschränkungen.",
+    "annotations": [
+      {
+        "start": 53,
+        "end": 61,
+        "text": "Schwerin",
+        "labels": [
+          "LOC"
+        ]
+      },
+      {
+        "start": 176,
+        "end": 198,
+        "text": "Mecklenburg-Vorpommern",
+        "labels": [
+          "LOC"
+        ]
+      },
+      {
+        "start": 405,
+        "end": 413,
+        "text": "Sprecher",
+        "labels": [
+          "PRF"
+        ]
+      },
+      {
+        "start": 418,
+        "end": 442,
+        "text": "Schweriner Staatskanzlei",
+        "labels": [
+          "ORG"
+        ]
+      },
+      {
+        "start": 491,
+        "end": 540,
+        "text": "Nationalen Akademie der Wissenschaften Leopoldina",
+        "labels": [
+          "ORG"
+        ]
+      }
+    ]
+  },
+  {
+    "data": "Kühlergrill-Design bei BMW",
+    "annotations": [
+      {
+        "start": 23,
+        "end": 26,
+        "text": "BMW",
+        "labels": [
+          "ORG"
+        ]
+      }
+    ]
+  },
+  {
+    "data": "Insgesamt stellten die Einsatzkräfte der Bundespolizei seit Anfang August in Mecklenburg-Vorpommern 1267 unerlaubte Einreisen mit Bezug zu Belarus fest. An der gesamten deutsch-polnischen Grenze, also mit Sachsen und Brandenburg, wurden 2021 bereits mehr als 9000 Flüchtlinge aufgegriffen, die illegal eingereist waren, hieß es.",
+    "annotations": [
+      {
+        "start": 77,
+        "end": 99,
+        "text": "Mecklenburg-Vorpommern",
+        "labels": [
+          "LOC"
+        ]
+      },
+      {
+        "start": 139,
+        "end": 146,
+        "text": "Belarus",
+        "labels": [
+          "LOC"
+        ]
+      },
+      {
+        "start": 205,
+        "end": 212,
+        "text": "Sachsen",
+        "labels": [
+          "LOC"
+        ]
+      },
+      {
+        "start": 217,
+        "end": 228,
+        "text": "Brandenburg",
+        "labels": [
+          "LOC"
+        ]
+      },
+      {
+        "start": 169,
+        "end": 176,
+        "text": "deutsch",
+        "labels": [
+          "NAT"
+        ]
+      },
+      {
+        "start": 41,
+        "end": 54,
+        "text": "Bundespolizei",
+        "labels": [
+          "ORG"
+        ]
+      }
+    ]
+  },
+  {
+    "data": "Mit dieser Entscheidung kapituliert das Rosenheimer Gesundheitsamt auch offiziell und öffentlich vor einer Aufgabe, der es zuletzt allenfalls noch teilweise gerecht werden konnte. Während manche bayerischen Landratsämter zuletzt noch versicherten, die tagesaktuelle Kontaktverfolgung lasse sich weiterhin aufrechterhalten, können dies viele andere trotz der Amtshilfe aus anderen Behörden und der Bundeswehr schon seit Längerem nicht mehr leisten. Die Inzidenz im Landkreis Rosenheim lag dem Robert-Koch-Institut zufolge am Montag bei 708,8.",
+    "annotations": [
+      {
+        "start": 474,
+        "end": 483,
+        "text": "Rosenheim",
+        "labels": [
+          "LOC"
+        ]
+      },
+      {
+        "start": 492,
+        "end": 512,
+        "text": "Robert-Koch-Institut",
+        "labels": [
+          "ORG"
+        ]
+      },
+      {
+        "start": 40,
+        "end": 66,
+        "text": "Rosenheimer Gesundheitsamt",
+        "labels": [
+          "ORG"
+        ]
+      },
+      {
+        "start": 195,
+        "end": 220,
+        "text": "bayerischen Landratsämter",
+        "labels": [
+          "ORG"
+        ]
+      }
+    ]
+  },
+  {
+    "data": "Bayerns Kliniken: Versorgung bald nicht mehr sicherzustellen",
+    "annotations": [
+      {
+        "start": 0,
+        "end": 7,
+        "text": "Bayerns",
+        "labels": [
+          "LOC"
+        ]
+      }
+    ]
+  },
+  {
+    "data": "Den Beweis tritt der Land Rover Discovery Sport P 300e an. Sein Antrieb entspricht dem des im Juli gefahrenen Evoque, aber er ist deutlich größer und etwas schwerer. Zwar sind die 309 PS (227 kW) Systemleistung ausreichend, und dass der nur 1,5 Liter große Dreizylinder an der Front kein Drehmomentmonster ist, wird durch den auf die Hinterachse wirkenden Elektromotor und die acht Gänge der Automatik leidlich kaschiert. Es wird aber mit ständigen Gangwechseln erkauft. Angefahren wird elek­trisch, wenn der Benziner zuschaltet, ruckte unser Testexemplar etwas. In höheren Drehzahlen klingt der Motor bemüht, das passt nicht recht zum komfortablen Charakter des Autos. Und warum darf solch ein Brocken nur 1,6 Tonnen ziehen?",
+    "annotations": [
+      {
+        "start": 21,
+        "end": 54,
+        "text": "Land Rover Discovery Sport P 300e",
+        "labels": [
+          "PRD"
+        ]
+      },
+      {
+        "start": 110,
+        "end": 116,
+        "text": "Evoque",
+        "labels": [
+          "PRD"
+        ]
+      }
+    ]
+  },
+  {
+    "data": "Im September waren in Vorpommern 302 unerlaubt eingereiste Flüchtlinge zumeist aus dem Irak, Iran und Jemen gefasst und in Erstaufnahmeeinrichtungen nach Berlin und Horst bei Boizenburg (Ludwigslust-Parchim) gebracht worden. Zusammen mit Hilfsorganisationen bekommen Hilfsbedürftige inzwischen bei Bedarf auch zusätzliche Kleidung, hieß es von der Bundespolizei.",
+    "annotations": [
+      {
+        "start": 22,
+        "end": 32,
+        "text": "Vorpommern",
+        "labels": [
+          "LOC"
+        ]
+      },
+      {
+        "start": 87,
+        "end": 91,
+        "text": "Irak",
+        "labels": [
+          "LOC"
+        ]
+      },
+      {
+        "start": 93,
+        "end": 97,
+        "text": "Iran",
+        "labels": [
+          "LOC"
+        ]
+      },
+      {
+        "start": 102,
+        "end": 107,
+        "text": "Jemen",
+        "labels": [
+          "LOC"
+        ]
+      },
+      {
+        "start": 154,
+        "end": 160,
+        "text": "Berlin",
+        "labels": [
+          "LOC"
+        ]
+      },
+      {
+        "start": 165,
+        "end": 170,
+        "text": "Horst",
+        "labels": [
+          "LOC"
+        ]
+      },
+      {
+        "start": 175,
+        "end": 185,
+        "text": "Boizenburg",
+        "labels": [
+          "LOC"
+        ]
+      },
+      {
+        "start": 187,
+        "end": 206,
+        "text": "Ludwigslust-Parchim",
+        "labels": [
+          "LOC"
+        ]
+      },
+      {
+        "start": 348,
+        "end": 361,
+        "text": "Bundespolizei",
+        "labels": [
+          "ORG"
+        ]
+      }
+    ]
+  },
+  {
+    "data": "Die Pipeline verbindet Russland mit Deutschland, damit sollen die russischen Gaslieferungen nach Deutschland deutlich erhöht werden. Die Pipeline war schon im September fertiggestellt worden.",
+    "annotations": [
+      {
+        "start": 23,
+        "end": 31,
+        "text": "Russland",
+        "labels": [
+          "LOC"
+        ]
+      },
+      {
+        "start": 36,
+        "end": 47,
+        "text": "Deutschland",
+        "labels": [
+          "LOC"
+        ]
+      },
+      {
+        "start": 97,
+        "end": 108,
+        "text": "Deutschland",
+        "labels": [
+          "LOC"
+        ]
+      },
+      {
+        "start": 66,
+        "end": 76,
+        "text": "russischen",
+        "labels": [
+          "NAT"
+        ]
+      }
+    ]
+  },
+  {
+    "data": "Mitten auf Münchens wichtigster Zugstrecke hat sich eine Explosion ereignet. Es gibt mehrere Verletzte – und enorme Auswirkungen auf den Nah- und Fernverkehr.",
+    "annotations": [
+      {
+        "start": 11,
+        "end": 19,
+        "text": "Münchens",
+        "labels": [
+          "LOC"
+        ]
+      }
+    ]
+  },
+  {
+    "data": "Das Kinder- und Familienzentrum in Hamburg-Lurup (KiFaZ) ist eine der Einrichtungen, die sich über Spenden aus der NDR Benefizaktion \"Hand in Hand in Norddeutschland\" freuen würden.",
+    "annotations": [
+      {
+        "start": 4,
+        "end": 56,
+        "text": "Kinder- und Familienzentrum in Hamburg-Lurup (KiFaZ)",
+        "labels": [
+          "ORG"
+        ]
+      },
+      {
+        "start": 115,
+        "end": 118,
+        "text": "NDR",
+        "labels": [
+          "ORG"
+        ]
+      },
+      {
+        "start": 134,
+        "end": 165,
+        "text": "Hand in Hand in Norddeutschland",
+        "labels": [
+          "EVN"
+        ]
+      }
+    ]
+  },
+  {
+    "data": "Die beiden Excelsior-Räder sind keine eineiigen Zwillinge. Ganz abgesehen vom Material der Rahmen unterscheidet sich ihre Geometrie geringfügig. Ein dicker Pluspunkt: Bei dem auf schmalen 23er-Reifen laufenden Gaudy wird ab Werk eine Übersetzung von 2:1 montiert, die mit der unerbittlich bei etwa 17,5 km/h mit dem Faktor 1,38 hochschaltenden Nabe entschieden besser harmoniert. Bei einem Preis von knapp 370 Euro kann der Stahlrahmen nur von der Art „Ich-war-eine-Straßenbahnschiene“ sein und kein Edelstahl. Ein Klopfer an die Rohre, und man hört es. Das schmucke Gaudy ist mit seinen rund 12 Kilogramm, wie nicht anders zu erwarten, etwa ein Kilogramm schwerer als das Sputter mit dem Alu-Rahmen.",
+    "annotations": [
+      {
+        "start": 11,
+        "end": 20,
+        "text": "Excelsior",
+        "labels": [
+          "ORG"
+        ]
+      },
+      {
+        "start": 210,
+        "end": 215,
+        "text": "Gaudy",
+        "labels": [
+          "PRD"
+        ]
+      },
+      {
+        "start": 567,
+        "end": 572,
+        "text": "Gaudy",
+        "labels": [
+          "PRD"
+        ]
+      },
+      {
+        "start": 673,
+        "end": 680,
+        "text": "Sputter",
+        "labels": [
+          "PRD"
+        ]
+      }
+    ]
+  },
+  {
+    "data": "Das Inferno an der US-Westküste schafft, was Greta Thunberg nicht vermochte. Die damals 16-Jährige wollte die Welt mit Angst und Schrecken überziehen, knapp 20 Monate ist das jetzt her: Die Konzernbosse auf dem Weltwirtschaftsgipfel, die Regierenden, wir alle sollten wegen des Klimawandels \"in Panik geraten\", forderte sie in Davos. Doch die Furcht, die sich Thunberg wünschte, lassen sich die Verantwortlichen auch ein Jahr später nicht anmerken. Nicht einmal Sorge um die Zukunft kann man aus dem Umgang der großen Mehrheit der Staatschefs mit der Krise herauslesen - billigende Inkaufnahme des Weltuntergangs.",
+    "annotations": [
+      {
+        "start": 19,
+        "end": 31,
+        "text": "US-Westküste",
+        "labels": [
+          "LOC"
+        ]
+      },
+      {
+        "start": 45,
+        "end": 59,
+        "text": "Greta Thunberg",
+        "labels": [
+          "PER"
+        ]
+      },
+      {
+        "start": 211,
+        "end": 232,
+        "text": "Weltwirtschaftsgipfel",
+        "labels": [
+          "EVN"
+        ]
+      },
+      {
+        "start": 360,
+        "end": 368,
+        "text": "Thunberg",
+        "labels": [
+          "PER"
+        ]
+      },
+      {
+        "start": 531,
+        "end": 542,
+        "text": "Staatschefs",
+        "labels": [
+          "PRF"
+        ]
+      },
+      {
+        "start": 327,
+        "end": 332,
+        "text": "Davos",
+        "labels": [
+          "LOC"
+        ]
+      }
+    ]
+  },
+  {
+    "data": "Nein. Nach Angaben der Bundesagentur für Arbeit galten 2019 nur rund 37 Prozent der erwerbsfähigen Empfänger von Arbeitslosengeld II, das 2005 Arbeitslosenhilfe und Sozialhilfe abgelöst hat, auch als arbeitslos. Der Rest stand dem Arbeitsmarkt aus verschiedenen Gründen formal nicht zur Verfügung oder nahm an einer Fördermaßnahmen teil. Eine weitere Gruppe sind Aufstocker. Sie arbeiten zwar mindestens 15 Stunden in der Woche und gelten deshalb nicht als arbeitslos. Weil ihr Einkommen für den Lebensunterhalt aber nicht reicht, bekommen sie zusätzlich Arbeitslosengeld II. Auch Empfänger von Arbeitslosengeld I gelten nicht automatisch als arbeitslos. Im Jahresdurchschnitt 2019 traf das bei rund 117.000 Menschen zu, die zum Beispiel vorübergehend krank geschrieben waren oder an bestimmten Fördermaßnahmen teilnahmen. Umgekehrt galten in der offiziellen Statistik 2019 aber auch etwa 235.000 Menschen als arbeitslos, die kein Arbeitslosengeld I oder II bekommen.",
+    "annotations": [
+      {
+        "start": 23,
+        "end": 47,
+        "text": "Bundesagentur für Arbeit",
+        "labels": [
+          "ORG"
+        ]
+      },
+      {
+        "start": 113,
+        "end": 132,
+        "text": "Arbeitslosengeld II",
+        "labels": [
+          "DOC"
+        ]
+      },
+      {
+        "start": 143,
+        "end": 160,
+        "text": "Arbeitslosenhilfe",
+        "labels": [
+          "DOC"
+        ]
+      },
+      {
+        "start": 165,
+        "end": 176,
+        "text": "Sozialhilfe",
+        "labels": [
+          "DOC"
+        ]
+      },
+      {
+        "start": 555,
+        "end": 574,
+        "text": "Arbeitslosengeld II",
+        "labels": [
+          "DOC"
+        ]
+      },
+      {
+        "start": 595,
+        "end": 613,
+        "text": "Arbeitslosengeld I",
+        "labels": [
+          "DOC"
+        ]
+      },
+      {
+        "start": 931,
+        "end": 949,
+        "text": "Arbeitslosengeld I",
+        "labels": [
+          "DOC"
+        ]
+      }
+    ]
+  },
+  {
+    "data": "Volvo war schon immer gern Vorreiter: die Ersten mit Dreipunktgurt, die Ersten mit geregeltem Katalysator, die Ersten, die ihre Fahrzeuge freiwillig auf 180 km/h limitierten. Jetzt beginnen sie, sich vom Leder zu verabschieden, der neue C40, der im belgischen Gent gebaut wird, ist der erste Volvo, in dessen Innenraum nur vegane Materialien zu finden sind. Wer Leder will, schaut in die Röhre. Auch der elektrische XC40, das Schwestermodell, wird fortan nicht mehr mit Ledergestühl zu bekommen sein. Der C40, der nicht mehr als eine Coupé-Variante des XC40 ist, kommt zudem nur mit elektrischem Antrieb, den er sich vom Bruder leiht.",
+    "annotations": [
+      {
+        "start": 0,
+        "end": 5,
+        "text": "Volvo",
+        "labels": [
+          "ORG"
+        ]
+      },
+      {
+        "start": 237,
+        "end": 240,
+        "text": "C40",
+        "labels": [
+          "PRD"
+        ]
+      },
+      {
+        "start": 292,
+        "end": 297,
+        "text": "Volvo",
+        "labels": [
+          "ORG"
+        ]
+      },
+      {
+        "start": 416,
+        "end": 420,
+        "text": "XC40",
+        "labels": [
+          "PRD"
+        ]
+      },
+      {
+        "start": 505,
+        "end": 508,
+        "text": "C40",
+        "labels": [
+          "PRD"
+        ]
+      },
+      {
+        "start": 553,
+        "end": 557,
+        "text": "XC40",
+        "labels": [
+          "PRD"
+        ]
+      },
+      {
+        "start": 534,
+        "end": 539,
+        "text": "Coupé",
+        "labels": [
+          "PRD"
+        ]
+      }
+    ]
+  },
+  {
+    "data": "Bereits angelaufen ist eine Gesundheitsstudie der Universität München. Die Wissenschaftler wollen herausfinden, wie stark Grundschüler und ihre Eltern aus den beiden Orten mit den giftigen Schwermetallen Blei und Cadmium belastet sind. Blei kann besonders bei Kindern die Hirnfunktion schädigen, Cadmium die Nieren angreifen. Die Behörden gehen davon aus, dass sich etwa 400 Personen testen lassen.",
+    "annotations": [
+      {
+        "start": 50,
+        "end": 69,
+        "text": "Universität München",
+        "labels": [
+          "ORG"
+        ]
+      },
+      {
+        "start": 75,
+        "end": 90,
+        "text": "Wissenschaftler",
+        "labels": [
+          "PRF"
+        ]
+      },
+      {
+        "start": 122,
+        "end": 134,
+        "text": "Grundschüler",
+        "labels": [
+          "PRF"
+        ]
+      }
+    ]
+  },
+  {
+    "data": "Notärzte fordern Politik zu strengen Corona-Maßnahmen auf",
+    "annotations": [
+      {
+        "start": 0,
+        "end": 8,
+        "text": "Notärzte",
+        "labels": [
+          "PRF"
+        ]
+      }
+    ]
+  },
+  {
+    "data": "Es ist eine gewaltige Aufgabe, zu verhindern, dass die Dystopie in die Realität schwappt. Wirtschaft, Politik, ganze Gesellschaften und jeder Einzelne müssen sich ändern. Doch beginnen könnten wir mit dem Naheliegenden. Der Internationale Währungsfonds schätzt, dass Regierungen die Nutzung fossiler Brennstoffe allein 2015 direkt und indirekt mit sagenhaften 4700 Milliarden Euro subventioniert haben. Die Stromversorgung des Planeten bis 2050 weitgehend auf erneuerbare Energien umzustellen, würde laut der Internationalen Agentur für Erneuerbare Energien allerdings nur mit rund 405 Milliarden Euro jährlich zu Buche schlagen. Die Mächtigen der Welt müssen nicht in Panik verfallen, nur mit kühlem Kopf das Richtige tun. So zynisch das klingt, vielleicht kann diese Katastrophe dabei helfen",
+    "annotations": [
+      {
+        "start": 220,
+        "end": 252,
+        "text": "Der Internationale Währungsfonds",
+        "labels": [
+          "ORG"
+        ]
+      },
+      {
+        "start": 509,
+        "end": 557,
+        "text": "Internationalen Agentur für Erneuerbare Energien",
+        "labels": [
+          "ORG"
+        ]
+      }
+    ]
+  },
+  {
+    "data": "Irgendwann war die Stimmung richtig im Keller. Man hatte keine Lust mehr. Man saß nur noch zu Hause\", erzählt sie. \"Es hat keinen Spaß mehr gemacht. Man wollte raus, wollte seine Freunde treffen. Das Soziale hat so gefehlt in dieser Zeit. Das hat sich ja über Wochen und Monate hingezogen. Und dann saß man dementsprechend allein zu Hause.\"Das Bundesverfassungsgericht wird nun entscheiden, ob die Schulschließungen mit dem Grundgesetz vereinbar waren. Derzeit sind sie nicht möglich, weil die Bundesnotbremse nicht mehr gilt. Das Infektionsschutzgesetz wurde erst kürzlich vom Gesetzgeber geändert.Hoffnung auf RechtssicherheitDie Politik erhofft sich aber, dass sie mit den beiden Beschlüssen eine Orientierung bekommt, was bei der Pandemiebekämpfung künftig rechtlich zulässig ist und was nicht. Dass es eine solche Orientierung geben wird, hatte Gerichtspräsident Stephan Harbarth in einem ZDF-Interview kürzlich klar signalisiert.",
+    "annotations": [
+      {
+        "start": 344,
+        "end": 368,
+        "text": "Bundesverfassungsgericht",
+        "labels": [
+          "ORG"
+        ]
+      },
+      {
+        "start": 494,
+        "end": 509,
+        "text": "Bundesnotbremse",
+        "labels": [
+          "EVN"
+        ]
+      },
+      {
+        "start": 531,
+        "end": 553,
+        "text": "Infektionsschutzgesetz",
+        "labels": [
+          "DOC"
+        ]
+      },
+      {
+        "start": 850,
+        "end": 867,
+        "text": "Gerichtspräsident",
+        "labels": [
+          "PRF"
+        ]
+      },
+      {
+        "start": 868,
+        "end": 884,
+        "text": "Stephan Harbarth",
+        "labels": [
+          "PER"
+        ]
+      },
+      {
+        "start": 894,
+        "end": 897,
+        "text": "ZDF",
+        "labels": [
+          "ORG"
+        ]
+      }
+    ]
+  },
+  {
+    "data": "Im Jahr 1993 zählte das Bundeskriminalamt (BKA) in Wiesbaden noch 1623 Überfälle auf »Geldinstitute und Poststellen«, im vergangenen Jahr waren es lediglich 80, wie die Zeitreihen der Ermittlungsbehörde zeigen.",
+    "annotations": [
+      {
+        "start": 51,
+        "end": 60,
+        "text": "Wiesbaden",
+        "labels": [
+          "LOC"
+        ]
+      },
+      {
+        "start": 24,
+        "end": 47,
+        "text": "Bundeskriminalamt (BKA)",
+        "labels": [
+          "ORG"
+        ]
+      }
+    ]
+  },
+  {
+    "data": "Die Autohersteller wissen das - und bauen ihre Fahrzeuge entsprechend. Dominanz sei ein Wert, für den Menschen gern bezahlen, sagt Psychologe Schlag. \"Das schöpfen die Hersteller massiv ab.\"",
+    "annotations": [
+      {
+        "start": 131,
+        "end": 141,
+        "text": "Psychologe",
+        "labels": [
+          "PRF"
+        ]
+      },
+      {
+        "start": 142,
+        "end": 148,
+        "text": "Schlag",
+        "labels": [
+          "PER"
+        ]
+      }
+    ]
+  },
+  {
+    "data": "Mittwoch, 17. November, 12.00 Uhr: Das Gesundheitsministerium hat die Impfzentren in Bayern schriftlich aufgefordert, allen Interessierten schon nach fünf Monaten eine Booster-Impfung gegen Corona zu verabreichen. \"Diese sollen allen angeboten werden, die nach Ablauf von fünf Monaten eine Auffrischungsimpfung wünschen\", heißt es in dem Schreiben, das zur Weiterleitung an die Impfzentren an die Regierungen verschickt wurde.",
+    "annotations": [
+      {
+        "start": 24,
+        "end": 33,
+        "text": "12.00 Uhr",
+        "labels": [
+          "TIM"
+        ]
+      },
+      {
+        "start": 85,
+        "end": 91,
+        "text": "Bayern",
+        "labels": [
+          "LOC"
+        ]
+      },
+      {
+        "start": 0,
+        "end": 22,
+        "text": "Mittwoch, 17. November",
+        "labels": [
+          "DAT"
+        ]
+      },
+      {
+        "start": 39,
+        "end": 61,
+        "text": "Gesundheitsministerium",
+        "labels": [
+          "ORG"
+        ]
+      }
+    ]
+  },
+  {
+    "data": "Niedersachsen, Mecklenburg-Vorpommern und Hamburg beraten über Corona",
+    "annotations": [
+      {
+        "start": 0,
+        "end": 13,
+        "text": "Niedersachsen",
+        "labels": [
+          "LOC"
+        ]
+      },
+      {
+        "start": 15,
+        "end": 37,
+        "text": "Mecklenburg-Vorpommern",
+        "labels": [
+          "LOC"
+        ]
+      },
+      {
+        "start": 42,
+        "end": 49,
+        "text": "Hamburg",
+        "labels": [
+          "LOC"
+        ]
+      }
+    ]
+  },
+  {
+    "data": "Eigentlicher Adressat des Protests ist dabei die SPD. Die EVG will verhindern, dass die Sozialdemokraten Grünen und Liberalen am Ende der Koalitionsverhandlungen die Bahnreform genehmigen – im Gegenzug für Zugeständnisse etwa in der Sozialpolitik.",
+    "annotations": [
+      {
+        "start": 49,
+        "end": 52,
+        "text": "SPD",
+        "labels": [
+          "ORG"
+        ]
+      },
+      {
+        "start": 58,
+        "end": 61,
+        "text": "EVG",
+        "labels": [
+          "ORG"
+        ]
+      },
+      {
+        "start": 105,
+        "end": 111,
+        "text": "Grünen",
+        "labels": [
+          "ORG"
+        ]
+      }
+    ]
+  },
+  {
+    "data": "Wegen steigender Corona-Patientenzahlen sind die Intensivbetten mittlerweile in über der Hälfte der größeren Städte und Landkreise Bayerns knapp. Insgesamt waren am Sonntag in 50 der 96 kreisfreien Städte und Kreise weniger als zehn Prozent der Intensivbetten frei, wie aus dem Intensivregister hervorging. In 20 bayerischen Städten und Kreisen war kein einziges Intensivbett mehr frei.",
+    "annotations": [
+      {
+        "start": 131,
+        "end": 138,
+        "text": "Bayerns",
+        "labels": [
+          "LOC"
+        ]
+      }
+    ]
+  },
+  {
+    "data": "Viele Hersteller statten gerade schwere SUV mit Plug-in-Hybrid-Antrieb aus, um zumindest auf dem Papier sauberer zu erscheinen und Umweltauflagen zu erfüllen. »Mutmaßlich mehr als 2,6 Tonnen Leergewicht. Und trotzdem wird auch dieser Plug-in-SUV von BMW mit fantastisch niedrigen offiziellen Verbrauchs- & CO₂-Werten in die Statistiken eingehen«, kritisierte BUND-Verkehrsexperte Jens Hilgenberg.",
+    "annotations": [
+      {
+        "start": 40,
+        "end": 43,
+        "text": "SUV",
+        "labels": [
+          "PRD"
+        ]
+      },
+      {
+        "start": 234,
+        "end": 245,
+        "text": "Plug-in-SUV",
+        "labels": [
+          "PRD"
+        ]
+      },
+      {
+        "start": 250,
+        "end": 253,
+        "text": "BMW",
+        "labels": [
+          "ORG"
+        ]
+      },
+      {
+        "start": 359,
+        "end": 379,
+        "text": "BUND-Verkehrsexperte",
+        "labels": [
+          "PRF"
+        ]
+      },
+      {
+        "start": 380,
+        "end": 395,
+        "text": "Jens Hilgenberg",
+        "labels": [
+          "PER"
+        ]
+      }
+    ]
+  },
+  {
+    "data": "Es war der wohl peinlichste Moment in der Debatte der vergangenen Wochen über die deutsche Klimapolitik: Vor laufender Kamera wird die Umweltministerin gefragt, von welchem Emissionsbudget die Regierung bei ihren Planungen ausgeht. Erst versucht Svenja Schulze (SPD) der Frage auszuweichen, indem sie auf das Ziel verweist, 2050 treibhausgasneutral zu sein. Auf mehrfache Nachfragen (siehe Video im unten verlinkten Tweet) sagt sie schließlich: \"Unter diesen ganzen Tonnen kann sich doch keiner was vorstellen!",
+    "annotations": [
+      {
+        "start": 82,
+        "end": 90,
+        "text": "deutsche",
+        "labels": [
+          "NAT"
+        ]
+      },
+      {
+        "start": 246,
+        "end": 260,
+        "text": "Svenja Schulze",
+        "labels": [
+          "PER"
+        ]
+      },
+      {
+        "start": 262,
+        "end": 265,
+        "text": "SPD",
+        "labels": [
+          "ORG"
+        ]
+      },
+      {
+        "start": 324,
+        "end": 348,
+        "text": "2050 treibhausgasneutral",
+        "labels": [
+          "DOC"
+        ]
+      },
+      {
+        "start": 135,
+        "end": 151,
+        "text": "Umweltministerin",
+        "labels": [
+          "PRF"
+        ]
+      }
+    ]
+  },
+  {
+    "data": "Die Ungeimpften, die mit der 2G-Regel geschützt werden sollen, könnten das Virus nach Hause getragen bekommen, etwa durch Kinder oder Enkel, schilderte der Virologe. Der Schulbetrieb solle und müsse trotz der hohen Inzidenzen weiterlaufen. „Unter diesem Eindruck, denke ich, muss man sich Gedanken darüber machen, wie man hier eine zusätzliche Schutzschicht einführt für diejenigen, die nicht geimpft sind und im Privatbereich infiziert werden können.“ Das laufe über die Gruppengröße und die Freiheit, sich zu treffen.",
+    "annotations": [
+      {
+        "start": 156,
+        "end": 164,
+        "text": "Virologe",
+        "labels": [
+          "PRF"
+        ]
+      },
+      {
+        "start": 29,
+        "end": 31,
+        "text": "2G",
+        "labels": [
+          "DOC"
+        ]
+      }
+    ]
+  },
+  {
+    "data": "Alle Parteien in Bundestag und Bundesrat sollen eine \"Charta für Klimaneutralität und Wirtschaftskraft\" verabschieden, in der jährliche Minderungsziele von 2022 bis 2050 festgelegt werden sollen. Wenn die Klimaziele verfehlt werden, wäre das sofort ein Politikum und nicht erst 2030 oder 2050. So könnte die Politik schneller nachsteuern.",
+    "annotations": [
+      {
+        "start": 54,
+        "end": 102,
+        "text": "Charta für Klimaneutralität und Wirtschaftskraft",
+        "labels": [
+          "DOC"
+        ]
+      },
+      {
+        "start": 17,
+        "end": 26,
+        "text": "Bundestag",
+        "labels": [
+          "ORG"
+        ]
+      },
+      {
+        "start": 31,
+        "end": 40,
+        "text": "Bundesrat",
+        "labels": [
+          "ORG"
+        ]
+      }
+    ]
+  },
+  {
+    "data": "Das Reihenhaus, in dem Köhl wohnt, hat keine Garage und keinen eigenen Stellplatz. Die nächste öffentliche Ladestation ist zu Fuß 15 Minuten entfernt. Um trotzdem an Strom zu kommen, fragte er seine Nachbarn, ob er ein Kabel unter deren Gartenweg verlegen könne. So kommt er von hinten an die Straße heran, in der sein Auto parkt. Die Nachbarn stimmten zu, Köhl hackte den Weg auf, vergrub das Kabel, installierte eine Wallbox am Gartenzaun. Die Technik funktioniert, aber Köhl hatte eine entscheidende Sache vergessen: Erlaubt ist seine Konstruktion nicht.",
+    "annotations": [
+      {
+        "start": 23,
+        "end": 27,
+        "text": "Köhl",
+        "labels": [
+          "PER"
+        ]
+      },
+      {
+        "start": 473,
+        "end": 477,
+        "text": "Köhl",
+        "labels": [
+          "PER"
+        ]
+      },
+      {
+        "start": 357,
+        "end": 361,
+        "text": "Köhl",
+        "labels": [
+          "PER"
+        ]
+      }
+    ]
+  },
+  {
+    "data": "Der Leiter der Virologie an der Münchner Ludwig-Maximilians-Universität warnte: \"Wir kommen in einen Überlastungsmodus hinein, der monatelang gehen kann, wenn wir nichts dagegen machen.\" Die Wirkung der Corona-Impfungen lässt nach Kepplers Worten schneller nach, als von Medizinern erhofft beziehungsweise erwartet, es gebe schwerwiegende Impfdurchbrüche. \"Die Daten (...) zeigen, dass nach vier Monaten nach der zweiten Impfung gerade bei älteren Menschen die Immunität wieder abnimmmt\", sagte der Wissenschaftler. \"Die Kombination aus schwer erkrankten ungeimpften Menschen und geimpften Menschen, die bereitet diese große Welle, die wir so in dieser Vehemenz vielleicht nicht haben kommen sehen.\"",
+    "annotations": [
+      {
+        "start": 4,
+        "end": 10,
+        "text": "Leiter",
+        "labels": [
+          "PRF"
+        ]
+      },
+      {
+        "start": 32,
+        "end": 71,
+        "text": "Münchner Ludwig-Maximilians-Universität",
+        "labels": [
+          "ORG"
+        ]
+      },
+      {
+        "start": 231,
+        "end": 239,
+        "text": "Kepplers",
+        "labels": [
+          "PER"
+        ]
+      },
+      {
+        "start": 499,
+        "end": 514,
+        "text": "Wissenschaftler",
+        "labels": [
+          "PRF"
+        ]
+      }
+    ]
+  },
+  {
+    "data": "Das könnte auch an der niedrigen Impfquote in der Region liegen, die Gruber mit rund 57 Prozent angibt - deutlich unter dem bayerischen Durchschnitt von rund 66 Prozent. Der CSU-Politiker berichtete zwar von einem Ansturm auf Impfungen, doch handele es sich dabei vor allem um Auffrischungen und nicht um Erstimpfungen. \"Das ist durchaus noch arg ausbaufähig\", sagte Gruber.",
+    "annotations": [
+      {
+        "start": 69,
+        "end": 75,
+        "text": "Gruber",
+        "labels": [
+          "PER"
+        ]
+      },
+      {
+        "start": 174,
+        "end": 187,
+        "text": "CSU-Politiker",
+        "labels": [
+          "PRF"
+        ]
+      },
+      {
+        "start": 367,
+        "end": 373,
+        "text": "Gruber",
+        "labels": [
+          "PER"
+        ]
+      }
+    ]
+  },
+  {
+    "data": "Nein. Bis 2030 soll der sogenannte Deutschlandtakt verwirklicht werden, ein bundesweit abgestimmter Fahrplan, bei dem zwischen den großen Städten halbstündlich Züge fahren und Anschlusszüge in die Regionen erreicht werden. Sollte der Deutschlandtakt realisiert werden, werden die Verbindungen insgesamt besser, so manches Umsteigen wird entfallen. Das ist für die Deutsche Bahn allein schon eine riesige Herausforderung. Je mehr Ak­teu­r:in­nen eingebunden werden, desto schwieriger ist der Takt einzuhalten.",
+    "annotations": [
+      {
+        "start": 364,
+        "end": 377,
+        "text": "Deutsche Bahn",
+        "labels": [
+          "ORG"
+        ]
+      },
+      {
+        "start": 35,
+        "end": 50,
+        "text": "Deutschlandtakt",
+        "labels": [
+          "DOC"
+        ]
+      },
+      {
+        "start": 234,
+        "end": 249,
+        "text": "Deutschlandtakt",
+        "labels": [
+          "DOC"
+        ]
+      }
+    ]
+  },
+  {
+    "data": "13.09.2018, 06.01 Uhr",
+    "annotations": [
+      {
+        "start": 0,
+        "end": 10,
+        "text": "13.09.2018",
+        "labels": [
+          "DAT"
+        ]
+      },
+      {
+        "start": 12,
+        "end": 21,
+        "text": "06.01 Uhr",
+        "labels": [
+          "TIM"
+        ]
+      }
+    ]
+  },
+  {
+    "data": "Montag, 15. November, 6.23 Uhr: Die Sieben-Tage-Inzidenz in Bayern steigt weiter drastisch, am Montag verzeichnet das Robert-Koch-Institut einen Wert von 525,7. Vier Landkreise weisen eine Inzidenz von mehr als 1000 auf. An der Spitze der Liste steht noch immer der Landkreis Rottal-Inn mit einem Wert von 1262,7. 8629 neue Covid-Fälle sind in den vergangenen 24 Stunden gemeldet worden, 13 Menschen sind im gleichen Zeitraum an oder mit dem Coronavirus gestorben.",
+    "annotations": [
+      {
+        "start": 22,
+        "end": 30,
+        "text": "6.23 Uhr",
+        "labels": [
+          "TIM"
+        ]
+      },
+      {
+        "start": 60,
+        "end": 66,
+        "text": "Bayern",
+        "labels": [
+          "LOC"
+        ]
+      },
+      {
+        "start": 118,
+        "end": 138,
+        "text": "Robert-Koch-Institut",
+        "labels": [
+          "ORG"
+        ]
+      },
+      {
+        "start": 276,
+        "end": 286,
+        "text": "Rottal-Inn",
+        "labels": [
+          "LOC"
+        ]
+      },
+      {
+        "start": 0,
+        "end": 20,
+        "text": "Montag, 15. November",
+        "labels": [
+          "DAT"
+        ]
+      }
+    ]
+  },
+  {
+    "data": "rst seit Anfang September leitet Uwe Hochgeschurtz den Autobauer Opel. Gleichwohl hat er schon bewegte Tage hinter sich gebracht. Gleich an seinem ersten Arbeitstag konnte er den neuen Astra vorstellen. Ein besonders wichtiges Modell: Der Kompaktwagen steht wie der kleine Corsa für ein Viertel der Verkäufe der einzigen deutschen Tochterfirma des Stellantis-Konzerns. Dann aber zog er sich Ärger am Stammsitz Rüsselsheim zu. Denn entgegen früherer Aussagen will Opel den Werkzeugbau am Ort schließen. Und genügend Leute für das Produktionswerk in Südhessen sind auch noch nicht gefunden – und das wenige Wochen vor dem Start der Astra-Fertigung. Zwischendrin holte den neuen Chef rasch die Halbleiterkrise ein. Auch Stellantis fehlen Chips, die sich an vielen Stellen in Fahrzeugen wiederfinden. Aus diesem Grund setzt Opel bis mindestens Jahresende die Produktion in Eisenach aus. Insofern lässt Hochgeschurtz mit einem aktuellen Versprechen aufmerken.",
+    "annotations": [
+      {
+        "start": 65,
+        "end": 69,
+        "text": "Opel",
+        "labels": [
+          "ORG"
+        ]
+      },
+      {
+        "start": 33,
+        "end": 50,
+        "text": "Uwe Hochgeschurtz",
+        "labels": [
+          "PER"
+        ]
+      },
+      {
+        "start": 185,
+        "end": 190,
+        "text": "Astra",
+        "labels": [
+          "PRD"
+        ]
+      },
+      {
+        "start": 273,
+        "end": 278,
+        "text": "Corsa",
+        "labels": [
+          "PRD"
+        ]
+      },
+      {
+        "start": 410,
+        "end": 421,
+        "text": "Rüsselsheim",
+        "labels": [
+          "LOC"
+        ]
+      },
+      {
+        "start": 463,
+        "end": 467,
+        "text": "Opel",
+        "labels": [
+          "ORG"
+        ]
+      },
+      {
+        "start": 630,
+        "end": 645,
+        "text": "Astra-Fertigung",
+        "labels": [
+          "ORG"
+        ]
+      },
+      {
+        "start": 717,
+        "end": 727,
+        "text": "Stellantis",
+        "labels": [
+          "ORG"
+        ]
+      },
+      {
+        "start": 820,
+        "end": 824,
+        "text": "Opel",
+        "labels": [
+          "ORG"
+        ]
+      },
+      {
+        "start": 348,
+        "end": 358,
+        "text": "Stellantis",
+        "labels": [
+          "ORG"
+        ]
+      },
+      {
+        "start": 321,
+        "end": 330,
+        "text": "deutschen",
+        "labels": [
+          "NAT"
+        ]
+      },
+      {
+        "start": 548,
+        "end": 557,
+        "text": "Südhessen",
+        "labels": [
+          "LOC"
+        ]
+      },
+      {
+        "start": 676,
+        "end": 680,
+        "text": "Chef",
+        "labels": [
+          "PRF"
+        ]
+      }
+    ]
+  },
+  {
+    "data": "Die Portugiesin wies die Vorwürfe gegenüber dem niederländischen Sender RTL zurück und beklagte, sie und ihr Partner seien »wie Hunde behandelt worden«. Vor ihrer Abreise aus Südafrika seien sie beide negativ auf das Coronavirus getestet worden. Bei ihrem Zwischenstopp in den Niederlanden sei ihr eigener Test dann positiv ausgefallen, berichtete sie.",
+    "annotations": [
+      {
+        "start": 4,
+        "end": 15,
+        "text": "Portugiesin",
+        "labels": [
+          "NAT"
+        ]
+      },
+      {
+        "start": 72,
+        "end": 75,
+        "text": "RTL",
+        "labels": [
+          "ORG"
+        ]
+      },
+      {
+        "start": 175,
+        "end": 184,
+        "text": "Südafrika",
+        "labels": [
+          "LOC"
+        ]
+      },
+      {
+        "start": 277,
+        "end": 289,
+        "text": "Niederlanden",
+        "labels": [
+          "LOC"
+        ]
+      }
+    ]
+  },
+  {
+    "data": "11:08 Uhr",
+    "annotations": [
+      {
+        "start": 0,
+        "end": 9,
+        "text": "11:08 Uhr",
+        "labels": [
+          "TIM"
+        ]
+      }
+    ]
+  },
+  {
+    "data": "Grüne und FDP wollen bei der Bahn mehr Wettbewerb ermöglichen. Was hieße das für die Kund:innen? Die wichtigsten Fragen und Antworten.",
+    "annotations": [
+      {
+        "start": 0,
+        "end": 5,
+        "text": "Grüne",
+        "labels": [
+          "ORG"
+        ]
+      },
+      {
+        "start": 10,
+        "end": 13,
+        "text": "FDP",
+        "labels": [
+          "ORG"
+        ]
+      }
+    ]
+  },
+  {
+    "data": "„Am considering taking Tesla private at $420. Funding secured,“ twitterte Elon Musk am 7. August 2018 um 18:46 Ortszeit. Dieser Tweet brachte dem Unternehmen viel Ärger und unter anderem eine Ermittlung der US-Börsenaufsicht SEC ein. Im Anschluss verklagt nun JPMorgan den Autohersteller. Dabei geht es um Optionsscheine und einen Aktienvertrag der Bank, die viel Geld gekostet haben, berichtet Reuters.",
+    "annotations": [
+      {
+        "start": 23,
+        "end": 28,
+        "text": "Tesla",
+        "labels": [
+          "ORG"
+        ]
+      },
+      {
+        "start": 74,
+        "end": 83,
+        "text": "Elon Musk",
+        "labels": [
+          "PER"
+        ]
+      },
+      {
+        "start": 87,
+        "end": 101,
+        "text": "7. August 2018",
+        "labels": [
+          "DAT"
+        ]
+      },
+      {
+        "start": 207,
+        "end": 228,
+        "text": "US-Börsenaufsicht SEC",
+        "labels": [
+          "ORG"
+        ]
+      },
+      {
+        "start": 260,
+        "end": 268,
+        "text": "JPMorgan",
+        "labels": [
+          "ORG"
+        ]
+      },
+      {
+        "start": 395,
+        "end": 402,
+        "text": "Reuters",
+        "labels": [
+          "ORG"
+        ]
+      },
+      {
+        "start": 105,
+        "end": 119,
+        "text": "8:46 Ortszeit",
+        "labels": [
+          "TIM"
+        ]
+      }
+    ]
+  },
+  {
+    "data": "VON SEBASTIAN JENTSCH",
+    "annotations": [
+      {
+        "start": 4,
+        "end": 21,
+        "text": "SEBASTIAN JENTSCH",
+        "labels": [
+          "PER"
+        ]
+      }
+    ]
+  },
+  {
+    "data": "Wie der Analyst in einem Blogbeitrag schreibt, habe Google beschlossen, das Pixel Fold weder in 2021 noch in der ersten Hälfte 2022 auf den Markt zu bringen. Ross’ Quellen deuten darauf hin, dass Google glaubt, dass das Foldable in den USA und Europa keine Chance gegen ein Galaxy Z Flip 3 (Test) oder Z Fold 3 hätte. In China sei zudem mit „vielen konkurrierenden Produkten mit ähnlichen Formfaktoren von Oppo, Vivo, Xiaomi, Huawei und Honor zu rechnen“, erklärt Ross weiter.",
+    "annotations": [
+      {
+        "start": 8,
+        "end": 15,
+        "text": "Analyst",
+        "labels": [
+          "PRF"
+        ]
+      },
+      {
+        "start": 52,
+        "end": 58,
+        "text": "Google",
+        "labels": [
+          "ORG"
+        ]
+      },
+      {
+        "start": 76,
+        "end": 86,
+        "text": "Pixel Fold",
+        "labels": [
+          "PRD"
+        ]
+      },
+      {
+        "start": 158,
+        "end": 162,
+        "text": "Ross",
+        "labels": [
+          "PER"
+        ]
+      },
+      {
+        "start": 196,
+        "end": 202,
+        "text": "Google",
+        "labels": [
+          "ORG"
+        ]
+      },
+      {
+        "start": 236,
+        "end": 239,
+        "text": "USA",
+        "labels": [
+          "LOC"
+        ]
+      },
+      {
+        "start": 244,
+        "end": 250,
+        "text": "Europa",
+        "labels": [
+          "LOC"
+        ]
+      },
+      {
+        "start": 274,
+        "end": 289,
+        "text": "Galaxy Z Flip 3",
+        "labels": [
+          "PRD"
+        ]
+      },
+      {
+        "start": 302,
+        "end": 310,
+        "text": "Z Fold 3",
+        "labels": [
+          "PRD"
+        ]
+      },
+      {
+        "start": 321,
+        "end": 326,
+        "text": "China",
+        "labels": [
+          "LOC"
+        ]
+      },
+      {
+        "start": 406,
+        "end": 410,
+        "text": "Oppo",
+        "labels": [
+          "ORG"
+        ]
+      },
+      {
+        "start": 412,
+        "end": 416,
+        "text": "Vivo",
+        "labels": [
+          "ORG"
+        ]
+      },
+      {
+        "start": 418,
+        "end": 424,
+        "text": "Xiaomi",
+        "labels": [
+          "ORG"
+        ]
+      },
+      {
+        "start": 426,
+        "end": 432,
+        "text": "Huawei",
+        "labels": [
+          "ORG"
+        ]
+      },
+      {
+        "start": 464,
+        "end": 468,
+        "text": "Ross",
+        "labels": [
+          "PER"
+        ]
+      },
+      {
+        "start": 437,
+        "end": 442,
+        "text": "Honor",
+        "labels": [
+          "ORG"
+        ]
+      }
+    ]
+  },
+  {
+    "data": "Im April wurden mit der sogenannten Bundesnotbremse bundesweit einheitliche Maßstäbe geschaffen. Ab einem längeren Inzidenzwert von 100 Neuinfektionen pro 100.000 Einwohner galten deutlich schärfere Maßnahmen: etwa Kontaktbeschränkungen, und - besonders umstritten - eine nächtliche Ausgangssperre. Diese galt von 22 bis 5 Uhr.",
+    "annotations": [
+      {
+        "start": 36,
+        "end": 51,
+        "text": "Bundesnotbremse",
+        "labels": [
+          "EVN"
+        ]
+      },
+      {
+        "start": 314,
+        "end": 326,
+        "text": "22 bis 5 Uhr",
+        "labels": [
+          "TIM"
+        ]
+      }
+    ]
+  },
+  {
+    "data": "Bereits im ersten Wahlgang erhielt sie die Mehrheit. Allerdings haben nicht alle Abgeordneten der neuen rot-roten Koalition in Mecklenburg-Vorpommern für sie gestimmt.",
+    "annotations": [
+      {
+        "start": 104,
+        "end": 123,
+        "text": "rot-roten Koalition",
+        "labels": [
+          "ORG"
+        ]
+      },
+      {
+        "start": 127,
+        "end": 149,
+        "text": "Mecklenburg-Vorpommern",
+        "labels": [
+          "LOC"
+        ]
+      }
+    ]
+  },
+  {
+    "data": "Sonntag, 14. November, 14:45 Uhr: Angesichts dramatisch steigender Infektionszahlen und der schwierigen Lage auf den Intensivstationen verschärft die bayerische Landesregierung die Corona-Maßnahmen. \"So ernst wie jetzt war es noch nie\", sagte Bayerns Gesundheitsminister Klaus Holetschek (CSU) in München.",
+    "annotations": [
+      {
+        "start": 23,
+        "end": 32,
+        "text": "14:45 Uhr",
+        "labels": [
+          "TIM"
+        ]
+      },
+      {
+        "start": 243,
+        "end": 250,
+        "text": "Bayerns",
+        "labels": [
+          "LOC"
+        ]
+      },
+      {
+        "start": 251,
+        "end": 270,
+        "text": "Gesundheitsminister",
+        "labels": [
+          "PRF"
+        ]
+      },
+      {
+        "start": 271,
+        "end": 287,
+        "text": "Klaus Holetschek",
+        "labels": [
+          "PER"
+        ]
+      },
+      {
+        "start": 289,
+        "end": 292,
+        "text": "CSU",
+        "labels": [
+          "ORG"
+        ]
+      },
+      {
+        "start": 297,
+        "end": 304,
+        "text": "München",
+        "labels": [
+          "LOC"
+        ]
+      },
+      {
+        "start": 0,
+        "end": 21,
+        "text": "Sonntag, 14. November",
+        "labels": [
+          "DAT"
+        ]
+      },
+      {
+        "start": 150,
+        "end": 176,
+        "text": "bayerische Landesregierung",
+        "labels": [
+          "ORG"
+        ]
+      }
+    ]
+  },
+  {
+    "data": "Altmaier will zudem bis 2050 für jedes Jahr einen bestimmten Anteil des Bruttoinlandsprodukts für den Klimaschutz festlegen. Damit würde der Klimaschutz zu einem festen Haushaltsposten, so wie etwa der Rüstungshaushalt. Wie hoch die Ausgaben sein sollen, ist unklar. Ziel aber ist, die nötigen Investitionen möglichst stabil einzupreisen.",
+    "annotations": [
+      {
+        "start": 0,
+        "end": 8,
+        "text": "Altmaier",
+        "labels": [
+          "PER"
+        ]
+      }
+    ]
+  },
+  {
+    "data": "Dafür fordert der D8000 Pro mehr Aufmerksamkeit vom Hörer. Er ist eine ehrliche Haut. Beschönigen ist nicht so sein Ding. Er versucht Musik so wiederzugeben, wie sie aufgenommen wurde. Ganz neutral ist er nicht. Er drückt mehr auf den Bass als der Peacock, und den Höhen verleiht er einen zarten Glanz. Sein stolzer Blick ist immer nach vorne gerichtet. Dabei hat er eine direkte Art. Das macht ihn als wahrhaftigen Freund mitunter etwas anstrengend, auch weil er bei schlecht produzierten Alben die Schwächen schonungslos offenlegt. Dafür ist jeder Gang ein besonderes Ereignis.",
+    "annotations": [
+      {
+        "start": 18,
+        "end": 27,
+        "text": "D8000 Pro",
+        "labels": [
+          "PRD"
+        ]
+      },
+      {
+        "start": 248,
+        "end": 255,
+        "text": "Peacock",
+        "labels": [
+          "PRD"
+        ]
+      }
+    ]
+  },
+  {
+    "data": "Moderna-Chef befürchtet schlechte Wirksamkeit von Vakzin gegen Omikron-Variante",
+    "annotations": [
+      {
+        "start": 0,
+        "end": 7,
+        "text": "Moderna",
+        "labels": [
+          "ORG"
+        ]
+      },
+      {
+        "start": 8,
+        "end": 12,
+        "text": "Chef",
+        "labels": [
+          "PRF"
+        ]
+      }
+    ]
+  },
+  {
+    "data": "Mittwoch, 17. November, 11.10 Uhr: Für minderjährige Schülerinnen und Schüler, die regelmäßig in der Schule auf Corona getestet werden, gilt in Bayerns Gastronomie, in Hotels und Ferienwohnungen ab sofort eine Ausnahme von der 2-G-Regel. Zwölf- bis 17-Jährige dürfen damit bis auf Weiteres auch dann Gaststätten und Hotels besuchen, wenn sie nicht geimpft oder genesen sind. Das geht aus einer Änderungsverordnung des Gesundheitsministeriums hervor, die am Mittwoch in Kraft trat.",
+    "annotations": [
+      {
+        "start": 24,
+        "end": 33,
+        "text": "11.10 Uhr",
+        "labels": [
+          "TIM"
+        ]
+      },
+      {
+        "start": 53,
+        "end": 65,
+        "text": "Schülerinnen",
+        "labels": [
+          "PRF"
+        ]
+      },
+      {
+        "start": 70,
+        "end": 77,
+        "text": "Schüler",
+        "labels": [
+          "PRF"
+        ]
+      },
+      {
+        "start": 144,
+        "end": 151,
+        "text": "Bayerns",
+        "labels": [
+          "LOC"
+        ]
+      },
+      {
+        "start": 227,
+        "end": 230,
+        "text": "2-G",
+        "labels": [
+          "DOC"
+        ]
+      },
+      {
+        "start": 0,
+        "end": 22,
+        "text": "Mittwoch, 17. November",
+        "labels": [
+          "DAT"
+        ]
+      },
+      {
+        "start": 418,
+        "end": 441,
+        "text": "Gesundheitsministeriums",
+        "labels": [
+          "LOC"
+        ]
+      }
+    ]
+  },
+  {
+    "data": "Bereits am Donnerstagabend hatte Ministerpräsident Markus Söder (CSU) nach einer Konferenz der Regierungschefinnen und -chefs von Bund und Ländern einen \"de-facto-Lockdown\" für Ungeimpfte in Bayern angekündigt. Er wolle den Beschlüssen des Kabinetts vom Freitagmorgen nicht vorgreifen, aber darauf laufe es hinaus, sagte Söder. Er betonte, es brauche nun einen \"echten Wellenbrecher\" und \"keine homöopathischen Dosen\" mehr im Kampf gegen die Corona-Pandemie. Die bayerische Staatsregierung werde versuchen \"alles auszuschöpfen\", was rechtlich möglich ist, betonte Söder.",
+    "annotations": [
+      {
+        "start": 33,
+        "end": 50,
+        "text": "Ministerpräsident",
+        "labels": [
+          "PRF"
+        ]
+      },
+      {
+        "start": 51,
+        "end": 63,
+        "text": "Markus Söder",
+        "labels": [
+          "PER"
+        ]
+      },
+      {
+        "start": 65,
+        "end": 68,
+        "text": "CSU",
+        "labels": [
+          "ORG"
+        ]
+      },
+      {
+        "start": 95,
+        "end": 114,
+        "text": "Regierungschefinnen",
+        "labels": [
+          "PRF"
+        ]
+      },
+      {
+        "start": 120,
+        "end": 125,
+        "text": "chefs",
+        "labels": [
+          "PRF"
+        ]
+      },
+      {
+        "start": 191,
+        "end": 197,
+        "text": "Bayern",
+        "labels": [
+          "LOC"
+        ]
+      },
+      {
+        "start": 321,
+        "end": 326,
+        "text": "Söder",
+        "labels": [
+          "PER"
+        ]
+      },
+      {
+        "start": 564,
+        "end": 569,
+        "text": "Söder",
+        "labels": [
+          "PER"
+        ]
+      },
+      {
+        "start": 463,
+        "end": 489,
+        "text": "bayerische Staatsregierung",
+        "labels": [
+          "ORG"
+        ]
+      }
+    ]
+  },
+  {
+    "data": "Bayerns Intensivstationen vor neuem Corona-Höchststand",
+    "annotations": [
+      {
+        "start": 0,
+        "end": 7,
+        "text": "Bayerns",
+        "labels": [
+          "LOC"
+        ]
+      }
+    ]
+  },
+  {
+    "data": "Auch bei den 16- bis 19-Jährigen ist die Inzidenz mit 777 deutlich überdurchschnittlich. Bei Kindern unter fünf und Erwachsenen über 60 sind die Werte dagegen deutlich unterdurchschnittlich. Über alle Altersgruppen hinweg meldete das LGL am Montag einen Wert von 530,4 - die leichte Abweichung zur vom Robert-Koch-Institut (RKI) gemeldeten Inzidenz von 525,7 ergibt sich durch unterschiedliche Stichzeitpunkte.",
+    "annotations": [
+      {
+        "start": 234,
+        "end": 237,
+        "text": "LGL",
+        "labels": [
+          "ORG"
+        ]
+      },
+      {
+        "start": 302,
+        "end": 328,
+        "text": "Robert-Koch-Institut (RKI)",
+        "labels": [
+          "ORG"
+        ]
+      }
+    ]
+  },
+  {
+    "data": "Eigentlich ist HIV mittlerweile so gut behandelbar, dass sich das Virus im Körper nicht mehr nachweisen lässt und kaum Schaden anrichtet. In Südafrika jedoch leben viele Menschen mit einer fortgeschrittenen HIV-Erkrankung, die keinen Zugang zu einer effizienten Therapie haben. Das macht es wahrscheinlicher, dass ein solcher Fall in dem Land passiert sein könnte. Hinzu kommt, dass Südafrika eine verheerende Welle mit der Delta-Variante erlebt hat.",
+    "annotations": [
+      {
+        "start": 141,
+        "end": 150,
+        "text": "Südafrika",
+        "labels": [
+          "LOC"
+        ]
+      },
+      {
+        "start": 383,
+        "end": 392,
+        "text": "Südafrika",
+        "labels": [
+          "LOC"
+        ]
+      }
+    ]
+  },
+  {
+    "data": "Die \"Bundesnotbremse\" zur Eindämmung der Corona-Pandemie war nach einer Entscheidung des Bundesverfassungsgerichts kein unzulässiger Eingriff in die Grundrechte. Ausgangs- und Kontaktbeschränkungen hätten \"in der Gesamtheit dem Lebens- und Gesundheitsschutz“ sowie der Aufrechterhaltung des Gesundheitssystems gedient, erklärten die Karlsruher Richter. Der Bund durfte demnach auch Wechselunterricht und Schulschließungen anordnen. Das Gericht wies Klagen von Schülern und Eltern dagegen ab, erkannte aber erstmals ein \"Recht der Kinder und Jugendlichen gegenüber dem Staat auf schulische Bildung\" an.",
+    "annotations": [
+      {
+        "start": 5,
+        "end": 20,
+        "text": "Bundesnotbremse",
+        "labels": [
+          "EVN"
+        ]
+      },
+      {
+        "start": 89,
+        "end": 114,
+        "text": "Bundesverfassungsgerichts",
+        "labels": [
+          "ORG"
+        ]
+      },
+      {
+        "start": 344,
+        "end": 351,
+        "text": "Richter",
+        "labels": [
+          "PRF"
+        ]
+      },
+      {
+        "start": 460,
+        "end": 468,
+        "text": "Schülern",
+        "labels": [
+          "PRF"
+        ]
+      }
+    ]
+  },
+  {
+    "data": "LAND ROVER DISCOVERY PHEV:",
+    "annotations": [
+      {
+        "start": 0,
+        "end": 25,
+        "text": "LAND ROVER DISCOVERY PHEV",
+        "labels": [
+          "PRD"
+        ]
+      }
+    ]
+  },
+  {
+    "data": "München",
+    "annotations": [
+      {
+        "start": 0,
+        "end": 7,
+        "text": "München",
+        "labels": [
+          "LOC"
+        ]
+      }
+    ]
+  },
+  {
+    "data": "Robert Lewandowski ist amtierender Weltfußballer, Lionel Messi gewinnt den \"Ballon d'Or\" - aber wer ist nun der beste Fußballer des Planeten?",
+    "annotations": [
+      {
+        "start": 0,
+        "end": 18,
+        "text": "Robert Lewandowski",
+        "labels": [
+          "PER"
+        ]
+      },
+      {
+        "start": 35,
+        "end": 48,
+        "text": "Weltfußballer",
+        "labels": [
+          "PRF"
+        ]
+      },
+      {
+        "start": 50,
+        "end": 62,
+        "text": "Lionel Messi",
+        "labels": [
+          "PER"
+        ]
+      },
+      {
+        "start": 76,
+        "end": 87,
+        "text": "Ballon d'Or",
+        "labels": [
+          "EVN"
+        ]
+      },
+      {
+        "start": 118,
+        "end": 127,
+        "text": "Fußballer",
+        "labels": [
+          "PRF"
+        ]
+      }
+    ]
+  },
+  {
+    "data": "Coronavirus-Newsblog für Bayern",
+    "annotations": [
+      {
+        "start": 25,
+        "end": 31,
+        "text": "Bayern",
+        "labels": [
+          "LOC"
+        ]
+      }
+    ]
+  },
+  {
+    "data": "Nach dem Ende des Zweiten Weltkriegs wurde Deutschland unter den Siegermächten aufgeteilt: Den westlichen Teil besetzten die USA, Großbritannien und Frankreich und den östlichen die Sowjetunion. Schon bald entwickelten sich zwischen den demokratischen Westmächten und der kommunistischen Sowjetunion unüberbrückbare Interessenkonflikte. Spätestens ab dem Jahr 1949, in dem sowohl die Bundesrepublik Deutschland als auch die Deutsche Demokratische Republik gegründet wurden, hatte sich die politische Systemgrenze verfestigt: Quer durch Mitteleuropa zog sich der so genannte Eiserne Vorhang. Hier standen sich die Armeen des Warschauer Paktes und der NATO gegenüber",
+    "annotations": [
+      {
+        "start": 18,
+        "end": 36,
+        "text": "Zweiten Weltkriegs",
+        "labels": [
+          "EVN"
+        ]
+      },
+      {
+        "start": 43,
+        "end": 54,
+        "text": "Deutschland",
+        "labels": [
+          "LOC"
+        ]
+      },
+      {
+        "start": 125,
+        "end": 128,
+        "text": "USA",
+        "labels": [
+          "LOC"
+        ]
+      },
+      {
+        "start": 130,
+        "end": 144,
+        "text": "Großbritannien",
+        "labels": [
+          "LOC"
+        ]
+      },
+      {
+        "start": 149,
+        "end": 159,
+        "text": "Frankreich",
+        "labels": [
+          "LOC"
+        ]
+      },
+      {
+        "start": 182,
+        "end": 193,
+        "text": "Sowjetunion",
+        "labels": [
+          "LOC"
+        ]
+      },
+      {
+        "start": 288,
+        "end": 299,
+        "text": "Sowjetunion",
+        "labels": [
+          "LOC"
+        ]
+      },
+      {
+        "start": 536,
+        "end": 548,
+        "text": "Mitteleuropa",
+        "labels": [
+          "LOC"
+        ]
+      },
+      {
+        "start": 624,
+        "end": 641,
+        "text": "Warschauer Paktes",
+        "labels": [
+          "ORG"
+        ]
+      },
+      {
+        "start": 650,
+        "end": 654,
+        "text": "NATO",
+        "labels": [
+          "ORG"
+        ]
+      },
+      {
+        "start": 384,
+        "end": 410,
+        "text": "Bundesrepublik Deutschland",
+        "labels": [
+          "LOC"
+        ]
+      },
+      {
+        "start": 424,
+        "end": 455,
+        "text": "Deutsche Demokratische Republik",
+        "labels": [
+          "LOC"
+        ]
+      }
+    ]
+  },
+  {
+    "data": "Städte enttäuscht über Weihnachtsmarkt-Absagen",
+    "annotations": [
+      {
+        "start": 23,
+        "end": 38,
+        "text": "Weihnachtsmarkt",
+        "labels": [
+          "EVN"
+        ]
+      }
+    ]
+  },
+  {
+    "data": "09:04 Uhr",
+    "annotations": [
+      {
+        "start": 0,
+        "end": 9,
+        "text": "09:04 Uhr",
+        "labels": [
+          "TIM"
+        ]
+      }
+    ]
+  },
+  {
+    "data": "Am Ende dieses selbst für Hertha-BSC-Verhältnisse erstaunlichen Tages sagte Tayfun Korkut zwei Sätze, die das Unterfangen mit ihm als neuen Cheftrainer nicht mehr ganz so wunderlich erscheinen lassen.",
+    "annotations": [
+      {
+        "start": 26,
+        "end": 36,
+        "text": "Hertha-BSC",
+        "labels": [
+          "ORG"
+        ]
+      },
+      {
+        "start": 76,
+        "end": 89,
+        "text": "Tayfun Korkut",
+        "labels": [
+          "PER"
+        ]
+      },
+      {
+        "start": 140,
+        "end": 151,
+        "text": "Cheftrainer",
+        "labels": [
+          "PRF"
+        ]
+      }
+    ]
+  },
+  {
+    "data": "Jetzt ist es ähnlich. Diesmal ergreift Autodesigner Frank Stephenson, der unter anderem für Ford, BMW, Mini, Ferrari und Fiat arbeitete, auf seinem YouTube-Kanal das Wort: »Der Grill sieht aus, als hätten die Designer gar nicht gewusst, dass sie die Nieren für einen neuen BMW entwerfen. Die Proportionen passen überhaupt nicht zum Rest des Autos. Es sieht fast aus, als käme der Grill gar nicht von BMW, sondern von irgendwem anders.«",
+    "annotations": [
+      {
+        "start": 39,
+        "end": 51,
+        "text": "Autodesigner",
+        "labels": [
+          "PRF"
+        ]
+      },
+      {
+        "start": 52,
+        "end": 68,
+        "text": "Frank Stephenson",
+        "labels": [
+          "PER"
+        ]
+      },
+      {
+        "start": 98,
+        "end": 101,
+        "text": "BMW",
+        "labels": [
+          "ORG"
+        ]
+      },
+      {
+        "start": 103,
+        "end": 107,
+        "text": "Mini",
+        "labels": [
+          "ORG"
+        ]
+      },
+      {
+        "start": 109,
+        "end": 116,
+        "text": "Ferrari",
+        "labels": [
+          "ORG"
+        ]
+      },
+      {
+        "start": 121,
+        "end": 125,
+        "text": "Fiat",
+        "labels": [
+          "ORG"
+        ]
+      },
+      {
+        "start": 148,
+        "end": 155,
+        "text": "YouTube",
+        "labels": [
+          "ORG"
+        ]
+      },
+      {
+        "start": 273,
+        "end": 276,
+        "text": "BMW",
+        "labels": [
+          "ORG"
+        ]
+      },
+      {
+        "start": 400,
+        "end": 403,
+        "text": "BMW",
+        "labels": [
+          "ORG"
+        ]
+      }
+    ]
+  },
+  {
+    "data": "Mittwoch, 17. November, 13.47 Uhr: Die Rottal-Inn Kliniken haben wegen der sich verschärfenden Corona-Lage 23 Patienten in nordbayerische Krankenhäuser verlegt. Unter den Betroffenen seien vier Intensivpatienten gewesen, gab das Klinikum auf seinen Social-Media-Kanälen bekannt. Die Verlegung habe bereits vergangenen Freitag stattgefunden. Die Rottal-Inn Kliniken begründete den Schritt damit, dass die Versorgungsmöglichkeit für Covid-19-Patienten angesichts steigender Infektionszahlen an ihre Grenze gestoßen sei.",
+    "annotations": [
+      {
+        "start": 24,
+        "end": 33,
+        "text": "13.47 Uhr",
+        "labels": [
+          "TIM"
+        ]
+      },
+      {
+        "start": 345,
+        "end": 355,
+        "text": "Rottal-Inn",
+        "labels": [
+          "LOC"
+        ]
+      },
+      {
+        "start": 0,
+        "end": 22,
+        "text": "Mittwoch, 17. November",
+        "labels": [
+          "DAT"
+        ]
+      },
+      {
+        "start": 39,
+        "end": 49,
+        "text": "Rottal-Inn",
+        "labels": [
+          "LOC"
+        ]
+      }
+    ]
+  },
+  {
+    "data": "Montag, 15. November, 14.31 Uhr: Die Corona-Zahlen bei Kindern und Jugendlichen sind eine Woche nach den Herbstferien sprunghaft angestiegen. In der Altersgruppe der Sechs- bis Elfjährigen hat die Inzidenz die Marke von 1000 überschritten und liegt nun bei 1073, wie aus Zahlen des Landesamts für Gesundheit und Lebensmittelsicherheit (LGL) vom Montag für die Kalenderwoche 45 hervorgeht. Bei den Zwölf- bis 15-Jährigen beträgt sie 979. Beides sind in etwa Verdoppelungen im Vergleich zu den Werten der Vorwoche.",
+    "annotations": [
+      {
+        "start": 22,
+        "end": 31,
+        "text": "14.31 Uhr",
+        "labels": [
+          "TIM"
+        ]
+      },
+      {
+        "start": 105,
+        "end": 117,
+        "text": "Herbstferien",
+        "labels": [
+          "DAT"
+        ]
+      },
+      {
+        "start": 282,
+        "end": 340,
+        "text": "Landesamts für Gesundheit und Lebensmittelsicherheit (LGL)",
+        "labels": [
+          "ORG"
+        ]
+      },
+      {
+        "start": 0,
+        "end": 20,
+        "text": "Montag, 15. November",
+        "labels": [
+          "DAT"
+        ]
+      }
+    ]
+  }
+]
