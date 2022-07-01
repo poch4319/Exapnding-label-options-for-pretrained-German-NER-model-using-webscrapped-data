@@ -1,7 +1,7 @@
 
 # Exapnding label options for pretrained German NER model using webscrapped data
-Below is a brief run through of my approach and thoughts toward the three tasks.
-I think I would be able to explain things much more clearly and answer all the questions through meetings.
+Below is a brief run through of my approach and thoughts toward the three sub tasks.
+
 ### Task 1 Fine-tune SpaCy german NER model for political domain data
 I decided to split the train and test data with 8:2 ratio.
 The problem is that the occurences for each entity type is extremely imbalanced as shown below.
